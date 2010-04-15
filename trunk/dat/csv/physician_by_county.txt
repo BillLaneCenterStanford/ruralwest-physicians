@@ -1,0 +1,318 @@
+fips	county	#phys	#pop	state
+04027	yuma	10	2900	arizona
+04021	pinal	5	1553	arizona
+04013	maricopa	59	14881	arizona
+04015	mohave	5	1206	arizona
+04007	gila	16	13905	arizona
+04023	santa cruz	11	2023	arizona
+04003	cochise	49	23216	arizona
+04005	coconino	11	3169	arizona
+04019	pima	23	17862	arizona
+04001	apache	4	522	arizona
+04017	navajo	8	2055	arizona
+04009	graham	14	9675	arizona
+04025	yavapai	25	8881	arizona
+08111	san juan	7	2300	colorado
+08113	san miguel	9	2634	colorado
+08011	bent	6	2568	colorado
+08099	prowers	14	3704	colorado
+08097	pitkin	9	2750	colorado
+08047	gilpin	6	4464	colorado
+08121	washington	2	800	colorado
+08065	lake	13	14229	colorado
+08031	denver	717	155639	colorado
+08075	logan	12	3065	colorado
+08055	huerfano	15	2102	colorado
+08069	larimer	50	15913	colorado
+08089	otero	37	13089	colorado
+08115	sedgwick	5	411	colorado
+08079	mineral	2	1250	colorado
+08015	chaffee	16	4793	colorado
+08039	elbert	5	561	colorado
+08103	rio blanco	3	507	colorado
+08009	baca	1	10	colorado
+08033	dolores	2	831	colorado
+08035	douglas	3	389	colorado
+08063	kit carson	7	457	colorado
+08095	phillips	4	751	colorado
+08057	jackson	1	141	colorado
+08059	jefferson	17	3406	colorado
+08017	cheyenne	1	179	colorado
+08051	gunnison	9	2657	colorado
+08019	clear creek	10	6223	colorado
+08013	boulder	74	17859	colorado
+08037	eagle	5	575	colorado
+08027	custer	3	265	colorado
+08043	fremont	40	10347	colorado
+08049	grand	5	606	colorado
+08093	park	3	1016	colorado
+08109	saguache	7	1239	colorado
+08007	archuleta	3	367	colorado
+08023	costilla	4	1128	colorado
+08029	delta	30	1278	colorado
+08021	conejos	13	2986	colorado
+08005	arapahoe	11	1663	colorado
+08077	mesa	43	14081	colorado
+08091	ouray	10	3641	colorado
+08119	teller	20	18055	colorado
+08001	adams	3	1500	colorado
+08101	pueblo	84	32362	colorado
+08073	lincoln	6	420	colorado
+08123	weld	68	6357	colorado
+08067	la plata	17	3502	colorado
+08083	montezuma	7	1291	colorado
+08085	montrose	21	1467	colorado
+08125	yuma	5	1750	colorado
+08045	garfield	19	3731	colorado
+08105	rio grande	11	2505	colorado
+08041	el paso	154	38276	colorado
+08061	kiowa	2	85	colorado
+08117	summit	5	1266	colorado
+08087	morgan	19	3700	colorado
+08053	hinsdale	1	700	colorado
+08071	las animas	35	9184	colorado
+08107	routt	13	674	colorado
+53055	san juan	7	682	washington
+53065	stevens	25	5209	washington
+53041	lewis	26	5350	washington
+53049	pacific	11	1995	washington
+53023	garfield	5	953	washington
+53007	chelan	16	4615	washington
+53045	mason	3	883	washington
+53003	asotin	6	3625	washington
+53061	snohomish	49	31226	washington
+53025	grant	6	1400	washington
+53017	douglas	5	1250	washington
+53037	kittitas	18	10784	washington
+53031	jefferson	13	3643	washington
+53073	whatcom	50	28394	washington
+53015	cowlitz	9	2851	washington
+53013	columbia	9	2815	washington
+53067	thurston	14	6726	washington
+53077	yakima	48	4717	washington
+53053	pierce	148	96002	washington
+53059	skamania	1	350	washington
+53047	okanogan	13	1778	washington
+53035	kitsap	16	4821	washington
+53009	clallam	9	2794	washington
+53001	adams	10	3100	washington
+53033	king	474	207471	washington
+53043	lincoln	33	9550	washington
+53063	spokane	223	41602	washington
+53075	whitman	58	15277	washington
+53071	walla walla	38	16689	washington
+53039	klickitat	8	1397	washington
+53005	benton	11	3100	washington
+53021	franklin	4	2400	washington
+53029	island	4	132	washington
+53057	skagit	26	10640	washington
+56001	albany	15	7238	wyoming
+56033	sheridan	25	6096	wyoming
+56037	sweetwater	13	7926	wyoming
+56025	natrona	6	883	wyoming
+56019	johnson	5	710	wyoming
+56013	fremont	22	3026	wyoming
+56009	converse	10	2080	wyoming
+56029	park	9	1280	wyoming
+56021	laramie	37	14675	wyoming
+56045	weston	5	1246	wyoming
+56011	crook	9	483	wyoming
+56041	uinta	15	4590	wyoming
+56007	carbon	14	6033	wyoming
+49053	washington	3	1600	utah
+49017	garfield	1	883	utah
+49001	beaver	5	2450	utah
+49023	juab	10	8493	utah
+49027	millard	1	0	utah
+49005	cache	12	9621	utah
+49033	rich	2	750	utah
+49019	grand	1	269	utah
+49057	weber	38	18587	utah
+49021	iron	2	1425	utah
+49045	tooele	5	4009	utah
+49041	sevier	10	4723	utah
+49035	salt lake	188	68580	utah
+49039	sanpete	11	10038	utah
+49007	carbon	9	1993	utah
+49049	utah	28	24904	utah
+49051	wasatch	1	1534	utah
+49031	piute	1	170	utah
+49015	emery	2	809	utah
+49043	summit	5	4798	utah
+49029	morgan	3	900	utah
+49011	davis	7	5546	utah
+41021	gilliam	5	1235	oregon
+41025	harney	3	750	oregon
+41033	josephine	10	2290	oregon
+41067	washington	21	3358	oregon
+41037	lake	4	861	oregon
+41057	tillamook	4	1037	oregon
+41047	marion	55	18862	oregon
+41027	hood river	11	2611	oregon
+41053	polk	8	2786	oregon
+41055	sherman	7	1335	oregon
+41029	jackson	23	9772	oregon
+41023	grant	6	1190	oregon
+41061	union	24	6138	oregon
+41071	yamhill	20	4425	oregon
+41019	douglas	18	4846	oregon
+41035	klamath	9	734	oregon
+41065	wasco	17	4732	oregon
+41011	coos	24	6700	oregon
+41051	multnomah	337	170562	oregon
+41069	wheeler	3	560	oregon
+41009	columbia	7	2509	oregon
+41005	clackamas	15	5007	oregon
+41041	lincoln	4	1700	oregon
+41043	linn	19	9040	oregon
+41039	lane	39	5868	oregon
+41063	wallowa	11	1509	oregon
+41013	crook	6	1700	oregon
+41001	baker	25	11756	oregon
+41007	clatsop	14	10330	oregon
+41003	benton	7	2661	oregon
+41049	morrow	4	1523	oregon
+41045	malheur	7	2000	oregon
+41059	umatilla	28	11830	oregon
+30057	madison	10	2512	montana
+30001	beaverhead	8	2230	montana
+30087	rosebud	6	1256	montana
+30021	dawson	9	1500	montana
+30031	gallatin	16	7500	montana
+30049	lewis and clark	28	19520	montana
+30059	meagher	5	1046	montana
+30007	broadwater	4	500	montana
+30043	jefferson	11	2561	montana
+30039	granite	2	995	montana
+30105	valley	12	1975	montana
+30077	powell	5	1524	montana
+30089	sanders	4	979	montana
+30017	custer	9	2013	montana
+30067	park	14	3323	montana
+30015	chouteau	12	2667	montana
+30111	yellowstone	26	11050	montana
+30009	carbon	16	6598	montana
+30029	flathead	20	4655	montana
+30053	lincoln	2	860	montana
+30097	sweet grass	4	1000	montana
+30027	fergus	26	2591	montana
+30063	missoula	30	13570	montana
+30081	ravalli	13	2493	montana
+30099	teton	9	900	montana
+30013	cascade	24	27852	montana
+06053	monterey	49	8290	california
+06097	sonoma	78	18315	california
+06085	santa clara	152	41432	california
+06021	glenn	12	2429	california
+06047	merced	13	5727	california
+06049	modoc	13	1978	california
+06115	yuba	19	4849	california
+06079	san luis obispo	31	6054	california
+06075	san francisco	1015	342782	california
+06103	tehama	16	4338	california
+06031	kings	18	6150	california
+06025	imperial	15	2900	california
+06081	san mateo	33	6875	california
+06023	humboldt	50	15579	california
+06057	nevada	22	9554	california
+06019	fresno	81	36176	california
+06073	san diego	127	53543	california
+06033	lake	18	2738	california
+06017	el dorado	9	2515	california
+06087	santa cruz	48	14717	california
+06039	madera	8	2880	california
+06063	plumas	11	1991	california
+06109	tuolumne	13	3907	california
+06089	shasta	31	9691	california
+06059	orange	48	12288	california
+06107	tulare	39	7926	california
+06065	riverside	58	26579	california
+06001	alameda	464	263857	california
+06011	colusa	10	3632	california
+06105	trinity	3	1027	california
+06113	yolo	23	5892	california
+06095	solano	33	14026	california
+06055	napa	35	8074	california
+06067	sacramento	100	34815	california
+06013	contra costa	31	12900	california
+06015	del norte	4	1382	california
+06041	marin	35	8259	california
+06091	sierra	6	1478	california
+06005	amador	9	6816	california
+06035	lassen	9	1740	california
+06007	butte	36	6545	california
+06099	stanislaus	25	8213	california
+06045	mendocino	39	10973	california
+06043	mariposa	2	966	california
+06093	siskiyou	25	4907	california
+06061	placer	39	10376	california
+06051	mono	4	1024	california
+06077	san joaquin	72	28923	california
+06101	sutter	7	1307	california
+06029	kern	35	11279	california
+06111	ventura	20	5379	california
+06037	los angeles	1020	148708	california
+06069	san benito	8	1774	california
+06027	inyo	6	894	california
+06083	santa barbara	53	15274	california
+35045	san juan	9	907	new mexico
+35047	san miguel	24	15510	new mexico
+35039	rio arriba	4	450	new mexico
+35029	luna	7	1800	new mexico
+35007	colfax	18	4578	new mexico
+35035	otero	16	4650	new mexico
+35001	bernalillo	42	15000	new mexico
+35017	grant	29	6290	new mexico
+35059	union	8	1711	new mexico
+35015	eddy	19	5550	new mexico
+35051	sierra	2	862	new mexico
+35061	valencia	8	1908	new mexico
+35013	dona ana	14	6360	new mexico
+35033	mora	10	1818	new mexico
+35057	torrance	10	305	new mexico
+35055	taos	3	1000	new mexico
+35037	quay	21	1970	new mexico
+35005	chaves	32	2718	new mexico
+35031	mckinley	7	3496	new mexico
+35043	sandoval	5	997	new mexico
+35053	socorro	9	4710	new mexico
+35027	lincoln	13	1552	new mexico
+35049	santa fe	13	6417	new mexico
+35041	roosevelt	13	825	new mexico
+35009	curry	17	2600	new mexico
+32033	white pine	14	2239	nevada
+32017	lincoln	12	4229	nevada
+32001	churchill	11	2910	nevada
+32015	lander	3	1065	nevada
+32013	humboldt	11	1999	nevada
+32019	lyon	6	661	nevada
+32009	esmeralda	29	17325	nevada
+32007	elko	8	1645	nevada
+32005	douglas	5	676	nevada
+32011	eureka	1	785	nevada
+32031	washoe	52	17493	nevada
+32029	storey	4	2695	nevada
+32023	nye	13	7650	nevada
+16055	kootenai	20	6720	idaho
+16069	nez perce	42	6342	idaho
+16087	washington	11	4625	idaho
+16027	canyon	33	10850	idaho
+16013	blaine	4	1596	idaho
+16017	bonner	9	3850	idaho
+16031	cassia	7	1806	idaho
+16079	shoshone	23	6096	idaho
+16007	bear lake	6	2350	idaho
+16001	ada	48	20280	idaho
+16049	idaho	17	2295	idaho
+16011	bingham	19	2412	idaho
+16073	owyhee	2	1500	idaho
+16037	custer	5	1600	idaho
+16043	fremont	15	2626	idaho
+16015	boise	5	335	idaho
+16063	lincoln	10	1900	idaho
+16059	lemhi	5	398	idaho
+16039	elmore	5	1129	idaho
+16071	oneida	10	3335	idaho
+16005	bannock	12	8050	idaho
+16083	twin falls	20	2140	idaho
+16057	latah	19	7400	idaho
