@@ -16,14 +16,14 @@ package
     
     private var BGColor:uint;
     private var mapArray:Array = new Array();
-    private var mapBoundArray:Array = new Array(17);
+    private var mapBoundArray:Array = new Array(4);
     
     private var _ox:int = 0;
     private var _oy:int = 50;
     
     private var _stage_width:int;
     private var _stage_height:int;    
-    private var _current_map:int = 15;
+    private var _current_map:int = 1;
     private var _container:Sprite;
     
     private var loaderArray:Array = new Array();
@@ -43,8 +43,9 @@ package
     private var area:String = "";
     
     
-    // "none", "population", "density", "percent"
-    public var showMode:String = "population";  
+    // "none", "percapita_physicians", "population", "density", "percent"
+    public var showMode:String = "population";
+	public var years:Array = new Array(1909, 1980, 2000, 2009);
     
     private var border:Boolean;  
     
@@ -56,6 +57,8 @@ package
       _container = mapContainer;
       _bar = progressBar;
       
+	  /*
+	  TODO: this is original code, to be removed
       var i:int, year:int;
       for (i=0; i<17; i++) {
         year = 1850 + i*10;
@@ -64,13 +67,29 @@ package
         loader.addEventListener(Event.COMPLETE, xmlLoadComplete);
         loaderArray.push(loader);
       }
+	  */
+
+
+	  //years[0] = 1909;
+	  //years[1] = 1980;
+	  //years[2] = 2000;
+	  //years[3] = 2009;
+	  var i:int, year:int;
+	  for (i = 0; i < 4; i++) {
+		  year = years[i];
+		  var loader:URLLoader = new URLLoader();
+		  loader.load(new URLRequest("../dat/physician_by_county" + year.toString() + ".xml"));
+		  loader.addEventListener(Event.COMPLETE, xmlLoadComplete);
+		  loaderArray.push(loader);
+	  }
       
       border = true;
     }
     
     private function xmlLoadComplete(event:Event):void {
       countLoadedXML += 1;
-      if (countLoadedXML == 17) {
+	  trace(countLoadedXML);
+      if (countLoadedXML == 4) {
         loadShpMaps();
       }
     }
@@ -78,7 +97,62 @@ package
     private function loadShpMaps():void {
       trace('$census data loaded$');
       var i:int;
+	  
+	  for (i=0; i<4 ; i++) {
+		  var censusData:Dictionary = new Dictionary();
+		  //var dictChangePopulation:Dictionary = new Dictionary();
+		  xmlCountyData = new XML(loaderArray[i].data);
+		  for each (var county:Object in xmlCountyData.county) {
+			  var obj:Object = new Object;
+			  
+			  /*
+			  obj["total"]  = parseInt(county["totPop"]);
+			  obj["change"] = county["change"].toString();
+			  obj["age17"]  = parseInt(county["age17"]);
+			  obj["age20"]  = parseInt(county["age20"]);
+			  obj["age44"]  = parseInt(county["age44"]);
+			  obj["age65"]  = parseInt(county["age65"]);
+			  obj["edu18"]  = parseFloat(county["edu18"]);
+			  obj["changeColor"] = 0x000000;
+			  obj["changeText"] = "";
+			  */
+
+			  obj["fips"] = county["fips"].toString();
+			  obj["countyname"] = county["countyname"].toString();
+			  obj["numPhys"] = parseInt(county["numPhys"]);
+			  obj["numPop"] = parseInt(county["numPop"]);
+			  obj["state"] = county["state"].toString();
+
+			  censusData[county["fips"].toString()] = obj;
+			  
+			  //dictChangePopulation[county["fips"].toString()] = county["change"].toString();
+		  }
+		  //dictCountyPopArray.push(censusData);
+		  
+		  //var year:Number = 1850+i*10;
+		  var year:Number = this.years[i];
+		  var elem:ShpMapElement = new ShpMapElement(year, censusData);
+		  elem.addEventListener(Event.CHANGE, countyChangeHandler);
+		  
+		  elem.visible = false;
+		  elem.addEventListener("map loaded",onMapLoaded);
+		  elem.addEventListener("attributes loaded",onAttributesLoaded);
+		  
+		  mapArray.push(elem);
+		  mapBoundArray[i] = new Shape();
+		  var shp:Shape = mapBoundArray[i];
+		  shp.graphics.clear();
+		  shp.graphics.beginFill(BGColor);
+		  shp.graphics.drawRect(_ox, _oy, _stage_width, _stage_height);
+		  shp.graphics.endFill();
+		  shp.x = 7;
+		  shp.y = -18;
+		  
+		  elem.mask = shp;
+	  }
       
+	  /*
+	  TODO: original code, to be removed
       for (i=0; i<17; i++) {
         var censusData:Dictionary = new Dictionary();
         //var dictChangePopulation:Dictionary = new Dictionary();
@@ -121,6 +195,7 @@ package
         
         elem.mask = shp;
       }
+	  */
     }
     
     // THESE ARE FOR TOOL TIPS:
@@ -180,8 +255,8 @@ package
       mapLoadedCount++;
       trace(mapLoadedCount);
       
-      _bar.progress = mapLoadedCount / 17;
-      if (mapLoadedCount >= 17) {
+      _bar.progress = mapLoadedCount / 4;
+      if (mapLoadedCount >= 4) {
         dispatchEvent(new Event("all map loaded",true));
       }
       
@@ -213,7 +288,7 @@ package
     }
     
     public function updateMapColor():void {
-      for (var i:int = 0; i<17; i++) {
+      for (var i:int = 0; i<4; i++) {
         mapArray[i].getBorder(border);
         mapArray[i].updateMapColor(showMode);
       }

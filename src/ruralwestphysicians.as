@@ -42,7 +42,7 @@ package {
       this.addEventListener( MouseEvent.MOUSE_DOWN, onDrag);
       ZUI.addEventListener(Event.CHANGE, ZUIHandler);
       ZUI.addMapControl();
-      
+
       loadMap();
       
       sideControlPanelBG = new Sprite();
@@ -89,7 +89,7 @@ package {
       // *********** Below code loads shp object ************ //
       mapObj = new ShpMapObject(797, 611, mapContainer, _bar);
       mapObj.addEventListener("all map loaded", allMapLoaded);
-      mapObj.showMode = "population";
+      mapObj.showMode = "percapita_physicians";
 
       mapObj.SetMapColor(0xff0000);
       mapObj.SetMap(0, 0, 767, 611);
@@ -111,7 +111,7 @@ package {
       }
       mapObj.updateMapColor();
       //single_selected = tl_single.getCurSelectedZone();
-      mapObj.SetMapEmbedSrc(10);
+      mapObj.SetMapEmbedSrc(3);
       
       /*
       if (ExternalInterface.available) {
