@@ -150,52 +150,7 @@ package
 		  
 		  elem.mask = shp;
 	  }
-      
-	  /*
-	  TODO: original code, to be removed
-      for (i=0; i<17; i++) {
-        var censusData:Dictionary = new Dictionary();
-        //var dictChangePopulation:Dictionary = new Dictionary();
-        xmlCountyData = new XML(loaderArray[i].data);
-        for each (var county:Object in xmlCountyData.county) {
-          var obj:Object = new Object;
 
-          obj["total"]  = parseInt(county["totPop"]);
-          obj["change"] = county["change"].toString();
-          obj["age17"]  = parseInt(county["age17"]);
-          obj["age20"]  = parseInt(county["age20"]);
-          obj["age44"]  = parseInt(county["age44"]);
-          obj["age65"]  = parseInt(county["age65"]);
-          obj["edu18"]  = parseFloat(county["edu18"]);
-          obj["changeColor"] = 0x000000;
-          obj["changeText"] = "";
-          censusData[county["fips"].toString()] = obj;
-          
-          //dictChangePopulation[county["fips"].toString()] = county["change"].toString();
-        }
-        //dictCountyPopArray.push(censusData);
-      
-        var year:Number = 1850+i*10;
-        var elem:ShpMapElement = new ShpMapElement(year, censusData);
-        elem.addEventListener(Event.CHANGE, countyChangeHandler);
-        
-        elem.visible = false;
-        elem.addEventListener("map loaded",onMapLoaded);
-        elem.addEventListener("attributes loaded",onAttributesLoaded);
-        
-        mapArray.push(elem);
-        mapBoundArray[i] = new Shape();
-        var shp:Shape = mapBoundArray[i];
-        shp.graphics.clear();
-        shp.graphics.beginFill(BGColor);
-        shp.graphics.drawRect(_ox, _oy, _stage_width, _stage_height);
-        shp.graphics.endFill();
-        shp.x = 7;
-        shp.y = -18;
-        
-        elem.mask = shp;
-      }
-	  */
     }
     
     // THESE ARE FOR TOOL TIPS:
@@ -261,30 +216,7 @@ package
       }
       
       var map:Object = event.target;
-      
-      /*
-      var records:XML = XML(map.data);
-      for each (var county:Object in records.county) {
-        //trace(county);
-        var f : ShpFeature = map.getFeatureByAttribute("ID", county.fips);
-        if (f != null){
-          var cTrans : ColorTransform = new ColorTransform();
-          if (county.totPop < 500000) {
-            cTrans.color = 0x009933;
-          } else {
-            cTrans.color = 0x332277;
-          }
-          f.transform.colorTransform = cTrans;
-        }
-      }
-      
-      var f : ShpFeature = map.getFeatureByAttribute("STATE", "California");
-      if (f != null){
-        var cTrans : ColorTransform = new ColorTransform();
-        cTrans.color = 0x009933;
-        f.transform.colorTransform = cTrans;
-      }
-      */
+
     }
     
     public function updateMapColor():void {
