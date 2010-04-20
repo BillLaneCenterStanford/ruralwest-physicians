@@ -33,9 +33,22 @@ package {
       blackBG.graphics.endFill();
       addChild(blackBG);
       
+      var MedicalSign:Sprite = new Sprite();
+      MedicalSign.x = 22;
+      MedicalSign.y = 16;
+      MedicalSign.graphics.beginFill(0xffffff, 1.0);
+      MedicalSign.graphics.drawCircle(0, 0, 12);
+      MedicalSign.graphics.endFill();
+      MedicalSign.graphics.beginFill(0xff0000, 1.0);
+      MedicalSign.graphics.drawRect(-7, -2, 14, 4);
+      MedicalSign.graphics.endFill();
+      MedicalSign.graphics.beginFill(0xff0000, 1.0);
+      MedicalSign.graphics.drawRect(-2, -7, 4, 14);
+      addChild(MedicalSign);
+      
       var MainTitle:TextSprite = new TextSprite();
-      MainTitle.x = 11;
-      MainTitle.y = 1;
+      MainTitle.x = 11 + 30;
+      MainTitle.y = 0;
       MainTitle.font = "Calibri";
       MainTitle.size = 24;
       MainTitle.color = 0x003A52;
@@ -50,19 +63,19 @@ package {
       loadMap();
       
       sideControlPanelBG = new Sprite();
-      sideControlPanelBG.graphics.beginFill(0xBCE4F5, 0.85);
+      sideControlPanelBG.graphics.beginFill(0x93CDE6, 0.85);
       sideControlPanelBG.graphics.drawRect(650, 32, 154, 611);
       sideControlPanelBG.graphics.endFill();
       addChild(sideControlPanelBG);
       
       var bottomPanelBG:Sprite = new Sprite();
-      bottomPanelBG.graphics.beginFill(0xBCE4F5, 0.85);
+      bottomPanelBG.graphics.beginFill(0x93CDE6, 0.85);
       bottomPanelBG.graphics.drawRect(7, 533, 643, 110);
       bottomPanelBG.graphics.endFill();
       addChild(bottomPanelBG);
       
       var divider:Sprite = new Sprite();
-      divider.graphics.beginFill(0xeeeeee, 1.0);
+      divider.graphics.beginFill(0xdddddd, 1.0);
       divider.graphics.drawRect(650, 32, 4, 611); // left side divider, vertical
       divider.graphics.drawRect(7, 533, 643, 4);  // bottom divider, horizontal
       divider.graphics.drawRect(400, 537, 4, 110);  // bottom divider, vertical
@@ -71,20 +84,21 @@ package {
       
       addChild(ZUI);
       
-      tl = new timeline(20, 600, 360, 1909, 2009);
+      tl = new timeline(33, 570, 330, 1909, 2009);
       var yrArray:Array = new Array(1909, 1980, 2000, 2009);
-      var intArray:Array = new Array(5, 33, 66, 95);
+      var intArray:Array = new Array(0, 33, 66, 100);
       tl.setYearsInts(yrArray, intArray);
       tl.DrawTimeline();
       tl.addEventListener(Event.CHANGE, tlHandler);
       addChild(tl);
       
       year_display = new TextSprite();
-      year_display.x = 410;
-      year_display.y = 10;
-      year_display.color = 0x003A52;
+      year_display.x = 415 + 30;
+      year_display.y = 0;
+      year_display.color = 0x0D658A;
       year_display.font = "Calibri";
-      year_display.size = 18;
+      year_display.text = "Year " + tl.getSelectedYear().toString();
+      year_display.size = 24;
       addChild(year_display);
       
     }
@@ -165,7 +179,7 @@ package {
     private function tlHandler(evt:Event):void
     {
       this_year = tl.getSelectedYear();
-      year_display.text = this_year.toString();
+      year_display.text = "Year " + this_year.toString();
       mapObj.SetMapEmbedSrc(tl.getSelectedZone());
     }
     
