@@ -21,6 +21,13 @@ package {
     private var this_year:int;
     private var year_display:TextSprite;
     
+    // tooltip text sprites
+    private var tt_county_state:TextSprite;
+    private var tt_population:TextSprite;
+    private var tt_num_physicians:TextSprite;
+    private var tt_per_capita_physicians:TextSprite;
+    private var tt_area:TextSprite;
+    
     // The Map Object for the SVG map and frame
     private var mapObj:Object;
     
@@ -63,13 +70,13 @@ package {
       loadMap();
       
       sideControlPanelBG = new Sprite();
-      sideControlPanelBG.graphics.beginFill(0x93CDE6, 0.85);
+      sideControlPanelBG.graphics.beginFill(0x288AB5, 0.85);
       sideControlPanelBG.graphics.drawRect(650, 32, 154, 611);
       sideControlPanelBG.graphics.endFill();
       addChild(sideControlPanelBG);
       
       var bottomPanelBG:Sprite = new Sprite();
-      bottomPanelBG.graphics.beginFill(0x93CDE6, 0.85);
+      bottomPanelBG.graphics.beginFill(0x288AB5, 0.85);
       bottomPanelBG.graphics.drawRect(7, 533, 643, 110);
       bottomPanelBG.graphics.endFill();
       addChild(bottomPanelBG);
@@ -84,7 +91,7 @@ package {
       
       addChild(ZUI);
       
-      tl = new timeline(33, 570, 330, 1909, 2009);
+      tl = new timeline(33, 560, 330, 1909, 2009);
       var yrArray:Array = new Array(1909, 1980, 2000, 2009);
       var intArray:Array = new Array(0, 33, 66, 100);
       tl.setYearsInts(yrArray, intArray);
@@ -100,6 +107,56 @@ package {
       year_display.text = "Year " + tl.getSelectedYear().toString();
       year_display.size = 24;
       addChild(year_display);
+      
+      var tt_text_size:int = 16;
+      var tt_vert_spacing:int = 18;
+      var tt_ox:int = 420;
+      var tt_oy:int = 540;
+      
+      tt_county_state = new TextSprite();
+      tt_county_state.color = 0xffffff;
+      tt_county_state.size = tt_text_size;
+      tt_county_state.font = "Calibri";
+      tt_county_state.x = tt_ox;
+      tt_county_state.y = tt_oy;
+      tt_county_state.visible = true;
+      addChild(tt_county_state);
+      
+      tt_population = new TextSprite();
+      tt_population.color = 0xffffff;
+      tt_population.size = tt_text_size;
+      tt_population.font = "Calibri";
+      tt_population.x = tt_ox;
+      tt_population.y = tt_oy + tt_vert_spacing*1;
+      tt_population.visible = true;
+      addChild(tt_population);
+      
+      tt_num_physicians = new TextSprite();
+      tt_num_physicians.color = 0xffffff;
+      tt_num_physicians.size = tt_text_size;
+      tt_num_physicians.font = "Calibri";
+      tt_num_physicians.x = tt_ox;
+      tt_num_physicians.y = tt_oy + tt_vert_spacing*2;
+      tt_num_physicians.visible = true;
+      addChild(tt_num_physicians);
+      
+      tt_per_capita_physicians = new TextSprite();
+      tt_per_capita_physicians.color = 0xffffff;
+      tt_per_capita_physicians.size = tt_text_size;
+      tt_per_capita_physicians.font = "Calibri";
+      tt_per_capita_physicians.x = tt_ox;
+      tt_per_capita_physicians.y = tt_oy + tt_vert_spacing*3;
+      tt_per_capita_physicians.visible = true;
+      addChild(tt_per_capita_physicians);
+      
+      tt_area = new TextSprite();
+      tt_area.color = 0xffffff;
+      tt_area.size = tt_text_size;
+      tt_area.font = "Calibri";
+      tt_area.x = tt_ox;
+      tt_area.y = tt_oy + tt_vert_spacing*4;
+      tt_area.visible = true;
+      addChild(tt_area);
       
     }
     
@@ -123,6 +180,7 @@ package {
       // *********** Below code loads shp object ************ //
       mapObj = new ShpMapObject(797, 611, mapContainer, _bar);
       mapObj.addEventListener("all map loaded", allMapLoaded);
+      mapObj.addEventListener(Event.CHANGE, ttHandler);    // handles tooltips events
       mapObj.showMode = "percapita_physicians";
 
       mapObj.SetMapColor(0xff0000);
@@ -165,6 +223,39 @@ package {
         trace("External interface is not available for this container.");
       }
       */
+    }
+    
+    private function ttHandler(event:Event):void
+    {
+      /*
+      tt_county_state
+      tt_population
+      tt_per_capita_physicians
+      tt_num_physicians
+      tt_area
+      */
+      //tt_county.text = trim((0, 15, mapObj.getCountyName()).substr(0, 12));
+      
+      var cnty:String = mapObj.getCounty();
+      if(cnty.length > 0){
+        tt_county_state.text = mapObj.getCounty() + ", " + mapObj.getState();
+        tt_population.text = "Population: " + mapObj.getPopulation();
+        tt_num_physicians.text = "Num Physicians: " + mapObj.getNumPhysicians();
+        tt_per_capita_physicians.text = "Physicians Per Capita: " + mapObj.getPerCapita();
+        var ar:String = mapObj.getArea();
+        if(ar.length > 0)
+          tt_area.text = "Area: " + mapObj.getArea() + " sq. miles";
+        else
+          tt_area.text = "";
+      }
+      else{
+        tt_county_state.text = "";
+        tt_population.text = "";
+        tt_num_physicians.text = "";
+        tt_per_capita_physicians.text = "";
+        tt_area.text = "";
+      }
+      
     }
     
     private function ZUIHandler(event:Event):void

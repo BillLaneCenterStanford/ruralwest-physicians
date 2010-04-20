@@ -41,6 +41,8 @@ package
     private var state:String = "";
     private var population:String = "";
     private var area:String = "";
+    private var num_physicians:String = "";
+    private var per_capita_physicians:String = "";
     
     
     // "none", "percapita_physicians", "population", "density", "percent"
@@ -156,15 +158,17 @@ package
     // THESE ARE FOR TOOL TIPS:
     private function countyChangeHandler(event:Event):void
     {
-      curCounty = event.currentTarget.getCountyName();
+      curCounty = event.currentTarget.getCounty();
       population = event.currentTarget.getPopulation();
       area = event.currentTarget.getArea();
       state = event.currentTarget.getState();
+      num_physicians = event.currentTarget.getNumPhysicians();
+      per_capita_physicians = event.currentTarget.getPerCapita();
       
       dispatchEvent(new Event(Event.CHANGE));
     }
-    
-    public function getCountyName():String{
+
+    public function getCounty():String{
       return curCounty;
     }
     public function getState():String{
@@ -176,6 +180,13 @@ package
     public function getArea():String{
       return area;
     }
+    public function getNumPhysicians():String{
+      return num_physicians;
+    }
+    public function getPerCapita(){
+      return per_capita_physicians;
+    }
+    
     // THE ABOVE WERE FOR TOOLTIPS
     
     // Need to wait for the map to finish loading/drawing before it can be resized correctly.

@@ -80,7 +80,7 @@ package {
 		{
 		  selected.graphics.clear();
 
-		  selected.graphics.beginFill(0xE3FDFF, 0.9);
+		  selected.graphics.beginFill(0xffffff, 1.0);
 		  selected.graphics.drawCircle(-15, -4, 12);
 		  selected.graphics.endFill();
 		}

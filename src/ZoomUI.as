@@ -52,11 +52,11 @@ package
     
     public function addMapControl():void
     {  
-      var COLOR:uint = 0x006BAF;
-      var COLOR_DARK:uint = 0x006BAF;
-      var COLOR_LABELS:uint = 0x006BAF;
-      var ALPHA:Number = 0.7;
-      var ALPHA_LIGHT:Number = 0.7;
+      var COLOR:uint = 0xffffff;
+      var COLOR_DARK:uint = 0xffffff;
+      var COLOR_LABELS:uint = 0xffffff;
+      var ALPHA:Number = 0.4;
+      var ALPHA_LIGHT:Number = 0.4;
       var drawX:Number = 728;
       var drawY:Number = 120;
       var offset:Number = 34;
@@ -65,7 +65,7 @@ package
       ZoomLabel = new TextSprite("ZOOM:");
       ZoomLabel.x = drawX - 35;      ZoomLabel.y = drawY + 50;
       ZoomLabel.font = "arial";  ZoomLabel.bold = true;
-      ZoomLabel.color = COLOR;  ZoomLabel.alpha = ALPHA;
+      ZoomLabel.color = COLOR;  ZoomLabel.alpha = 0.7;
       addChild(ZoomLabel);
       
       // number display:
@@ -73,7 +73,7 @@ package
       ZoomNumber = new TextSprite((Number((scale_factor)*10)/10.00).toPrecision(2).toString());
       ZoomNumber.x = drawX + 8;      ZoomNumber.y = drawY + 50;
       ZoomNumber.font = "arial";  ZoomNumber.bold = true;
-      ZoomNumber.color = COLOR;  ZoomNumber.alpha = ALPHA;
+      ZoomNumber.color = COLOR;  ZoomNumber.alpha = 0.7;
       addChild(ZoomNumber);
       
   
@@ -87,15 +87,15 @@ package
         ZoomIn.graphics.drawCircle(0, 0, 11);
         ZoomIn.graphics.endFill();
         
-        ZoomIn.graphics.beginFill(0xffffff, 0.6);
+        ZoomIn.graphics.beginFill(0xffffff, 0.7);
         ZoomIn.graphics.drawRect(-8, -2, 6, 4);
         ZoomIn.graphics.endFill();
         
-        ZoomIn.graphics.beginFill(0xffffff, 0.6);
+        ZoomIn.graphics.beginFill(0xffffff, 0.7);
         ZoomIn.graphics.drawRect(2, -2, 6, 4);
         ZoomIn.graphics.endFill();
         
-        ZoomIn.graphics.beginFill(0xffffff, 0.6);
+        ZoomIn.graphics.beginFill(0xffffff, 0.7);
         ZoomIn.graphics.drawRect(-2, -8, 4, 16);
         ZoomIn.graphics.endFill();
         
@@ -136,7 +136,7 @@ package
         ZoomOut.graphics.drawCircle(0, 0, 30);
         ZoomOut.graphics.drawCircle(0, 0, 16);
         ZoomOut.graphics.endFill();
-        ZoomOut.graphics.beginFill(0xffffff, 0.6);
+        ZoomOut.graphics.beginFill(0xffffff, 0.7);
         ZoomOut.graphics.drawRect(-8, 20, 16, 4);
         ZoomOut.graphics.endFill();
         ZoomOut.buttonMode = true;
