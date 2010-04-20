@@ -17,6 +17,10 @@ package {
     private var ZUI:ZoomUI;
     private var _bar:ProgressBar;
     
+    private var tl:timeline;
+    private var this_year:int;
+    private var year_display:TextSprite;
+    
     // The Map Object for the SVG map and frame
     private var mapObj:Object;
     
@@ -66,6 +70,22 @@ package {
       addChild(divider);
       
       addChild(ZUI);
+      
+      tl = new timeline(20, 600, 360, 1909, 2009);
+      var yrArray:Array = new Array(1909, 1980, 2000, 2009);
+      var intArray:Array = new Array(5, 33, 66, 95);
+      tl.setYearsInts(yrArray, intArray);
+      tl.DrawTimeline();
+      tl.addEventListener(Event.CHANGE, tlHandler);
+      addChild(tl);
+      
+      year_display = new TextSprite();
+      year_display.x = 410;
+      year_display.y = 10;
+      year_display.color = 0x003A52;
+      year_display.font = "Calibri";
+      year_display.size = 18;
+      addChild(year_display);
       
     }
     
@@ -142,6 +162,12 @@ package {
       mapObj.ScaleAndTranslateMap(ZUI.getScaleFactor(), ZUI.getImageLeft(), ZUI.getImageTop());
     }
     
+    private function tlHandler(evt:Event):void
+    {
+      this_year = tl.getSelectedYear();
+      year_display.text = this_year.toString();
+      mapObj.SetMapEmbedSrc(tl.getSelectedZone());
+    }
     
     private var orgX:int;
     private var orgY:int;
