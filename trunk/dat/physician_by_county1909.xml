@@ -2,23 +2,6 @@
   <records>
     <county>
       <fips>
-        04027
-      </fips>
-      <countyname>
-        yuma
-      </countyname>
-      <numPhys>
-        10
-      </numPhys>
-      <numPop>
-        2900
-      </numPop>
-      <state>
-        arizona
-      </state>
-    </county>
-    <county>
-      <fips>
         04021
       </fips>
       <countyname>
@@ -28,7 +11,7 @@
         5
       </numPhys>
       <numPop>
-        1553
+        9045
       </numPop>
       <state>
         arizona
@@ -45,7 +28,7 @@
         59
       </numPhys>
       <numPop>
-        14881
+        34488
       </numPop>
       <state>
         arizona
@@ -62,7 +45,7 @@
         5
       </numPhys>
       <numPop>
-        1206
+        3773
       </numPop>
       <state>
         arizona
@@ -79,7 +62,7 @@
         16
       </numPhys>
       <numPop>
-        13905
+        16348
       </numPop>
       <state>
         arizona
@@ -96,7 +79,7 @@
         11
       </numPhys>
       <numPop>
-        2023
+        6766
       </numPop>
       <state>
         arizona
@@ -113,7 +96,7 @@
         49
       </numPhys>
       <numPop>
-        23216
+        34591
       </numPop>
       <state>
         arizona
@@ -130,7 +113,7 @@
         11
       </numPhys>
       <numPop>
-        3169
+        8130
       </numPop>
       <state>
         arizona
@@ -147,7 +130,7 @@
         23
       </numPhys>
       <numPop>
-        17862
+        22818
       </numPop>
       <state>
         arizona
@@ -164,7 +147,7 @@
         4
       </numPhys>
       <numPop>
-        522
+        9196
       </numPop>
       <state>
         arizona
@@ -181,7 +164,7 @@
         8
       </numPhys>
       <numPop>
-        2055
+        11471
       </numPop>
       <state>
         arizona
@@ -198,7 +181,7 @@
         14
       </numPhys>
       <numPop>
-        9675
+        23999
       </numPop>
       <state>
         arizona
@@ -215,7 +198,7 @@
         25
       </numPhys>
       <numPop>
-        8881
+        15996
       </numPop>
       <state>
         arizona
@@ -232,7 +215,7 @@
         7
       </numPhys>
       <numPop>
-        2300
+        3063
       </numPop>
       <state>
         colorado
@@ -249,7 +232,7 @@
         9
       </numPhys>
       <numPop>
-        2634
+        4700
       </numPop>
       <state>
         colorado
@@ -266,7 +249,7 @@
         6
       </numPhys>
       <numPop>
-        2568
+        5043
       </numPop>
       <state>
         colorado
@@ -283,7 +266,7 @@
         14
       </numPhys>
       <numPop>
-        3704
+        9520
       </numPop>
       <state>
         colorado
@@ -300,7 +283,7 @@
         9
       </numPhys>
       <numPop>
-        2750
+        4566
       </numPop>
       <state>
         colorado
@@ -317,7 +300,7 @@
         6
       </numPhys>
       <numPop>
-        4464
+        4131
       </numPop>
       <state>
         colorado
@@ -334,7 +317,7 @@
         2
       </numPhys>
       <numPop>
-        800
+        6002
       </numPop>
       <state>
         colorado
@@ -351,7 +334,7 @@
         13
       </numPhys>
       <numPop>
-        14229
+        10600
       </numPop>
       <state>
         colorado
@@ -368,7 +351,7 @@
         717
       </numPhys>
       <numPop>
-        155639
+        213381
       </numPop>
       <state>
         colorado
@@ -385,7 +368,7 @@
         12
       </numPhys>
       <numPop>
-        3065
+        9549
       </numPop>
       <state>
         colorado
@@ -402,7 +385,7 @@
         15
       </numPhys>
       <numPop>
-        2102
+        13320
       </numPop>
       <state>
         colorado
@@ -419,7 +402,7 @@
         50
       </numPhys>
       <numPop>
-        15913
+        25270
       </numPop>
       <state>
         colorado
@@ -436,7 +419,7 @@
         37
       </numPhys>
       <numPop>
-        13089
+        20201
       </numPop>
       <state>
         colorado
@@ -453,7 +436,7 @@
         5
       </numPhys>
       <numPop>
-        411
+        3061
       </numPop>
       <state>
         colorado
@@ -470,7 +453,7 @@
         2
       </numPhys>
       <numPop>
-        1250
+        1239
       </numPop>
       <state>
         colorado
@@ -487,7 +470,7 @@
         16
       </numPhys>
       <numPop>
-        4793
+        7622
       </numPop>
       <state>
         colorado
@@ -504,7 +487,7 @@
         5
       </numPhys>
       <numPop>
-        561
+        5331
       </numPop>
       <state>
         colorado
@@ -521,7 +504,7 @@
         3
       </numPhys>
       <numPop>
-        507
+        2332
       </numPop>
       <state>
         colorado
@@ -538,7 +521,7 @@
         1
       </numPhys>
       <numPop>
-        10
+        2516
       </numPop>
       <state>
         colorado
@@ -555,7 +538,7 @@
         2
       </numPhys>
       <numPop>
-        831
+        642
       </numPop>
       <state>
         colorado
@@ -572,7 +555,7 @@
         3
       </numPhys>
       <numPop>
-        389
+        3192
       </numPop>
       <state>
         colorado
@@ -589,7 +572,7 @@
         7
       </numPhys>
       <numPop>
-        457
+        7483
       </numPop>
       <state>
         colorado
@@ -606,7 +589,7 @@
         4
       </numPhys>
       <numPop>
-        751
+        3179
       </numPop>
       <state>
         colorado
@@ -623,7 +606,7 @@
         1
       </numPhys>
       <numPop>
-        141
+        1013
       </numPop>
       <state>
         colorado
@@ -640,7 +623,7 @@
         17
       </numPhys>
       <numPop>
-        3406
+        14231
       </numPop>
       <state>
         colorado
@@ -657,7 +640,7 @@
         1
       </numPhys>
       <numPop>
-        179
+        3687
       </numPop>
       <state>
         colorado
@@ -674,7 +657,7 @@
         9
       </numPhys>
       <numPop>
-        2657
+        5897
       </numPop>
       <state>
         colorado
@@ -691,7 +674,7 @@
         10
       </numPhys>
       <numPop>
-        6223
+        5001
       </numPop>
       <state>
         colorado
@@ -708,7 +691,7 @@
         74
       </numPhys>
       <numPop>
-        17859
+        30330
       </numPop>
       <state>
         colorado
@@ -725,7 +708,7 @@
         5
       </numPhys>
       <numPop>
-        575
+        2985
       </numPop>
       <state>
         colorado
@@ -742,7 +725,7 @@
         3
       </numPhys>
       <numPop>
-        265
+        1947
       </numPop>
       <state>
         colorado
@@ -759,7 +742,7 @@
         40
       </numPhys>
       <numPop>
-        10347
+        18181
       </numPop>
       <state>
         colorado
@@ -776,7 +759,7 @@
         5
       </numPhys>
       <numPop>
-        606
+        1862
       </numPop>
       <state>
         colorado
@@ -793,7 +776,7 @@
         3
       </numPhys>
       <numPop>
-        1016
+        2492
       </numPop>
       <state>
         colorado
@@ -810,7 +793,7 @@
         7
       </numPhys>
       <numPop>
-        1239
+        4160
       </numPop>
       <state>
         colorado
@@ -827,7 +810,7 @@
         3
       </numPhys>
       <numPop>
-        367
+        3302
       </numPop>
       <state>
         colorado
@@ -844,7 +827,7 @@
         4
       </numPhys>
       <numPop>
-        1128
+        5498
       </numPop>
       <state>
         colorado
@@ -861,7 +844,7 @@
         30
       </numPhys>
       <numPop>
-        1278
+        13688
       </numPop>
       <state>
         colorado
@@ -878,7 +861,7 @@
         13
       </numPhys>
       <numPop>
-        2986
+        11285
       </numPop>
       <state>
         colorado
@@ -895,7 +878,7 @@
         11
       </numPhys>
       <numPop>
-        1663
+        10263
       </numPop>
       <state>
         colorado
@@ -912,7 +895,7 @@
         43
       </numPhys>
       <numPop>
-        14081
+        22197
       </numPop>
       <state>
         colorado
@@ -929,7 +912,7 @@
         10
       </numPhys>
       <numPop>
-        3641
+        3514
       </numPop>
       <state>
         colorado
@@ -946,7 +929,7 @@
         20
       </numPhys>
       <numPop>
-        18055
+        14351
       </numPop>
       <state>
         colorado
@@ -963,7 +946,7 @@
         3
       </numPhys>
       <numPop>
-        1500
+        8892
       </numPop>
       <state>
         colorado
@@ -980,7 +963,7 @@
         84
       </numPhys>
       <numPop>
-        32362
+        52223
       </numPop>
       <state>
         colorado
@@ -997,7 +980,7 @@
         6
       </numPhys>
       <numPop>
-        420
+        5917
       </numPop>
       <state>
         colorado
@@ -1014,7 +997,7 @@
         68
       </numPhys>
       <numPop>
-        6357
+        39177
       </numPop>
       <state>
         colorado
@@ -1031,7 +1014,7 @@
         17
       </numPhys>
       <numPop>
-        3502
+        10812
       </numPop>
       <state>
         colorado
@@ -1048,7 +1031,7 @@
         7
       </numPhys>
       <numPop>
-        1291
+        5029
       </numPop>
       <state>
         colorado
@@ -1065,7 +1048,7 @@
         21
       </numPhys>
       <numPop>
-        1467
+        10291
       </numPop>
       <state>
         colorado
@@ -1082,7 +1065,7 @@
         5
       </numPhys>
       <numPop>
-        1750
+        8499
       </numPop>
       <state>
         colorado
@@ -1099,7 +1082,7 @@
         19
       </numPhys>
       <numPop>
-        3731
+        10144
       </numPop>
       <state>
         colorado
@@ -1116,7 +1099,7 @@
         11
       </numPhys>
       <numPop>
-        2505
+        6563
       </numPop>
       <state>
         colorado
@@ -1133,7 +1116,7 @@
         154
       </numPhys>
       <numPop>
-        38276
+        43321
       </numPop>
       <state>
         colorado
@@ -1150,7 +1133,7 @@
         2
       </numPhys>
       <numPop>
-        85
+        2899
       </numPop>
       <state>
         colorado
@@ -1167,7 +1150,7 @@
         5
       </numPhys>
       <numPop>
-        1266
+        2003
       </numPop>
       <state>
         colorado
@@ -1184,7 +1167,7 @@
         19
       </numPhys>
       <numPop>
-        3700
+        9577
       </numPop>
       <state>
         colorado
@@ -1201,7 +1184,7 @@
         1
       </numPhys>
       <numPop>
-        700
+        646
       </numPop>
       <state>
         colorado
@@ -1218,7 +1201,7 @@
         35
       </numPhys>
       <numPop>
-        9184
+        33643
       </numPop>
       <state>
         colorado
@@ -1235,7 +1218,7 @@
         13
       </numPhys>
       <numPop>
-        674
+        7561
       </numPop>
       <state>
         colorado
@@ -1252,7 +1235,7 @@
         7
       </numPhys>
       <numPop>
-        682
+        3603
       </numPop>
       <state>
         washington
@@ -1269,7 +1252,7 @@
         25
       </numPhys>
       <numPop>
-        5209
+        25297
       </numPop>
       <state>
         washington
@@ -1286,7 +1269,7 @@
         26
       </numPhys>
       <numPop>
-        5350
+        32127
       </numPop>
       <state>
         washington
@@ -1303,7 +1286,7 @@
         11
       </numPhys>
       <numPop>
-        1995
+        12532
       </numPop>
       <state>
         washington
@@ -1320,7 +1303,7 @@
         5
       </numPhys>
       <numPop>
-        953
+        4199
       </numPop>
       <state>
         washington
@@ -1337,7 +1320,7 @@
         16
       </numPhys>
       <numPop>
-        4615
+        15104
       </numPop>
       <state>
         washington
@@ -1354,7 +1337,7 @@
         3
       </numPhys>
       <numPop>
-        883
+        5156
       </numPop>
       <state>
         washington
@@ -1371,7 +1354,7 @@
         6
       </numPhys>
       <numPop>
-        3625
+        5831
       </numPop>
       <state>
         washington
@@ -1388,7 +1371,7 @@
         49
       </numPhys>
       <numPop>
-        31226
+        59209
       </numPop>
       <state>
         washington
@@ -1405,7 +1388,7 @@
         6
       </numPhys>
       <numPop>
-        1400
+        8698
       </numPop>
       <state>
         washington
@@ -1422,7 +1405,7 @@
         5
       </numPhys>
       <numPop>
-        1250
+        9227
       </numPop>
       <state>
         washington
@@ -1439,7 +1422,7 @@
         18
       </numPhys>
       <numPop>
-        10784
+        18561
       </numPop>
       <state>
         washington
@@ -1456,7 +1439,7 @@
         13
       </numPhys>
       <numPop>
-        3643
+        8337
       </numPop>
       <state>
         washington
@@ -1473,7 +1456,7 @@
         50
       </numPhys>
       <numPop>
-        28394
+        49511
       </numPop>
       <state>
         washington
@@ -1490,7 +1473,7 @@
         9
       </numPhys>
       <numPop>
-        2851
+        12561
       </numPop>
       <state>
         washington
@@ -1507,7 +1490,7 @@
         9
       </numPhys>
       <numPop>
-        2815
+        7042
       </numPop>
       <state>
         washington
@@ -1524,7 +1507,7 @@
         14
       </numPhys>
       <numPop>
-        6726
+        17581
       </numPop>
       <state>
         washington
@@ -1541,7 +1524,7 @@
         48
       </numPhys>
       <numPop>
-        4717
+        41709
       </numPop>
       <state>
         washington
@@ -1558,7 +1541,7 @@
         148
       </numPhys>
       <numPop>
-        96002
+        120812
       </numPop>
       <state>
         washington
@@ -1575,7 +1558,7 @@
         1
       </numPhys>
       <numPop>
-        350
+        2887
       </numPop>
       <state>
         washington
@@ -1592,7 +1575,7 @@
         13
       </numPhys>
       <numPop>
-        1778
+        12887
       </numPop>
       <state>
         washington
@@ -1609,7 +1592,7 @@
         16
       </numPhys>
       <numPop>
-        4821
+        17647
       </numPop>
       <state>
         washington
@@ -1626,7 +1609,7 @@
         9
       </numPhys>
       <numPop>
-        2794
+        6755
       </numPop>
       <state>
         washington
@@ -1643,7 +1626,7 @@
         10
       </numPhys>
       <numPop>
-        3100
+        10920
       </numPop>
       <state>
         washington
@@ -1660,7 +1643,7 @@
         474
       </numPhys>
       <numPop>
-        207471
+        284638
       </numPop>
       <state>
         washington
@@ -1677,7 +1660,7 @@
         33
       </numPhys>
       <numPop>
-        9550
+        17539
       </numPop>
       <state>
         washington
@@ -1694,7 +1677,7 @@
         223
       </numPhys>
       <numPop>
-        41602
+        139404
       </numPop>
       <state>
         washington
@@ -1711,7 +1694,7 @@
         58
       </numPhys>
       <numPop>
-        15277
+        33280
       </numPop>
       <state>
         washington
@@ -1728,7 +1711,7 @@
         38
       </numPhys>
       <numPop>
-        16689
+        31931
       </numPop>
       <state>
         washington
@@ -1745,7 +1728,7 @@
         8
       </numPhys>
       <numPop>
-        1397
+        10180
       </numPop>
       <state>
         washington
@@ -1762,7 +1745,7 @@
         11
       </numPhys>
       <numPop>
-        3100
+        7937
       </numPop>
       <state>
         washington
@@ -1779,7 +1762,7 @@
         4
       </numPhys>
       <numPop>
-        2400
+        5153
       </numPop>
       <state>
         washington
@@ -1796,7 +1779,7 @@
         4
       </numPhys>
       <numPop>
-        132
+        4704
       </numPop>
       <state>
         washington
@@ -1813,7 +1796,7 @@
         26
       </numPhys>
       <numPop>
-        10640
+        29241
       </numPop>
       <state>
         washington
@@ -1830,7 +1813,7 @@
         15
       </numPhys>
       <numPop>
-        7238
+        11574
       </numPop>
       <state>
         wyoming
@@ -1847,7 +1830,7 @@
         25
       </numPhys>
       <numPop>
-        6096
+        16324
       </numPop>
       <state>
         wyoming
@@ -1864,7 +1847,7 @@
         13
       </numPhys>
       <numPop>
-        7926
+        11575
       </numPop>
       <state>
         wyoming
@@ -1881,7 +1864,7 @@
         6
       </numPhys>
       <numPop>
-        883
+        4766
       </numPop>
       <state>
         wyoming
@@ -1898,7 +1881,7 @@
         5
       </numPhys>
       <numPop>
-        710
+        3453
       </numPop>
       <state>
         wyoming
@@ -1915,7 +1898,7 @@
         22
       </numPhys>
       <numPop>
-        3026
+        11822
       </numPop>
       <state>
         wyoming
@@ -1932,7 +1915,7 @@
         10
       </numPhys>
       <numPop>
-        2080
+        6294
       </numPop>
       <state>
         wyoming
@@ -1949,7 +1932,7 @@
         9
       </numPhys>
       <numPop>
-        1280
+        4909
       </numPop>
       <state>
         wyoming
@@ -1966,7 +1949,7 @@
         37
       </numPhys>
       <numPop>
-        14675
+        26127
       </numPop>
       <state>
         wyoming
@@ -1983,7 +1966,7 @@
         5
       </numPhys>
       <numPop>
-        1246
+        4960
       </numPop>
       <state>
         wyoming
@@ -2000,7 +1983,7 @@
         9
       </numPhys>
       <numPop>
-        483
+        6492
       </numPop>
       <state>
         wyoming
@@ -2017,7 +2000,7 @@
         15
       </numPhys>
       <numPop>
-        4590
+        16982
       </numPop>
       <state>
         wyoming
@@ -2034,7 +2017,7 @@
         14
       </numPhys>
       <numPop>
-        6033
+        11282
       </numPop>
       <state>
         wyoming
@@ -2051,7 +2034,7 @@
         3
       </numPhys>
       <numPop>
-        1600
+        5123
       </numPop>
       <state>
         utah
@@ -2068,7 +2051,7 @@
         1
       </numPhys>
       <numPop>
-        883
+        3660
       </numPop>
       <state>
         utah
@@ -2085,7 +2068,7 @@
         5
       </numPhys>
       <numPop>
-        2450
+        4717
       </numPop>
       <state>
         utah
@@ -2102,7 +2085,7 @@
         10
       </numPhys>
       <numPop>
-        8493
+        10702
       </numPop>
       <state>
         utah
@@ -2119,7 +2102,7 @@
         1
       </numPhys>
       <numPop>
-        0
+        6118
       </numPop>
       <state>
         utah
@@ -2136,7 +2119,7 @@
         12
       </numPhys>
       <numPop>
-        9621
+        23062
       </numPop>
       <state>
         utah
@@ -2153,7 +2136,7 @@
         2
       </numPhys>
       <numPop>
-        750
+        1883
       </numPop>
       <state>
         utah
@@ -2170,7 +2153,7 @@
         1
       </numPhys>
       <numPop>
-        269
+        1595
       </numPop>
       <state>
         utah
@@ -2187,7 +2170,7 @@
         38
       </numPhys>
       <numPop>
-        18587
+        35179
       </numPop>
       <state>
         utah
@@ -2204,7 +2187,7 @@
         2
       </numPhys>
       <numPop>
-        1425
+        3933
       </numPop>
       <state>
         utah
@@ -2221,7 +2204,7 @@
         5
       </numPhys>
       <numPop>
-        4009
+        7924
       </numPop>
       <state>
         utah
@@ -2238,7 +2221,7 @@
         10
       </numPhys>
       <numPop>
-        4723
+        9775
       </numPop>
       <state>
         utah
@@ -2255,7 +2238,7 @@
         188
       </numPhys>
       <numPop>
-        68580
+        131426
       </numPop>
       <state>
         utah
@@ -2272,7 +2255,7 @@
         11
       </numPhys>
       <numPop>
-        10038
+        16704
       </numPop>
       <state>
         utah
@@ -2289,7 +2272,7 @@
         9
       </numPhys>
       <numPop>
-        1993
+        8624
       </numPop>
       <state>
         utah
@@ -2306,7 +2289,7 @@
         28
       </numPhys>
       <numPop>
-        24904
+        37942
       </numPop>
       <state>
         utah
@@ -2323,7 +2306,7 @@
         1
       </numPhys>
       <numPop>
-        1534
+        8920
       </numPop>
       <state>
         utah
@@ -2340,7 +2323,7 @@
         1
       </numPhys>
       <numPop>
-        170
+        1734
       </numPop>
       <state>
         utah
@@ -2357,7 +2340,7 @@
         2
       </numPhys>
       <numPop>
-        809
+        6750
       </numPop>
       <state>
         utah
@@ -2374,7 +2357,7 @@
         5
       </numPhys>
       <numPop>
-        4798
+        8200
       </numPop>
       <state>
         utah
@@ -2391,7 +2374,7 @@
         3
       </numPhys>
       <numPop>
-        900
+        2467
       </numPop>
       <state>
         utah
@@ -2408,7 +2391,7 @@
         7
       </numPhys>
       <numPop>
-        5546
+        10191
       </numPop>
       <state>
         utah
@@ -2425,7 +2408,7 @@
         5
       </numPhys>
       <numPop>
-        1235
+        3701
       </numPop>
       <state>
         oregon
@@ -2442,7 +2425,7 @@
         3
       </numPhys>
       <numPop>
-        750
+        4059
       </numPop>
       <state>
         oregon
@@ -2459,7 +2442,7 @@
         10
       </numPhys>
       <numPop>
-        2290
+        9567
       </numPop>
       <state>
         oregon
@@ -2476,7 +2459,7 @@
         21
       </numPhys>
       <numPop>
-        3358
+        21522
       </numPop>
       <state>
         oregon
@@ -2493,7 +2476,7 @@
         4
       </numPhys>
       <numPop>
-        861
+        4658
       </numPop>
       <state>
         oregon
@@ -2510,7 +2493,7 @@
         4
       </numPhys>
       <numPop>
-        1037
+        6266
       </numPop>
       <state>
         oregon
@@ -2527,7 +2510,7 @@
         55
       </numPhys>
       <numPop>
-        18862
+        39780
       </numPop>
       <state>
         oregon
@@ -2544,7 +2527,7 @@
         11
       </numPhys>
       <numPop>
-        2611
+        8016
       </numPop>
       <state>
         oregon
@@ -2561,7 +2544,7 @@
         8
       </numPhys>
       <numPop>
-        2786
+        13469
       </numPop>
       <state>
         oregon
@@ -2578,7 +2561,7 @@
         7
       </numPhys>
       <numPop>
-        1335
+        4242
       </numPop>
       <state>
         oregon
@@ -2595,7 +2578,7 @@
         23
       </numPhys>
       <numPop>
-        9772
+        25756
       </numPop>
       <state>
         oregon
@@ -2612,7 +2595,7 @@
         6
       </numPhys>
       <numPop>
-        1190
+        5607
       </numPop>
       <state>
         oregon
@@ -2629,7 +2612,7 @@
         24
       </numPhys>
       <numPop>
-        6138
+        16191
       </numPop>
       <state>
         oregon
@@ -2646,7 +2629,7 @@
         20
       </numPhys>
       <numPop>
-        4425
+        18285
       </numPop>
       <state>
         oregon
@@ -2663,7 +2646,7 @@
         18
       </numPhys>
       <numPop>
-        4846
+        19674
       </numPop>
       <state>
         oregon
@@ -2680,7 +2663,7 @@
         9
       </numPhys>
       <numPop>
-        734
+        8554
       </numPop>
       <state>
         oregon
@@ -2697,7 +2680,7 @@
         17
       </numPhys>
       <numPop>
-        4732
+        16336
       </numPop>
       <state>
         oregon
@@ -2714,7 +2697,7 @@
         24
       </numPhys>
       <numPop>
-        6700
+        17959
       </numPop>
       <state>
         oregon
@@ -2731,7 +2714,7 @@
         337
       </numPhys>
       <numPop>
-        170562
+        226261
       </numPop>
       <state>
         oregon
@@ -2748,7 +2731,7 @@
         3
       </numPhys>
       <numPop>
-        560
+        2484
       </numPop>
       <state>
         oregon
@@ -2765,7 +2748,7 @@
         7
       </numPhys>
       <numPop>
-        2509
+        10580
       </numPop>
       <state>
         oregon
@@ -2782,7 +2765,7 @@
         15
       </numPhys>
       <numPop>
-        5007
+        29931
       </numPop>
       <state>
         oregon
@@ -2799,7 +2782,7 @@
         4
       </numPhys>
       <numPop>
-        1700
+        5587
       </numPop>
       <state>
         oregon
@@ -2816,7 +2799,7 @@
         19
       </numPhys>
       <numPop>
-        9040
+        22662
       </numPop>
       <state>
         oregon
@@ -2833,7 +2816,7 @@
         39
       </numPhys>
       <numPop>
-        5868
+        33783
       </numPop>
       <state>
         oregon
@@ -2850,7 +2833,7 @@
         11
       </numPhys>
       <numPop>
-        1509
+        8364
       </numPop>
       <state>
         oregon
@@ -2867,7 +2850,7 @@
         6
       </numPhys>
       <numPop>
-        1700
+        9315
       </numPop>
       <state>
         oregon
@@ -2884,7 +2867,7 @@
         25
       </numPhys>
       <numPop>
-        11756
+        18076
       </numPop>
       <state>
         oregon
@@ -2901,7 +2884,7 @@
         14
       </numPhys>
       <numPop>
-        10330
+        16106
       </numPop>
       <state>
         oregon
@@ -2918,7 +2901,7 @@
         7
       </numPhys>
       <numPop>
-        2661
+        10663
       </numPop>
       <state>
         oregon
@@ -2935,7 +2918,7 @@
         4
       </numPhys>
       <numPop>
-        1523
+        4357
       </numPop>
       <state>
         oregon
@@ -2952,7 +2935,7 @@
         7
       </numPhys>
       <numPop>
-        2000
+        8601
       </numPop>
       <state>
         oregon
@@ -2969,7 +2952,7 @@
         28
       </numPhys>
       <numPop>
-        11830
+        20309
       </numPop>
       <state>
         oregon
@@ -2986,7 +2969,7 @@
         10
       </numPhys>
       <numPop>
-        2512
+        7229
       </numPop>
       <state>
         montana
@@ -3003,7 +2986,7 @@
         8
       </numPhys>
       <numPop>
-        2230
+        6446
       </numPop>
       <state>
         montana
@@ -3020,7 +3003,7 @@
         6
       </numPhys>
       <numPop>
-        1256
+        7985
       </numPop>
       <state>
         montana
@@ -3037,7 +3020,7 @@
         9
       </numPhys>
       <numPop>
-        1500
+        12725
       </numPop>
       <state>
         montana
@@ -3054,7 +3037,7 @@
         16
       </numPhys>
       <numPop>
-        7500
+        14079
       </numPop>
       <state>
         montana
@@ -3071,7 +3054,7 @@
         28
       </numPhys>
       <numPop>
-        19520
+        21853
       </numPop>
       <state>
         montana
@@ -3088,7 +3071,7 @@
         5
       </numPhys>
       <numPop>
-        1046
+        4190
       </numPop>
       <state>
         montana
@@ -3105,7 +3088,7 @@
         4
       </numPhys>
       <numPop>
-        500
+        3491
       </numPop>
       <state>
         montana
@@ -3122,7 +3105,7 @@
         11
       </numPhys>
       <numPop>
-        2561
+        5601
       </numPop>
       <state>
         montana
@@ -3139,7 +3122,7 @@
         2
       </numPhys>
       <numPop>
-        995
+        2942
       </numPop>
       <state>
         montana
@@ -3156,7 +3139,7 @@
         12
       </numPhys>
       <numPop>
-        1975
+        13630
       </numPop>
       <state>
         montana
@@ -3173,7 +3156,7 @@
         5
       </numPhys>
       <numPop>
-        1524
+        5904
       </numPop>
       <state>
         montana
@@ -3190,7 +3173,7 @@
         4
       </numPhys>
       <numPop>
-        979
+        3713
       </numPop>
       <state>
         montana
@@ -3207,7 +3190,7 @@
         9
       </numPhys>
       <numPop>
-        2013
+        14123
       </numPop>
       <state>
         montana
@@ -3224,7 +3207,7 @@
         14
       </numPhys>
       <numPop>
-        3323
+        10731
       </numPop>
       <state>
         montana
@@ -3241,7 +3224,7 @@
         12
       </numPhys>
       <numPop>
-        2667
+        17191
       </numPop>
       <state>
         montana
@@ -3258,7 +3241,7 @@
         26
       </numPhys>
       <numPop>
-        11050
+        22944
       </numPop>
       <state>
         montana
@@ -3275,7 +3258,7 @@
         16
       </numPhys>
       <numPop>
-        6598
+        13962
       </numPop>
       <state>
         montana
@@ -3292,7 +3275,7 @@
         20
       </numPhys>
       <numPop>
-        4655
+        18785
       </numPop>
       <state>
         montana
@@ -3309,7 +3292,7 @@
         2
       </numPhys>
       <numPop>
-        860
+        3638
       </numPop>
       <state>
         montana
@@ -3326,7 +3309,7 @@
         4
       </numPhys>
       <numPop>
-        1000
+        4029
       </numPop>
       <state>
         montana
@@ -3343,7 +3326,7 @@
         26
       </numPhys>
       <numPop>
-        2591
+        17385
       </numPop>
       <state>
         montana
@@ -3360,7 +3343,7 @@
         30
       </numPhys>
       <numPop>
-        13570
+        23596
       </numPop>
       <state>
         montana
@@ -3377,7 +3360,7 @@
         13
       </numPhys>
       <numPop>
-        2493
+        11666
       </numPop>
       <state>
         montana
@@ -3394,7 +3377,7 @@
         9
       </numPhys>
       <numPop>
-        900
+        9546
       </numPop>
       <state>
         montana
@@ -3411,7 +3394,7 @@
         24
       </numPhys>
       <numPop>
-        27852
+        28833
       </numPop>
       <state>
         montana
@@ -3428,7 +3411,7 @@
         49
       </numPhys>
       <numPop>
-        8290
+        24146
       </numPop>
       <state>
         california
@@ -3445,7 +3428,7 @@
         78
       </numPhys>
       <numPop>
-        18315
+        48394
       </numPop>
       <state>
         california
@@ -3462,7 +3445,7 @@
         152
       </numPhys>
       <numPop>
-        41432
+        83539
       </numPop>
       <state>
         california
@@ -3479,7 +3462,7 @@
         12
       </numPhys>
       <numPop>
-        2429
+        7172
       </numPop>
       <state>
         california
@@ -3496,7 +3479,7 @@
         13
       </numPhys>
       <numPop>
-        5727
+        15148
       </numPop>
       <state>
         california
@@ -3513,7 +3496,7 @@
         13
       </numPhys>
       <numPop>
-        1978
+        6191
       </numPop>
       <state>
         california
@@ -3530,7 +3513,7 @@
         19
       </numPhys>
       <numPop>
-        4849
+        10042
       </numPop>
       <state>
         california
@@ -3547,7 +3530,7 @@
         31
       </numPhys>
       <numPop>
-        6054
+        19383
       </numPop>
       <state>
         california
@@ -3564,7 +3547,7 @@
         1015
       </numPhys>
       <numPop>
-        342782
+        416912
       </numPop>
       <state>
         california
@@ -3581,7 +3564,7 @@
         16
       </numPhys>
       <numPop>
-        4338
+        11401
       </numPop>
       <state>
         california
@@ -3598,7 +3581,7 @@
         18
       </numPhys>
       <numPop>
-        6150
+        16230
       </numPop>
       <state>
         california
@@ -3615,7 +3598,7 @@
         15
       </numPhys>
       <numPop>
-        2900
+        13591
       </numPop>
       <state>
         california
@@ -3632,7 +3615,7 @@
         33
       </numPhys>
       <numPop>
-        6875
+        26585
       </numPop>
       <state>
         california
@@ -3649,7 +3632,7 @@
         50
       </numPhys>
       <numPop>
-        15579
+        33857
       </numPop>
       <state>
         california
@@ -3666,7 +3649,7 @@
         22
       </numPhys>
       <numPop>
-        9554
+        14955
       </numPop>
       <state>
         california
@@ -3683,7 +3666,7 @@
         81
       </numPhys>
       <numPop>
-        36176
+        75657
       </numPop>
       <state>
         california
@@ -3700,7 +3683,7 @@
         127
       </numPhys>
       <numPop>
-        53543
+        61665
       </numPop>
       <state>
         california
@@ -3717,7 +3700,7 @@
         18
       </numPhys>
       <numPop>
-        2738
+        5526
       </numPop>
       <state>
         california
@@ -3734,7 +3717,7 @@
         9
       </numPhys>
       <numPop>
-        2515
+        7492
       </numPop>
       <state>
         california
@@ -3751,7 +3734,7 @@
         48
       </numPhys>
       <numPop>
-        14717
+        26140
       </numPop>
       <state>
         california
@@ -3768,7 +3751,7 @@
         8
       </numPhys>
       <numPop>
-        2880
+        8368
       </numPop>
       <state>
         california
@@ -3785,7 +3768,7 @@
         11
       </numPhys>
       <numPop>
-        1991
+        5259
       </numPop>
       <state>
         california
@@ -3802,7 +3785,7 @@
         13
       </numPhys>
       <numPop>
-        3907
+        9979
       </numPop>
       <state>
         california
@@ -3819,7 +3802,7 @@
         31
       </numPhys>
       <numPop>
-        9691
+        18920
       </numPop>
       <state>
         california
@@ -3836,7 +3819,7 @@
         48
       </numPhys>
       <numPop>
-        12288
+        34436
       </numPop>
       <state>
         california
@@ -3853,7 +3836,7 @@
         39
       </numPhys>
       <numPop>
-        7926
+        35440
       </numPop>
       <state>
         california
@@ -3870,7 +3853,7 @@
         58
       </numPhys>
       <numPop>
-        26579
+        34696
       </numPop>
       <state>
         california
@@ -3887,7 +3870,7 @@
         464
       </numPhys>
       <numPop>
-        263857
+        246131
       </numPop>
       <state>
         california
@@ -3904,7 +3887,7 @@
         10
       </numPhys>
       <numPop>
-        3632
+        7732
       </numPop>
       <state>
         california
@@ -3921,7 +3904,7 @@
         3
       </numPhys>
       <numPop>
-        1027
+        3301
       </numPop>
       <state>
         california
@@ -3938,7 +3921,7 @@
         23
       </numPhys>
       <numPop>
-        5892
+        13926
       </numPop>
       <state>
         california
@@ -3955,7 +3938,7 @@
         33
       </numPhys>
       <numPop>
-        14026
+        27559
       </numPop>
       <state>
         california
@@ -3972,7 +3955,7 @@
         35
       </numPhys>
       <numPop>
-        8074
+        19800
       </numPop>
       <state>
         california
@@ -3989,7 +3972,7 @@
         100
       </numPhys>
       <numPop>
-        34815
+        67806
       </numPop>
       <state>
         california
@@ -4006,7 +3989,7 @@
         31
       </numPhys>
       <numPop>
-        12900
+        31674
       </numPop>
       <state>
         california
@@ -4023,7 +4006,7 @@
         4
       </numPhys>
       <numPop>
-        1382
+        2417
       </numPop>
       <state>
         california
@@ -4040,7 +4023,7 @@
         35
       </numPhys>
       <numPop>
-        8259
+        25114
       </numPop>
       <state>
         california
@@ -4057,7 +4040,7 @@
         6
       </numPhys>
       <numPop>
-        1478
+        4098
       </numPop>
       <state>
         california
@@ -4074,7 +4057,7 @@
         9
       </numPhys>
       <numPop>
-        6816
+        9086
       </numPop>
       <state>
         california
@@ -4091,7 +4074,7 @@
         9
       </numPhys>
       <numPop>
-        1740
+        4802
       </numPop>
       <state>
         california
@@ -4108,7 +4091,7 @@
         36
       </numPhys>
       <numPop>
-        6545
+        27301
       </numPop>
       <state>
         california
@@ -4125,7 +4108,7 @@
         25
       </numPhys>
       <numPop>
-        8213
+        22522
       </numPop>
       <state>
         california
@@ -4142,7 +4125,7 @@
         39
       </numPhys>
       <numPop>
-        10973
+        23929
       </numPop>
       <state>
         california
@@ -4159,7 +4142,7 @@
         2
       </numPhys>
       <numPop>
-        966
+        3956
       </numPop>
       <state>
         california
@@ -4176,7 +4159,7 @@
         25
       </numPhys>
       <numPop>
-        4907
+        18801
       </numPop>
       <state>
         california
@@ -4193,7 +4176,7 @@
         39
       </numPhys>
       <numPop>
-        10376
+        18237
       </numPop>
       <state>
         california
@@ -4210,7 +4193,7 @@
         4
       </numPhys>
       <numPop>
-        1024
+        2042
       </numPop>
       <state>
         california
@@ -4227,7 +4210,7 @@
         72
       </numPhys>
       <numPop>
-        28923
+        50731
       </numPop>
       <state>
         california
@@ -4244,7 +4227,7 @@
         7
       </numPhys>
       <numPop>
-        1307
+        6328
       </numPop>
       <state>
         california
@@ -4261,7 +4244,7 @@
         35
       </numPhys>
       <numPop>
-        11279
+        37715
       </numPop>
       <state>
         california
@@ -4278,7 +4261,7 @@
         20
       </numPhys>
       <numPop>
-        5379
+        18347
       </numPop>
       <state>
         california
@@ -4295,7 +4278,7 @@
         1020
       </numPhys>
       <numPop>
-        148708
+        504131
       </numPop>
       <state>
         california
@@ -4312,7 +4295,7 @@
         8
       </numPhys>
       <numPop>
-        1774
+        8041
       </numPop>
       <state>
         california
@@ -4329,7 +4312,7 @@
         6
       </numPhys>
       <numPop>
-        894
+        6974
       </numPop>
       <state>
         california
@@ -4346,7 +4329,7 @@
         53
       </numPhys>
       <numPop>
-        15274
+        27738
       </numPop>
       <state>
         california
@@ -4363,7 +4346,7 @@
         9
       </numPhys>
       <numPop>
-        907
+        8504
       </numPop>
       <state>
         new mexico
@@ -4380,7 +4363,7 @@
         24
       </numPhys>
       <numPop>
-        15510
+        22930
       </numPop>
       <state>
         new mexico
@@ -4397,7 +4380,7 @@
         4
       </numPhys>
       <numPop>
-        450
+        16624
       </numPop>
       <state>
         new mexico
@@ -4414,7 +4397,7 @@
         7
       </numPhys>
       <numPop>
-        1800
+        3913
       </numPop>
       <state>
         new mexico
@@ -4431,7 +4414,7 @@
         18
       </numPhys>
       <numPop>
-        4578
+        16460
       </numPop>
       <state>
         new mexico
@@ -4448,7 +4431,7 @@
         16
       </numPhys>
       <numPop>
-        4650
+        7069
       </numPop>
       <state>
         new mexico
@@ -4465,7 +4448,7 @@
         42
       </numPhys>
       <numPop>
-        15000
+        23606
       </numPop>
       <state>
         new mexico
@@ -4482,7 +4465,7 @@
         29
       </numPhys>
       <numPop>
-        6290
+        14813
       </numPop>
       <state>
         new mexico
@@ -4499,7 +4482,7 @@
         8
       </numPhys>
       <numPop>
-        1711
+        11404
       </numPop>
       <state>
         new mexico
@@ -4516,7 +4499,7 @@
         19
       </numPhys>
       <numPop>
-        5550
+        12400
       </numPop>
       <state>
         new mexico
@@ -4533,7 +4516,7 @@
         2
       </numPhys>
       <numPop>
-        862
+        3536
       </numPop>
       <state>
         new mexico
@@ -4550,7 +4533,7 @@
         8
       </numPhys>
       <numPop>
-        1908
+        13320
       </numPop>
       <state>
         new mexico
@@ -4567,7 +4550,7 @@
         14
       </numPhys>
       <numPop>
-        6360
+        12893
       </numPop>
       <state>
         new mexico
@@ -4584,7 +4567,7 @@
         10
       </numPhys>
       <numPop>
-        1818
+        12611
       </numPop>
       <state>
         new mexico
@@ -4601,7 +4584,7 @@
         10
       </numPhys>
       <numPop>
-        305
+        10119
       </numPop>
       <state>
         new mexico
@@ -4618,7 +4601,7 @@
         3
       </numPhys>
       <numPop>
-        1000
+        12008
       </numPop>
       <state>
         new mexico
@@ -4635,7 +4618,7 @@
         21
       </numPhys>
       <numPop>
-        1970
+        14912
       </numPop>
       <state>
         new mexico
@@ -4652,7 +4635,7 @@
         32
       </numPhys>
       <numPop>
-        2718
+        16850
       </numPop>
       <state>
         new mexico
@@ -4669,7 +4652,7 @@
         7
       </numPhys>
       <numPop>
-        3496
+        12963
       </numPop>
       <state>
         new mexico
@@ -4686,7 +4669,7 @@
         5
       </numPhys>
       <numPop>
-        997
+        8579
       </numPop>
       <state>
         new mexico
@@ -4703,7 +4686,7 @@
         9
       </numPhys>
       <numPop>
-        4710
+        14761
       </numPop>
       <state>
         new mexico
@@ -4720,7 +4703,7 @@
         13
       </numPhys>
       <numPop>
-        1552
+        7822
       </numPop>
       <state>
         new mexico
@@ -4737,7 +4720,7 @@
         13
       </numPhys>
       <numPop>
-        6417
+        14770
       </numPop>
       <state>
         new mexico
@@ -4754,7 +4737,7 @@
         13
       </numPhys>
       <numPop>
-        825
+        12064
       </numPop>
       <state>
         new mexico
@@ -4771,7 +4754,7 @@
         17
       </numPhys>
       <numPop>
-        2600
+        11443
       </numPop>
       <state>
         new mexico
@@ -4788,7 +4771,7 @@
         14
       </numPhys>
       <numPop>
-        2239
+        7441
       </numPop>
       <state>
         nevada
@@ -4805,7 +4788,7 @@
         12
       </numPhys>
       <numPop>
-        4229
+        3489
       </numPop>
       <state>
         nevada
@@ -4822,7 +4805,7 @@
         11
       </numPhys>
       <numPop>
-        2910
+        2811
       </numPop>
       <state>
         nevada
@@ -4839,7 +4822,7 @@
         3
       </numPhys>
       <numPop>
-        1065
+        1786
       </numPop>
       <state>
         nevada
@@ -4856,7 +4839,7 @@
         11
       </numPhys>
       <numPop>
-        1999
+        6825
       </numPop>
       <state>
         nevada
@@ -4873,7 +4856,7 @@
         6
       </numPhys>
       <numPop>
-        661
+        3568
       </numPop>
       <state>
         nevada
@@ -4890,7 +4873,7 @@
         29
       </numPhys>
       <numPop>
-        17325
+        9369
       </numPop>
       <state>
         nevada
@@ -4907,7 +4890,7 @@
         8
       </numPhys>
       <numPop>
-        1645
+        8133
       </numPop>
       <state>
         nevada
@@ -4924,7 +4907,7 @@
         5
       </numPhys>
       <numPop>
-        676
+        1895
       </numPop>
       <state>
         nevada
@@ -4941,7 +4924,7 @@
         1
       </numPhys>
       <numPop>
-        785
+        1830
       </numPop>
       <state>
         nevada
@@ -4958,7 +4941,7 @@
         52
       </numPhys>
       <numPop>
-        17493
+        17434
       </numPop>
       <state>
         nevada
@@ -4975,7 +4958,7 @@
         4
       </numPhys>
       <numPop>
-        2695
+        3045
       </numPop>
       <state>
         nevada
@@ -4992,7 +4975,7 @@
         13
       </numPhys>
       <numPop>
-        7650
+        7513
       </numPop>
       <state>
         nevada
@@ -5009,7 +4992,7 @@
         20
       </numPhys>
       <numPop>
-        6720
+        22747
       </numPop>
       <state>
         idaho
@@ -5026,7 +5009,7 @@
         42
       </numPhys>
       <numPop>
-        6342
+        24860
       </numPop>
       <state>
         idaho
@@ -5043,7 +5026,7 @@
         11
       </numPhys>
       <numPop>
-        4625
+        11101
       </numPop>
       <state>
         idaho
@@ -5060,7 +5043,7 @@
         33
       </numPhys>
       <numPop>
-        10850
+        25323
       </numPop>
       <state>
         idaho
@@ -5077,7 +5060,7 @@
         4
       </numPhys>
       <numPop>
-        1596
+        8387
       </numPop>
       <state>
         idaho
@@ -5094,7 +5077,7 @@
         9
       </numPhys>
       <numPop>
-        3850
+        13588
       </numPop>
       <state>
         idaho
@@ -5111,7 +5094,7 @@
         7
       </numPhys>
       <numPop>
-        1806
+        7197
       </numPop>
       <state>
         idaho
@@ -5128,7 +5111,7 @@
         23
       </numPhys>
       <numPop>
-        6096
+        13963
       </numPop>
       <state>
         idaho
@@ -5145,7 +5128,7 @@
         6
       </numPhys>
       <numPop>
-        2350
+        7729
       </numPop>
       <state>
         idaho
@@ -5162,7 +5145,7 @@
         48
       </numPhys>
       <numPop>
-        20280
+        29088
       </numPop>
       <state>
         idaho
@@ -5179,7 +5162,7 @@
         17
       </numPhys>
       <numPop>
-        2295
+        12384
       </numPop>
       <state>
         idaho
@@ -5196,7 +5179,7 @@
         19
       </numPhys>
       <numPop>
-        2412
+        23306
       </numPop>
       <state>
         idaho
@@ -5213,7 +5196,7 @@
         2
       </numPhys>
       <numPop>
-        1500
+        4044
       </numPop>
       <state>
         idaho
@@ -5230,7 +5213,7 @@
         5
       </numPhys>
       <numPop>
-        1600
+        3001
       </numPop>
       <state>
         idaho
@@ -5247,7 +5230,7 @@
         15
       </numPhys>
       <numPop>
-        2626
+        24606
       </numPop>
       <state>
         idaho
@@ -5264,7 +5247,7 @@
         5
       </numPhys>
       <numPop>
-        335
+        5250
       </numPop>
       <state>
         idaho
@@ -5281,7 +5264,7 @@
         10
       </numPhys>
       <numPop>
-        1900
+        12676
       </numPop>
       <state>
         idaho
@@ -5298,7 +5281,7 @@
         5
       </numPhys>
       <numPop>
-        398
+        4786
       </numPop>
       <state>
         idaho
@@ -5315,7 +5298,7 @@
         5
       </numPhys>
       <numPop>
-        1129
+        4785
       </numPop>
       <state>
         idaho
@@ -5332,7 +5315,7 @@
         10
       </numPhys>
       <numPop>
-        3335
+        15170
       </numPop>
       <state>
         idaho
@@ -5349,7 +5332,7 @@
         12
       </numPhys>
       <numPop>
-        8050
+        19242
       </numPop>
       <state>
         idaho
@@ -5366,7 +5349,7 @@
         20
       </numPhys>
       <numPop>
-        2140
+        13543
       </numPop>
       <state>
         idaho
@@ -5383,7 +5366,7 @@
         19
       </numPhys>
       <numPop>
-        7400
+        18818
       </numPop>
       <state>
         idaho
