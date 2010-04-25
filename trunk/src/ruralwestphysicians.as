@@ -176,9 +176,11 @@ package {
       borderCB = new CheckBox();
       borderCB.x = 660;
       borderCB.y = 370;
-      borderCB.selected = true;
+      borderCB.selected = false;
       borderCB.label = "";
       addChild(borderCB);
+      
+      mapObj
       
       borderCB.addEventListener(Event.CHANGE, CBBorderHandler);
       

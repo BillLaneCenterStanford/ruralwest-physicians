@@ -85,7 +85,7 @@ package
 		  loaderArray.push(loader);
 	  }
       
-      border = true;
+      border = false;
     }
     
     private function xmlLoadComplete(event:Event):void {

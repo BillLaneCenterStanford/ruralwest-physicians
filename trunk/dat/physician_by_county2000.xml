@@ -2,7 +2,7 @@
   <records>
     <county>
       <fips>
-        01003
+        1003
       </fips>
       <countyname>
         baldwin
@@ -19,7 +19,7 @@
     </county>
     <county>
       <fips>
-        01005
+        1005
       </fips>
       <countyname>
         barbour
@@ -36,7 +36,7 @@
     </county>
     <county>
       <fips>
-        01007
+        1007
       </fips>
       <countyname>
         bibb
@@ -53,7 +53,7 @@
     </county>
     <county>
       <fips>
-        01009
+        1009
       </fips>
       <countyname>
         blount
@@ -70,7 +70,7 @@
     </county>
     <county>
       <fips>
-        01011
+        1011
       </fips>
       <countyname>
         bullock
@@ -87,7 +87,7 @@
     </county>
     <county>
       <fips>
-        01013
+        1013
       </fips>
       <countyname>
         butler
@@ -104,7 +104,7 @@
     </county>
     <county>
       <fips>
-        01015
+        1015
       </fips>
       <countyname>
         calhoun
@@ -121,7 +121,7 @@
     </county>
     <county>
       <fips>
-        01017
+        1017
       </fips>
       <countyname>
         chambers
@@ -138,7 +138,7 @@
     </county>
     <county>
       <fips>
-        01019
+        1019
       </fips>
       <countyname>
         cherokee
@@ -155,7 +155,7 @@
     </county>
     <county>
       <fips>
-        01021
+        1021
       </fips>
       <countyname>
         chilton
@@ -172,7 +172,7 @@
     </county>
     <county>
       <fips>
-        01023
+        1023
       </fips>
       <countyname>
         choctaw
@@ -189,7 +189,7 @@
     </county>
     <county>
       <fips>
-        01025
+        1025
       </fips>
       <countyname>
         clarke
@@ -206,7 +206,7 @@
     </county>
     <county>
       <fips>
-        01027
+        1027
       </fips>
       <countyname>
         clay
@@ -223,7 +223,7 @@
     </county>
     <county>
       <fips>
-        01029
+        1029
       </fips>
       <countyname>
         cleburne
@@ -240,7 +240,7 @@
     </county>
     <county>
       <fips>
-        01031
+        1031
       </fips>
       <countyname>
         coffee
@@ -257,7 +257,7 @@
     </county>
     <county>
       <fips>
-        01033
+        1033
       </fips>
       <countyname>
         colbert
@@ -274,7 +274,7 @@
     </county>
     <county>
       <fips>
-        01035
+        1035
       </fips>
       <countyname>
         conecuh
@@ -291,7 +291,7 @@
     </county>
     <county>
       <fips>
-        01037
+        1037
       </fips>
       <countyname>
         coosa
@@ -308,7 +308,7 @@
     </county>
     <county>
       <fips>
-        01039
+        1039
       </fips>
       <countyname>
         covington
@@ -325,7 +325,7 @@
     </county>
     <county>
       <fips>
-        01041
+        1041
       </fips>
       <countyname>
         crenshaw
@@ -342,7 +342,7 @@
     </county>
     <county>
       <fips>
-        01043
+        1043
       </fips>
       <countyname>
         cullman
@@ -359,7 +359,7 @@
     </county>
     <county>
       <fips>
-        01045
+        1045
       </fips>
       <countyname>
         dale
@@ -376,7 +376,7 @@
     </county>
     <county>
       <fips>
-        01047
+        1047
       </fips>
       <countyname>
         dallas
@@ -393,7 +393,7 @@
     </county>
     <county>
       <fips>
-        01049
+        1049
       </fips>
       <countyname>
         de kalb
@@ -410,7 +410,7 @@
     </county>
     <county>
       <fips>
-        01051
+        1051
       </fips>
       <countyname>
         elmore
@@ -427,7 +427,7 @@
     </county>
     <county>
       <fips>
-        01053
+        1053
       </fips>
       <countyname>
         escambia
@@ -444,7 +444,7 @@
     </county>
     <county>
       <fips>
-        01055
+        1055
       </fips>
       <countyname>
         etowah
@@ -461,7 +461,7 @@
     </county>
     <county>
       <fips>
-        01057
+        1057
       </fips>
       <countyname>
         fayette
@@ -478,7 +478,7 @@
     </county>
     <county>
       <fips>
-        01059
+        1059
       </fips>
       <countyname>
         franklin
@@ -495,7 +495,7 @@
     </county>
     <county>
       <fips>
-        01061
+        1061
       </fips>
       <countyname>
         geneva
@@ -512,7 +512,7 @@
     </county>
     <county>
       <fips>
-        01063
+        1063
       </fips>
       <countyname>
         greene
@@ -529,7 +529,7 @@
     </county>
     <county>
       <fips>
-        01065
+        1065
       </fips>
       <countyname>
         hale
@@ -546,7 +546,7 @@
     </county>
     <county>
       <fips>
-        01067
+        1067
       </fips>
       <countyname>
         henry
@@ -563,7 +563,7 @@
     </county>
     <county>
       <fips>
-        01069
+        1069
       </fips>
       <countyname>
         houston
@@ -580,7 +580,7 @@
     </county>
     <county>
       <fips>
-        01071
+        1071
       </fips>
       <countyname>
         jackson
@@ -597,7 +597,7 @@
     </county>
     <county>
       <fips>
-        01073
+        1073
       </fips>
       <countyname>
         jefferson
@@ -614,7 +614,7 @@
     </county>
     <county>
       <fips>
-        01075
+        1075
       </fips>
       <countyname>
         lamar
@@ -631,7 +631,7 @@
     </county>
     <county>
       <fips>
-        01077
+        1077
       </fips>
       <countyname>
         lauderdale
@@ -648,7 +648,7 @@
     </county>
     <county>
       <fips>
-        01079
+        1079
       </fips>
       <countyname>
         lawrence
@@ -665,7 +665,7 @@
     </county>
     <county>
       <fips>
-        01081
+        1081
       </fips>
       <countyname>
         lee
@@ -682,7 +682,7 @@
     </county>
     <county>
       <fips>
-        01083
+        1083
       </fips>
       <countyname>
         limestone
@@ -699,7 +699,7 @@
     </county>
     <county>
       <fips>
-        01085
+        1085
       </fips>
       <countyname>
         lowndes
@@ -716,7 +716,7 @@
     </county>
     <county>
       <fips>
-        01087
+        1087
       </fips>
       <countyname>
         macon
@@ -733,7 +733,7 @@
     </county>
     <county>
       <fips>
-        01089
+        1089
       </fips>
       <countyname>
         madison
@@ -750,7 +750,7 @@
     </county>
     <county>
       <fips>
-        01091
+        1091
       </fips>
       <countyname>
         marengo
@@ -767,7 +767,7 @@
     </county>
     <county>
       <fips>
-        01093
+        1093
       </fips>
       <countyname>
         marion
@@ -784,7 +784,7 @@
     </county>
     <county>
       <fips>
-        01095
+        1095
       </fips>
       <countyname>
         marshall
@@ -801,7 +801,7 @@
     </county>
     <county>
       <fips>
-        01097
+        1097
       </fips>
       <countyname>
         mobile
@@ -818,7 +818,7 @@
     </county>
     <county>
       <fips>
-        01099
+        1099
       </fips>
       <countyname>
         monroe
@@ -835,7 +835,7 @@
     </county>
     <county>
       <fips>
-        01101
+        1101
       </fips>
       <countyname>
         montgomery
@@ -852,7 +852,7 @@
     </county>
     <county>
       <fips>
-        01103
+        1103
       </fips>
       <countyname>
         morgan
@@ -869,7 +869,7 @@
     </county>
     <county>
       <fips>
-        01105
+        1105
       </fips>
       <countyname>
         perry
@@ -886,7 +886,7 @@
     </county>
     <county>
       <fips>
-        01107
+        1107
       </fips>
       <countyname>
         pickens
@@ -903,7 +903,7 @@
     </county>
     <county>
       <fips>
-        01109
+        1109
       </fips>
       <countyname>
         pike
@@ -920,7 +920,7 @@
     </county>
     <county>
       <fips>
-        01111
+        1111
       </fips>
       <countyname>
         randolph
@@ -937,7 +937,7 @@
     </county>
     <county>
       <fips>
-        01113
+        1113
       </fips>
       <countyname>
         russell
@@ -954,7 +954,7 @@
     </county>
     <county>
       <fips>
-        01115
+        1115
       </fips>
       <countyname>
         st clair
@@ -971,7 +971,7 @@
     </county>
     <county>
       <fips>
-        01117
+        1117
       </fips>
       <countyname>
         shelby
@@ -988,7 +988,7 @@
     </county>
     <county>
       <fips>
-        01119
+        1119
       </fips>
       <countyname>
         sumter
@@ -1005,7 +1005,7 @@
     </county>
     <county>
       <fips>
-        01121
+        1121
       </fips>
       <countyname>
         talladega
@@ -1022,7 +1022,7 @@
     </county>
     <county>
       <fips>
-        01123
+        1123
       </fips>
       <countyname>
         tallapoosa
@@ -1039,7 +1039,7 @@
     </county>
     <county>
       <fips>
-        01125
+        1125
       </fips>
       <countyname>
         tuscaloosa
@@ -1056,7 +1056,7 @@
     </county>
     <county>
       <fips>
-        01127
+        1127
       </fips>
       <countyname>
         walker
@@ -1073,7 +1073,7 @@
     </county>
     <county>
       <fips>
-        01129
+        1129
       </fips>
       <countyname>
         washington
@@ -1090,7 +1090,7 @@
     </county>
     <county>
       <fips>
-        01131
+        1131
       </fips>
       <countyname>
         wilcox
@@ -1107,7 +1107,7 @@
     </county>
     <county>
       <fips>
-        01133
+        1133
       </fips>
       <countyname>
         winston
@@ -1124,7 +1124,7 @@
     </county>
     <county>
       <fips>
-        02020
+        2020
       </fips>
       <countyname>
         anchorage
@@ -1141,7 +1141,7 @@
     </county>
     <county>
       <fips>
-        02050
+        2050
       </fips>
       <countyname>
         bethel
@@ -1158,7 +1158,7 @@
     </county>
     <county>
       <fips>
-        02070
+        2070
       </fips>
       <countyname>
         dillingham
@@ -1175,7 +1175,7 @@
     </county>
     <county>
       <fips>
-        02090
+        2090
       </fips>
       <countyname>
         fairbanks north star
@@ -1192,7 +1192,7 @@
     </county>
     <county>
       <fips>
-        02100
+        2100
       </fips>
       <countyname>
         haines
@@ -1209,7 +1209,7 @@
     </county>
     <county>
       <fips>
-        02110
+        2110
       </fips>
       <countyname>
         juneau
@@ -1226,7 +1226,7 @@
     </county>
     <county>
       <fips>
-        02122
+        2122
       </fips>
       <countyname>
         kenai peninsula
@@ -1243,7 +1243,7 @@
     </county>
     <county>
       <fips>
-        02130
+        2130
       </fips>
       <countyname>
         ketchikan gateway
@@ -1260,7 +1260,7 @@
     </county>
     <county>
       <fips>
-        02150
+        2150
       </fips>
       <countyname>
         kodiak island
@@ -1277,7 +1277,7 @@
     </county>
     <county>
       <fips>
-        02170
+        2170
       </fips>
       <countyname>
         matanuska susitna
@@ -1294,7 +1294,7 @@
     </county>
     <county>
       <fips>
-        02180
+        2180
       </fips>
       <countyname>
         nome
@@ -1311,7 +1311,7 @@
     </county>
     <county>
       <fips>
-        02185
+        2185
       </fips>
       <countyname>
         north slope
@@ -1328,7 +1328,7 @@
     </county>
     <county>
       <fips>
-        02188
+        2188
       </fips>
       <countyname>
         northwest arctic
@@ -1345,7 +1345,7 @@
     </county>
     <county>
       <fips>
-        02201
+        2201
       </fips>
       <countyname>
         prince wales ketchikan
@@ -1362,7 +1362,7 @@
     </county>
     <county>
       <fips>
-        02220
+        2220
       </fips>
       <countyname>
         sitka
@@ -1379,7 +1379,7 @@
     </county>
     <county>
       <fips>
-        02232
+        2232
       </fips>
       <countyname>
         skagway hoonah angoon
@@ -1396,7 +1396,7 @@
     </county>
     <county>
       <fips>
-        02240
+        2240
       </fips>
       <countyname>
         southeast fairbanks
@@ -1413,7 +1413,7 @@
     </county>
     <county>
       <fips>
-        02261
+        2261
       </fips>
       <countyname>
         valdez cordova
@@ -1430,7 +1430,7 @@
     </county>
     <county>
       <fips>
-        02280
+        2280
       </fips>
       <countyname>
         wrangell petersburg
@@ -1447,7 +1447,7 @@
     </county>
     <county>
       <fips>
-        02290
+        2290
       </fips>
       <countyname>
         yukon koyukuk
@@ -1464,7 +1464,7 @@
     </county>
     <county>
       <fips>
-        04001
+        4001
       </fips>
       <countyname>
         apache
@@ -1481,7 +1481,7 @@
     </county>
     <county>
       <fips>
-        04003
+        4003
       </fips>
       <countyname>
         cochise
@@ -1498,7 +1498,7 @@
     </county>
     <county>
       <fips>
-        04005
+        4005
       </fips>
       <countyname>
         coconino
@@ -1515,7 +1515,7 @@
     </county>
     <county>
       <fips>
-        04007
+        4007
       </fips>
       <countyname>
         gila
@@ -1532,7 +1532,7 @@
     </county>
     <county>
       <fips>
-        04009
+        4009
       </fips>
       <countyname>
         graham
@@ -1549,7 +1549,7 @@
     </county>
     <county>
       <fips>
-        04011
+        4011
       </fips>
       <countyname>
         greenlee
@@ -1566,7 +1566,7 @@
     </county>
     <county>
       <fips>
-        04012
+        4012
       </fips>
       <countyname>
         la paz
@@ -1583,7 +1583,7 @@
     </county>
     <county>
       <fips>
-        04013
+        4013
       </fips>
       <countyname>
         maricopa
@@ -1600,7 +1600,7 @@
     </county>
     <county>
       <fips>
-        04015
+        4015
       </fips>
       <countyname>
         mohave
@@ -1617,7 +1617,7 @@
     </county>
     <county>
       <fips>
-        04017
+        4017
       </fips>
       <countyname>
         navajo
@@ -1634,7 +1634,7 @@
     </county>
     <county>
       <fips>
-        04019
+        4019
       </fips>
       <countyname>
         pima
@@ -1651,7 +1651,7 @@
     </county>
     <county>
       <fips>
-        04021
+        4021
       </fips>
       <countyname>
         pinal
@@ -1668,7 +1668,7 @@
     </county>
     <county>
       <fips>
-        04023
+        4023
       </fips>
       <countyname>
         santa cruz
@@ -1685,7 +1685,7 @@
     </county>
     <county>
       <fips>
-        04025
+        4025
       </fips>
       <countyname>
         yavapai
@@ -1702,7 +1702,7 @@
     </county>
     <county>
       <fips>
-        04027
+        4027
       </fips>
       <countyname>
         yuma
@@ -1719,7 +1719,7 @@
     </county>
     <county>
       <fips>
-        05001
+        5001
       </fips>
       <countyname>
         arkansas
@@ -1736,7 +1736,7 @@
     </county>
     <county>
       <fips>
-        05003
+        5003
       </fips>
       <countyname>
         ashley
@@ -1753,7 +1753,7 @@
     </county>
     <county>
       <fips>
-        05005
+        5005
       </fips>
       <countyname>
         baxter
@@ -1770,7 +1770,7 @@
     </county>
     <county>
       <fips>
-        05007
+        5007
       </fips>
       <countyname>
         benton
@@ -1787,7 +1787,7 @@
     </county>
     <county>
       <fips>
-        05009
+        5009
       </fips>
       <countyname>
         boone
@@ -1804,7 +1804,7 @@
     </county>
     <county>
       <fips>
-        05011
+        5011
       </fips>
       <countyname>
         bradley
@@ -1821,7 +1821,7 @@
     </county>
     <county>
       <fips>
-        05013
+        5013
       </fips>
       <countyname>
         calhoun
@@ -1838,7 +1838,7 @@
     </county>
     <county>
       <fips>
-        05015
+        5015
       </fips>
       <countyname>
         carroll
@@ -1855,7 +1855,7 @@
     </county>
     <county>
       <fips>
-        05017
+        5017
       </fips>
       <countyname>
         chicot
@@ -1872,7 +1872,7 @@
     </county>
     <county>
       <fips>
-        05019
+        5019
       </fips>
       <countyname>
         clark
@@ -1889,7 +1889,7 @@
     </county>
     <county>
       <fips>
-        05021
+        5021
       </fips>
       <countyname>
         clay
@@ -1906,7 +1906,7 @@
     </county>
     <county>
       <fips>
-        05023
+        5023
       </fips>
       <countyname>
         cleburne
@@ -1923,7 +1923,7 @@
     </county>
     <county>
       <fips>
-        05025
+        5025
       </fips>
       <countyname>
         cleveland
@@ -1940,7 +1940,7 @@
     </county>
     <county>
       <fips>
-        05027
+        5027
       </fips>
       <countyname>
         columbia
@@ -1957,7 +1957,7 @@
     </county>
     <county>
       <fips>
-        05029
+        5029
       </fips>
       <countyname>
         conway
@@ -1974,7 +1974,7 @@
     </county>
     <county>
       <fips>
-        05031
+        5031
       </fips>
       <countyname>
         craighead
@@ -1991,7 +1991,7 @@
     </county>
     <county>
       <fips>
-        05033
+        5033
       </fips>
       <countyname>
         crawford
@@ -2008,7 +2008,7 @@
     </county>
     <county>
       <fips>
-        05035
+        5035
       </fips>
       <countyname>
         crittenden
@@ -2025,7 +2025,7 @@
     </county>
     <county>
       <fips>
-        05037
+        5037
       </fips>
       <countyname>
         cross
@@ -2042,7 +2042,7 @@
     </county>
     <county>
       <fips>
-        05039
+        5039
       </fips>
       <countyname>
         dallas
@@ -2059,7 +2059,7 @@
     </county>
     <county>
       <fips>
-        05041
+        5041
       </fips>
       <countyname>
         desha
@@ -2076,7 +2076,7 @@
     </county>
     <county>
       <fips>
-        05043
+        5043
       </fips>
       <countyname>
         drew
@@ -2093,7 +2093,7 @@
     </county>
     <county>
       <fips>
-        05045
+        5045
       </fips>
       <countyname>
         faulkner
@@ -2110,7 +2110,7 @@
     </county>
     <county>
       <fips>
-        05047
+        5047
       </fips>
       <countyname>
         franklin
@@ -2127,7 +2127,7 @@
     </county>
     <county>
       <fips>
-        05049
+        5049
       </fips>
       <countyname>
         fulton
@@ -2144,7 +2144,7 @@
     </county>
     <county>
       <fips>
-        05051
+        5051
       </fips>
       <countyname>
         garland
@@ -2161,7 +2161,7 @@
     </county>
     <county>
       <fips>
-        05053
+        5053
       </fips>
       <countyname>
         grant
@@ -2178,7 +2178,7 @@
     </county>
     <county>
       <fips>
-        05055
+        5055
       </fips>
       <countyname>
         greene
@@ -2195,7 +2195,7 @@
     </county>
     <county>
       <fips>
-        05057
+        5057
       </fips>
       <countyname>
         hempstead
@@ -2212,7 +2212,7 @@
     </county>
     <county>
       <fips>
-        05059
+        5059
       </fips>
       <countyname>
         hot spring
@@ -2229,7 +2229,7 @@
     </county>
     <county>
       <fips>
-        05061
+        5061
       </fips>
       <countyname>
         howard
@@ -2246,7 +2246,7 @@
     </county>
     <county>
       <fips>
-        05063
+        5063
       </fips>
       <countyname>
         independence
@@ -2263,7 +2263,7 @@
     </county>
     <county>
       <fips>
-        05065
+        5065
       </fips>
       <countyname>
         izard
@@ -2280,7 +2280,7 @@
     </county>
     <county>
       <fips>
-        05067
+        5067
       </fips>
       <countyname>
         jackson
@@ -2297,7 +2297,7 @@
     </county>
     <county>
       <fips>
-        05069
+        5069
       </fips>
       <countyname>
         jefferson
@@ -2314,7 +2314,7 @@
     </county>
     <county>
       <fips>
-        05071
+        5071
       </fips>
       <countyname>
         johnson
@@ -2331,7 +2331,7 @@
     </county>
     <county>
       <fips>
-        05073
+        5073
       </fips>
       <countyname>
         lafayette
@@ -2348,7 +2348,7 @@
     </county>
     <county>
       <fips>
-        05075
+        5075
       </fips>
       <countyname>
         lawrence
@@ -2365,7 +2365,7 @@
     </county>
     <county>
       <fips>
-        05077
+        5077
       </fips>
       <countyname>
         lee
@@ -2382,7 +2382,7 @@
     </county>
     <county>
       <fips>
-        05079
+        5079
       </fips>
       <countyname>
         lincoln
@@ -2399,7 +2399,7 @@
     </county>
     <county>
       <fips>
-        05081
+        5081
       </fips>
       <countyname>
         little river
@@ -2416,7 +2416,7 @@
     </county>
     <county>
       <fips>
-        05083
+        5083
       </fips>
       <countyname>
         logan
@@ -2433,7 +2433,7 @@
     </county>
     <county>
       <fips>
-        05085
+        5085
       </fips>
       <countyname>
         lonoke
@@ -2450,7 +2450,7 @@
     </county>
     <county>
       <fips>
-        05087
+        5087
       </fips>
       <countyname>
         madison
@@ -2467,7 +2467,7 @@
     </county>
     <county>
       <fips>
-        05089
+        5089
       </fips>
       <countyname>
         marion
@@ -2484,7 +2484,7 @@
     </county>
     <county>
       <fips>
-        05091
+        5091
       </fips>
       <countyname>
         miller
@@ -2501,7 +2501,7 @@
     </county>
     <county>
       <fips>
-        05093
+        5093
       </fips>
       <countyname>
         mississippi
@@ -2518,7 +2518,7 @@
     </county>
     <county>
       <fips>
-        05095
+        5095
       </fips>
       <countyname>
         monroe
@@ -2535,7 +2535,7 @@
     </county>
     <county>
       <fips>
-        05099
+        5099
       </fips>
       <countyname>
         nevada
@@ -2552,7 +2552,7 @@
     </county>
     <county>
       <fips>
-        05101
+        5101
       </fips>
       <countyname>
         newton
@@ -2569,7 +2569,7 @@
     </county>
     <county>
       <fips>
-        05103
+        5103
       </fips>
       <countyname>
         ouachita
@@ -2586,7 +2586,7 @@
     </county>
     <county>
       <fips>
-        05105
+        5105
       </fips>
       <countyname>
         perry
@@ -2603,7 +2603,7 @@
     </county>
     <county>
       <fips>
-        05107
+        5107
       </fips>
       <countyname>
         phillips
@@ -2620,7 +2620,7 @@
     </county>
     <county>
       <fips>
-        05109
+        5109
       </fips>
       <countyname>
         pike
@@ -2637,7 +2637,7 @@
     </county>
     <county>
       <fips>
-        05111
+        5111
       </fips>
       <countyname>
         poinsett
@@ -2654,7 +2654,7 @@
     </county>
     <county>
       <fips>
-        05113
+        5113
       </fips>
       <countyname>
         polk
@@ -2671,7 +2671,7 @@
     </county>
     <county>
       <fips>
-        05115
+        5115
       </fips>
       <countyname>
         pope
@@ -2688,7 +2688,7 @@
     </county>
     <county>
       <fips>
-        05117
+        5117
       </fips>
       <countyname>
         prairie
@@ -2705,7 +2705,7 @@
     </county>
     <county>
       <fips>
-        05119
+        5119
       </fips>
       <countyname>
         pulaski
@@ -2722,7 +2722,7 @@
     </county>
     <county>
       <fips>
-        05121
+        5121
       </fips>
       <countyname>
         randolph
@@ -2739,7 +2739,7 @@
     </county>
     <county>
       <fips>
-        05123
+        5123
       </fips>
       <countyname>
         st francis
@@ -2756,7 +2756,7 @@
     </county>
     <county>
       <fips>
-        05125
+        5125
       </fips>
       <countyname>
         saline
@@ -2773,7 +2773,7 @@
     </county>
     <county>
       <fips>
-        05127
+        5127
       </fips>
       <countyname>
         scott
@@ -2790,7 +2790,7 @@
     </county>
     <county>
       <fips>
-        05129
+        5129
       </fips>
       <countyname>
         searcy
@@ -2807,7 +2807,7 @@
     </county>
     <county>
       <fips>
-        05131
+        5131
       </fips>
       <countyname>
         sebastian
@@ -2824,7 +2824,7 @@
     </county>
     <county>
       <fips>
-        05133
+        5133
       </fips>
       <countyname>
         sevier
@@ -2841,7 +2841,7 @@
     </county>
     <county>
       <fips>
-        05135
+        5135
       </fips>
       <countyname>
         sharp
@@ -2858,7 +2858,7 @@
     </county>
     <county>
       <fips>
-        05137
+        5137
       </fips>
       <countyname>
         stone
@@ -2875,7 +2875,7 @@
     </county>
     <county>
       <fips>
-        05139
+        5139
       </fips>
       <countyname>
         union
@@ -2892,7 +2892,7 @@
     </county>
     <county>
       <fips>
-        05141
+        5141
       </fips>
       <countyname>
         van buren
@@ -2909,7 +2909,7 @@
     </county>
     <county>
       <fips>
-        05143
+        5143
       </fips>
       <countyname>
         washington
@@ -2926,7 +2926,7 @@
     </county>
     <county>
       <fips>
-        05145
+        5145
       </fips>
       <countyname>
         white
@@ -2943,7 +2943,7 @@
     </county>
     <county>
       <fips>
-        05147
+        5147
       </fips>
       <countyname>
         woodruff
@@ -2960,7 +2960,7 @@
     </county>
     <county>
       <fips>
-        05149
+        5149
       </fips>
       <countyname>
         yell
@@ -2977,7 +2977,7 @@
     </county>
     <county>
       <fips>
-        06001
+        6001
       </fips>
       <countyname>
         alameda
@@ -2994,7 +2994,7 @@
     </county>
     <county>
       <fips>
-        06005
+        6005
       </fips>
       <countyname>
         amador
@@ -3011,7 +3011,7 @@
     </county>
     <county>
       <fips>
-        06007
+        6007
       </fips>
       <countyname>
         butte
@@ -3028,7 +3028,7 @@
     </county>
     <county>
       <fips>
-        06009
+        6009
       </fips>
       <countyname>
         calaveras
@@ -3045,7 +3045,7 @@
     </county>
     <county>
       <fips>
-        06011
+        6011
       </fips>
       <countyname>
         colusa
@@ -3062,7 +3062,7 @@
     </county>
     <county>
       <fips>
-        06013
+        6013
       </fips>
       <countyname>
         contra costa
@@ -3079,7 +3079,7 @@
     </county>
     <county>
       <fips>
-        06015
+        6015
       </fips>
       <countyname>
         del norte
@@ -3096,7 +3096,7 @@
     </county>
     <county>
       <fips>
-        06017
+        6017
       </fips>
       <countyname>
         el dorado
@@ -3113,7 +3113,7 @@
     </county>
     <county>
       <fips>
-        06019
+        6019
       </fips>
       <countyname>
         fresno
@@ -3130,7 +3130,7 @@
     </county>
     <county>
       <fips>
-        06021
+        6021
       </fips>
       <countyname>
         glenn
@@ -3147,7 +3147,7 @@
     </county>
     <county>
       <fips>
-        06023
+        6023
       </fips>
       <countyname>
         humboldt
@@ -3164,7 +3164,7 @@
     </county>
     <county>
       <fips>
-        06025
+        6025
       </fips>
       <countyname>
         imperial
@@ -3181,7 +3181,7 @@
     </county>
     <county>
       <fips>
-        06027
+        6027
       </fips>
       <countyname>
         inyo
@@ -3198,7 +3198,7 @@
     </county>
     <county>
       <fips>
-        06029
+        6029
       </fips>
       <countyname>
         kern
@@ -3215,7 +3215,7 @@
     </county>
     <county>
       <fips>
-        06031
+        6031
       </fips>
       <countyname>
         kings
@@ -3232,7 +3232,7 @@
     </county>
     <county>
       <fips>
-        06033
+        6033
       </fips>
       <countyname>
         lake
@@ -3249,7 +3249,7 @@
     </county>
     <county>
       <fips>
-        06035
+        6035
       </fips>
       <countyname>
         lassen
@@ -3266,7 +3266,7 @@
     </county>
     <county>
       <fips>
-        06037
+        6037
       </fips>
       <countyname>
         los angeles
@@ -3283,7 +3283,7 @@
     </county>
     <county>
       <fips>
-        06039
+        6039
       </fips>
       <countyname>
         madera
@@ -3300,7 +3300,7 @@
     </county>
     <county>
       <fips>
-        06041
+        6041
       </fips>
       <countyname>
         marin
@@ -3317,7 +3317,7 @@
     </county>
     <county>
       <fips>
-        06043
+        6043
       </fips>
       <countyname>
         mariposa
@@ -3334,7 +3334,7 @@
     </county>
     <county>
       <fips>
-        06045
+        6045
       </fips>
       <countyname>
         mendocino
@@ -3351,7 +3351,7 @@
     </county>
     <county>
       <fips>
-        06047
+        6047
       </fips>
       <countyname>
         merced
@@ -3368,7 +3368,7 @@
     </county>
     <county>
       <fips>
-        06049
+        6049
       </fips>
       <countyname>
         modoc
@@ -3385,7 +3385,7 @@
     </county>
     <county>
       <fips>
-        06051
+        6051
       </fips>
       <countyname>
         mono
@@ -3402,7 +3402,7 @@
     </county>
     <county>
       <fips>
-        06053
+        6053
       </fips>
       <countyname>
         monterey
@@ -3419,7 +3419,7 @@
     </county>
     <county>
       <fips>
-        06055
+        6055
       </fips>
       <countyname>
         napa
@@ -3436,7 +3436,7 @@
     </county>
     <county>
       <fips>
-        06057
+        6057
       </fips>
       <countyname>
         nevada
@@ -3453,7 +3453,7 @@
     </county>
     <county>
       <fips>
-        06059
+        6059
       </fips>
       <countyname>
         orange
@@ -3470,7 +3470,7 @@
     </county>
     <county>
       <fips>
-        06061
+        6061
       </fips>
       <countyname>
         placer
@@ -3487,7 +3487,7 @@
     </county>
     <county>
       <fips>
-        06063
+        6063
       </fips>
       <countyname>
         plumas
@@ -3504,7 +3504,7 @@
     </county>
     <county>
       <fips>
-        06065
+        6065
       </fips>
       <countyname>
         riverside
@@ -3521,7 +3521,7 @@
     </county>
     <county>
       <fips>
-        06067
+        6067
       </fips>
       <countyname>
         sacramento
@@ -3538,7 +3538,7 @@
     </county>
     <county>
       <fips>
-        06069
+        6069
       </fips>
       <countyname>
         san benito
@@ -3555,7 +3555,7 @@
     </county>
     <county>
       <fips>
-        06071
+        6071
       </fips>
       <countyname>
         san bernardino
@@ -3572,7 +3572,7 @@
     </county>
     <county>
       <fips>
-        06073
+        6073
       </fips>
       <countyname>
         san diego
@@ -3589,7 +3589,7 @@
     </county>
     <county>
       <fips>
-        06075
+        6075
       </fips>
       <countyname>
         san francisco
@@ -3606,7 +3606,7 @@
     </county>
     <county>
       <fips>
-        06077
+        6077
       </fips>
       <countyname>
         san joaquin
@@ -3623,7 +3623,7 @@
     </county>
     <county>
       <fips>
-        06079
+        6079
       </fips>
       <countyname>
         san luis obispo
@@ -3640,7 +3640,7 @@
     </county>
     <county>
       <fips>
-        06081
+        6081
       </fips>
       <countyname>
         san mateo
@@ -3657,7 +3657,7 @@
     </county>
     <county>
       <fips>
-        06083
+        6083
       </fips>
       <countyname>
         santa barbara
@@ -3674,7 +3674,7 @@
     </county>
     <county>
       <fips>
-        06085
+        6085
       </fips>
       <countyname>
         santa clara
@@ -3691,7 +3691,7 @@
     </county>
     <county>
       <fips>
-        06087
+        6087
       </fips>
       <countyname>
         santa cruz
@@ -3708,7 +3708,7 @@
     </county>
     <county>
       <fips>
-        06089
+        6089
       </fips>
       <countyname>
         shasta
@@ -3725,7 +3725,7 @@
     </county>
     <county>
       <fips>
-        06091
+        6091
       </fips>
       <countyname>
         sierra
@@ -3742,7 +3742,7 @@
     </county>
     <county>
       <fips>
-        06093
+        6093
       </fips>
       <countyname>
         siskiyou
@@ -3759,7 +3759,7 @@
     </county>
     <county>
       <fips>
-        06095
+        6095
       </fips>
       <countyname>
         solano
@@ -3776,7 +3776,7 @@
     </county>
     <county>
       <fips>
-        06097
+        6097
       </fips>
       <countyname>
         sonoma
@@ -3793,7 +3793,7 @@
     </county>
     <county>
       <fips>
-        06099
+        6099
       </fips>
       <countyname>
         stanislaus
@@ -3810,7 +3810,7 @@
     </county>
     <county>
       <fips>
-        06101
+        6101
       </fips>
       <countyname>
         sutter
@@ -3827,7 +3827,7 @@
     </county>
     <county>
       <fips>
-        06103
+        6103
       </fips>
       <countyname>
         tehama
@@ -3844,7 +3844,7 @@
     </county>
     <county>
       <fips>
-        06105
+        6105
       </fips>
       <countyname>
         trinity
@@ -3861,7 +3861,7 @@
     </county>
     <county>
       <fips>
-        06107
+        6107
       </fips>
       <countyname>
         tulare
@@ -3878,7 +3878,7 @@
     </county>
     <county>
       <fips>
-        06109
+        6109
       </fips>
       <countyname>
         tuolumne
@@ -3895,7 +3895,7 @@
     </county>
     <county>
       <fips>
-        06111
+        6111
       </fips>
       <countyname>
         ventura
@@ -3912,7 +3912,7 @@
     </county>
     <county>
       <fips>
-        06113
+        6113
       </fips>
       <countyname>
         yolo
@@ -3929,7 +3929,7 @@
     </county>
     <county>
       <fips>
-        06115
+        6115
       </fips>
       <countyname>
         yuba
@@ -3946,7 +3946,7 @@
     </county>
     <county>
       <fips>
-        08001
+        8001
       </fips>
       <countyname>
         adams
@@ -3963,7 +3963,7 @@
     </county>
     <county>
       <fips>
-        08003
+        8003
       </fips>
       <countyname>
         alamosa
@@ -3980,7 +3980,7 @@
     </county>
     <county>
       <fips>
-        08005
+        8005
       </fips>
       <countyname>
         arapahoe
@@ -3997,7 +3997,7 @@
     </county>
     <county>
       <fips>
-        08007
+        8007
       </fips>
       <countyname>
         archuleta
@@ -4014,7 +4014,7 @@
     </county>
     <county>
       <fips>
-        08009
+        8009
       </fips>
       <countyname>
         baca
@@ -4031,7 +4031,7 @@
     </county>
     <county>
       <fips>
-        08011
+        8011
       </fips>
       <countyname>
         bent
@@ -4048,7 +4048,7 @@
     </county>
     <county>
       <fips>
-        08013
+        8013
       </fips>
       <countyname>
         boulder
@@ -4065,7 +4065,7 @@
     </county>
     <county>
       <fips>
-        08015
+        8015
       </fips>
       <countyname>
         chaffee
@@ -4082,7 +4082,7 @@
     </county>
     <county>
       <fips>
-        08017
+        8017
       </fips>
       <countyname>
         cheyenne
@@ -4099,7 +4099,7 @@
     </county>
     <county>
       <fips>
-        08019
+        8019
       </fips>
       <countyname>
         clear creek
@@ -4116,7 +4116,7 @@
     </county>
     <county>
       <fips>
-        08021
+        8021
       </fips>
       <countyname>
         conejos
@@ -4133,7 +4133,7 @@
     </county>
     <county>
       <fips>
-        08023
+        8023
       </fips>
       <countyname>
         costilla
@@ -4150,7 +4150,7 @@
     </county>
     <county>
       <fips>
-        08025
+        8025
       </fips>
       <countyname>
         crowley
@@ -4167,7 +4167,7 @@
     </county>
     <county>
       <fips>
-        08027
+        8027
       </fips>
       <countyname>
         custer
@@ -4184,7 +4184,7 @@
     </county>
     <county>
       <fips>
-        08029
+        8029
       </fips>
       <countyname>
         delta
@@ -4201,7 +4201,7 @@
     </county>
     <county>
       <fips>
-        08031
+        8031
       </fips>
       <countyname>
         denver
@@ -4218,7 +4218,7 @@
     </county>
     <county>
       <fips>
-        08035
+        8035
       </fips>
       <countyname>
         douglas
@@ -4235,7 +4235,7 @@
     </county>
     <county>
       <fips>
-        08037
+        8037
       </fips>
       <countyname>
         eagle
@@ -4252,7 +4252,7 @@
     </county>
     <county>
       <fips>
-        08039
+        8039
       </fips>
       <countyname>
         elbert
@@ -4269,7 +4269,7 @@
     </county>
     <county>
       <fips>
-        08041
+        8041
       </fips>
       <countyname>
         el paso
@@ -4286,7 +4286,7 @@
     </county>
     <county>
       <fips>
-        08043
+        8043
       </fips>
       <countyname>
         fremont
@@ -4303,7 +4303,7 @@
     </county>
     <county>
       <fips>
-        08045
+        8045
       </fips>
       <countyname>
         garfield
@@ -4320,7 +4320,7 @@
     </county>
     <county>
       <fips>
-        08047
+        8047
       </fips>
       <countyname>
         gilpin
@@ -4337,7 +4337,7 @@
     </county>
     <county>
       <fips>
-        08049
+        8049
       </fips>
       <countyname>
         grand
@@ -4354,7 +4354,7 @@
     </county>
     <county>
       <fips>
-        08051
+        8051
       </fips>
       <countyname>
         gunnison
@@ -4371,7 +4371,7 @@
     </county>
     <county>
       <fips>
-        08053
+        8053
       </fips>
       <countyname>
         hinsdale
@@ -4388,7 +4388,7 @@
     </county>
     <county>
       <fips>
-        08055
+        8055
       </fips>
       <countyname>
         huerfano
@@ -4405,7 +4405,7 @@
     </county>
     <county>
       <fips>
-        08057
+        8057
       </fips>
       <countyname>
         jackson
@@ -4422,7 +4422,7 @@
     </county>
     <county>
       <fips>
-        08059
+        8059
       </fips>
       <countyname>
         jefferson
@@ -4439,7 +4439,7 @@
     </county>
     <county>
       <fips>
-        08061
+        8061
       </fips>
       <countyname>
         kiowa
@@ -4456,7 +4456,7 @@
     </county>
     <county>
       <fips>
-        08063
+        8063
       </fips>
       <countyname>
         kit carson
@@ -4473,7 +4473,7 @@
     </county>
     <county>
       <fips>
-        08065
+        8065
       </fips>
       <countyname>
         lake
@@ -4490,7 +4490,7 @@
     </county>
     <county>
       <fips>
-        08067
+        8067
       </fips>
       <countyname>
         la plata
@@ -4507,7 +4507,7 @@
     </county>
     <county>
       <fips>
-        08069
+        8069
       </fips>
       <countyname>
         larimer
@@ -4524,7 +4524,7 @@
     </county>
     <county>
       <fips>
-        08071
+        8071
       </fips>
       <countyname>
         las animas
@@ -4541,7 +4541,7 @@
     </county>
     <county>
       <fips>
-        08073
+        8073
       </fips>
       <countyname>
         lincoln
@@ -4558,7 +4558,7 @@
     </county>
     <county>
       <fips>
-        08075
+        8075
       </fips>
       <countyname>
         logan
@@ -4575,7 +4575,7 @@
     </county>
     <county>
       <fips>
-        08077
+        8077
       </fips>
       <countyname>
         mesa
@@ -4592,7 +4592,7 @@
     </county>
     <county>
       <fips>
-        08079
+        8079
       </fips>
       <countyname>
         mineral
@@ -4609,7 +4609,7 @@
     </county>
     <county>
       <fips>
-        08081
+        8081
       </fips>
       <countyname>
         moffat
@@ -4626,7 +4626,7 @@
     </county>
     <county>
       <fips>
-        08083
+        8083
       </fips>
       <countyname>
         montezuma
@@ -4643,7 +4643,7 @@
     </county>
     <county>
       <fips>
-        08085
+        8085
       </fips>
       <countyname>
         montrose
@@ -4660,7 +4660,7 @@
     </county>
     <county>
       <fips>
-        08087
+        8087
       </fips>
       <countyname>
         morgan
@@ -4677,7 +4677,7 @@
     </county>
     <county>
       <fips>
-        08089
+        8089
       </fips>
       <countyname>
         otero
@@ -4694,7 +4694,7 @@
     </county>
     <county>
       <fips>
-        08091
+        8091
       </fips>
       <countyname>
         ouray
@@ -4711,7 +4711,7 @@
     </county>
     <county>
       <fips>
-        08093
+        8093
       </fips>
       <countyname>
         park
@@ -4728,7 +4728,7 @@
     </county>
     <county>
       <fips>
-        08095
+        8095
       </fips>
       <countyname>
         phillips
@@ -4745,7 +4745,7 @@
     </county>
     <county>
       <fips>
-        08097
+        8097
       </fips>
       <countyname>
         pitkin
@@ -4762,7 +4762,7 @@
     </county>
     <county>
       <fips>
-        08099
+        8099
       </fips>
       <countyname>
         prowers
@@ -4779,7 +4779,7 @@
     </county>
     <county>
       <fips>
-        08101
+        8101
       </fips>
       <countyname>
         pueblo
@@ -4796,7 +4796,7 @@
     </county>
     <county>
       <fips>
-        08103
+        8103
       </fips>
       <countyname>
         rio blanco
@@ -4813,7 +4813,7 @@
     </county>
     <county>
       <fips>
-        08105
+        8105
       </fips>
       <countyname>
         rio grande
@@ -4830,7 +4830,7 @@
     </county>
     <county>
       <fips>
-        08107
+        8107
       </fips>
       <countyname>
         routt
@@ -4847,7 +4847,7 @@
     </county>
     <county>
       <fips>
-        08109
+        8109
       </fips>
       <countyname>
         saguache
@@ -4864,7 +4864,7 @@
     </county>
     <county>
       <fips>
-        08111
+        8111
       </fips>
       <countyname>
         san juan
@@ -4881,7 +4881,7 @@
     </county>
     <county>
       <fips>
-        08113
+        8113
       </fips>
       <countyname>
         san miguel
@@ -4898,7 +4898,7 @@
     </county>
     <county>
       <fips>
-        08115
+        8115
       </fips>
       <countyname>
         sedgwick
@@ -4915,7 +4915,7 @@
     </county>
     <county>
       <fips>
-        08117
+        8117
       </fips>
       <countyname>
         summit
@@ -4932,7 +4932,7 @@
     </county>
     <county>
       <fips>
-        08119
+        8119
       </fips>
       <countyname>
         teller
@@ -4949,7 +4949,7 @@
     </county>
     <county>
       <fips>
-        08121
+        8121
       </fips>
       <countyname>
         washington
@@ -4966,7 +4966,7 @@
     </county>
     <county>
       <fips>
-        08123
+        8123
       </fips>
       <countyname>
         weld
@@ -4983,7 +4983,7 @@
     </county>
     <county>
       <fips>
-        08125
+        8125
       </fips>
       <countyname>
         yuma
@@ -5000,7 +5000,7 @@
     </county>
     <county>
       <fips>
-        09001
+        9001
       </fips>
       <countyname>
         fairfield
@@ -5017,7 +5017,7 @@
     </county>
     <county>
       <fips>
-        09003
+        9003
       </fips>
       <countyname>
         hartford
@@ -5034,7 +5034,7 @@
     </county>
     <county>
       <fips>
-        09005
+        9005
       </fips>
       <countyname>
         litchfield
@@ -5051,7 +5051,7 @@
     </county>
     <county>
       <fips>
-        09007
+        9007
       </fips>
       <countyname>
         middlesex
@@ -5068,7 +5068,7 @@
     </county>
     <county>
       <fips>
-        09009
+        9009
       </fips>
       <countyname>
         new haven
@@ -5085,7 +5085,7 @@
     </county>
     <county>
       <fips>
-        09011
+        9011
       </fips>
       <countyname>
         new london
@@ -5102,7 +5102,7 @@
     </county>
     <county>
       <fips>
-        09013
+        9013
       </fips>
       <countyname>
         tolland
@@ -5119,7 +5119,7 @@
     </county>
     <county>
       <fips>
-        09015
+        9015
       </fips>
       <countyname>
         windham

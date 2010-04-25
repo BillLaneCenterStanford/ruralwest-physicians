@@ -31,11 +31,11 @@ package
       showMode = _mode;
       
       pcpColorArray = new Array(7);
-      pcpColorArray[0] = 0xCB0705;
-      pcpColorArray[1] = 0xED5133;
-      pcpColorArray[2] = 0xF4954C;
-      pcpColorArray[3] = 0xFFD06C;
-      pcpColorArray[4] = 0xFFFFC6;
+      pcpColorArray[0] = 0xFF4E37;
+      pcpColorArray[1] = 0xFF8878;
+      pcpColorArray[2] = 0xFFAE9A;
+      pcpColorArray[3] = 0xFFDBC9;
+      pcpColorArray[4] = 0xFFFAF7;
       pcpColorArray[5] = 0xcccccc;
       
       /////////////////////////////////////////////////
