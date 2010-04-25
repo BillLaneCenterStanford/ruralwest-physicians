@@ -38,15 +38,14 @@ package {
     private var borderCB:CheckBox;
     private var overlayCB:CheckBox;
     
+    private var myLegend:LegendBar;
+    
     [Embed(source="../img/lightBW.png")]
     private var lightMap:Class;
     private var instLightMap:Bitmap;
     
     public function ruralwestphysicians()
     {
-      
-      
-      
       blackBG = new Sprite();
       blackBG.graphics.beginFill(0xeeeeee);
       blackBG.graphics.drawRect(0, 0, 810, 650);
@@ -176,7 +175,7 @@ package {
       
       borderCB = new CheckBox();
       borderCB.x = 660;
-      borderCB.y = 390;
+      borderCB.y = 370;
       borderCB.selected = true;
       borderCB.label = "";
       addChild(borderCB);
@@ -188,13 +187,13 @@ package {
       border_label.size = 16;
       border_label.color = 0xffffff;
       border_label.x = 683;
-      border_label.y = 385;
+      border_label.y = 365;
       border_label.text = "display county \r borders";
       addChild(border_label);
       
       overlayCB = new CheckBox();
       overlayCB.x = 660;
-      overlayCB.y = 490;
+      overlayCB.y = 430;
       overlayCB.selected = false;
       overlayCB.label = "";
       addChild(overlayCB);
@@ -206,9 +205,12 @@ package {
       overlay_label.size = 16;
       overlay_label.color = 0xffffff;
       overlay_label.x = 683;
-      overlay_label.y = 485;
+      overlay_label.y = 425;
       overlay_label.text = "display rural \r overlay";
       addChild(overlay_label);
+      
+      myLegend = new LegendBar(665, 505, 20, 6, "percapita_physicians");
+      addChild(myLegend);
       
     }
     
