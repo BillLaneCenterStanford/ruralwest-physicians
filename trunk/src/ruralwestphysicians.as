@@ -1,7 +1,11 @@
 package {
+  import fl.controls.CheckBox;
+  
   import flare.display.TextSprite;
   import flare.widgets.ProgressBar;
   
+  import flash.display.Bitmap;
+  import flash.display.Shape;
   import flash.display.Sprite;
   import flash.events.*;
   import flash.filters.DropShadowFilter;
@@ -31,8 +35,17 @@ package {
     // The Map Object for the SVG map and frame
     private var mapObj:Object;
     
+    private var borderCB:CheckBox;
+    private var overlayCB:CheckBox;
+    
+    [Embed(source="../img/lightBW.png")]
+    private var lightMap:Class;
+    private var instLightMap:Bitmap;
+    
     public function ruralwestphysicians()
     {
+      
+      
       
       blackBG = new Sprite();
       blackBG.graphics.beginFill(0xeeeeee);
@@ -119,6 +132,7 @@ package {
       tt_county_state.font = "Calibri";
       tt_county_state.x = tt_ox;
       tt_county_state.y = tt_oy;
+      tt_county_state.text = "TOOLTIP";
       tt_county_state.visible = true;
       addChild(tt_county_state);
       
@@ -128,6 +142,7 @@ package {
       tt_population.font = "Calibri";
       tt_population.x = tt_ox;
       tt_population.y = tt_oy + tt_vert_spacing*1;
+      tt_population.text = "Mouse over a county for";
       tt_population.visible = true;
       addChild(tt_population);
       
@@ -137,6 +152,7 @@ package {
       tt_num_physicians.font = "Calibri";
       tt_num_physicians.x = tt_ox;
       tt_num_physicians.y = tt_oy + tt_vert_spacing*2;
+      tt_num_physicians.text = "more information.";
       tt_num_physicians.visible = true;
       addChild(tt_num_physicians);
       
@@ -158,10 +174,53 @@ package {
       tt_area.visible = true;
       addChild(tt_area);
       
+      borderCB = new CheckBox();
+      borderCB.x = 660;
+      borderCB.y = 390;
+      borderCB.selected = true;
+      borderCB.label = "";
+      addChild(borderCB);
+      
+      borderCB.addEventListener(Event.CHANGE, CBBorderHandler);
+      
+      var border_label:TextSprite = new TextSprite();
+      border_label.font = "Calibri";
+      border_label.size = 16;
+      border_label.color = 0xffffff;
+      border_label.x = 683;
+      border_label.y = 385;
+      border_label.text = "display county \r borders";
+      addChild(border_label);
+      
+      overlayCB = new CheckBox();
+      overlayCB.x = 660;
+      overlayCB.y = 490;
+      overlayCB.selected = false;
+      overlayCB.label = "";
+      addChild(overlayCB);
+      
+      overlayCB.addEventListener(Event.CHANGE, CBOverlayHandler);
+      
+      var overlay_label:TextSprite = new TextSprite();
+      overlay_label.font = "Calibri";
+      overlay_label.size = 16;
+      overlay_label.color = 0xffffff;
+      overlay_label.x = 683;
+      overlay_label.y = 485;
+      overlay_label.text = "display rural \r overlay";
+      addChild(overlay_label);
+      
+    }
+    
+    private function CBBorderHandler(event:Event):void{
+        mapObj.getBorder(borderCB.selected);
+        mapObj.updateMapColor();
     }
     
     private function loadMap():void
     {
+      
+      instLightMap = new lightMap as Bitmap;
       
       mapContainer = new Sprite();
       mapContainer.graphics.beginFill(0x006BAF);
@@ -192,9 +251,24 @@ package {
       //initTTGraphics();
       
       addChild(_bar);
+      
+      var boundLightMap:Shape = new Shape();
+      boundLightMap.graphics.clear();
+      boundLightMap.graphics.beginFill(0x000000);
+      boundLightMap.graphics.drawRect(0, 50, 810, 560);
+      boundLightMap.graphics.endFill();
+      instLightMap.mask = boundLightMap;
+      
+      instLightMap.scaleX = ZUI.getScaleFactor()*0.9;
+      instLightMap.scaleY = ZUI.getScaleFactor()*0.9;
+      instLightMap.x = ZUI.getImageLeft2();
+      instLightMap.y = ZUI.getImageTop2();
     }
     
     private function allMapLoaded(event:Event):void {
+      
+      instLightMap.visible = false;
+      mapContainer.addChild(instLightMap);
       
       try {
         removeChild(_bar);
@@ -204,25 +278,7 @@ package {
       mapObj.updateMapColor();
       //single_selected = tl_single.getCurSelectedZone();
       mapObj.SetMapEmbedSrc(3);
-      
-      /*
-      if (ExternalInterface.available) {
-        try {
-          trace("Entered External Interface");
-          output.textField.text = "Entered External Interface";
-          ExternalInterface.addCallback("getMapParams", getMapParams);
-          ExternalInterface.addCallback("setMapParams", setMapParams);
-        } catch (error:SecurityError) {
-          trace("A SecurityError occurred: " + error.message);
-          output.textField.text = "A SecurityError occurred: " + error.message;
-        } catch (error:Error) {
-          trace("An Error occurred: " + error.message);
-          output.textField.text = "An Error occurred: " + error.message;
-        }
-      } else {
-        trace("External interface is not available for this container.");
-      }
-      */
+
     }
     
     private function ttHandler(event:Event):void
@@ -249,9 +305,9 @@ package {
           tt_area.text = "";
       }
       else{
-        tt_county_state.text = "";
-        tt_population.text = "";
-        tt_num_physicians.text = "";
+        tt_county_state.text = "TOOLTIP";
+        tt_population.text = "Mouse over a county for";
+        tt_num_physicians.text = "more information.";
         tt_per_capita_physicians.text = "";
         tt_area.text = "";
       }
@@ -264,7 +320,16 @@ package {
       //RescaleMap();
       // do rescale functions here
       
+      instLightMap.scaleX = ZUI.getScaleFactor()*0.9;
+      instLightMap.scaleY = ZUI.getScaleFactor()*0.9;
+      instLightMap.x = ZUI.getImageLeft2();
+      instLightMap.y = ZUI.getImageTop2();
+      
       mapObj.ScaleAndTranslateMap(ZUI.getScaleFactor(), ZUI.getImageLeft(), ZUI.getImageTop());
+    }
+    
+    private function CBOverlayHandler(event:Event):void{
+        instLightMap.visible = overlayCB.selected;
     }
     
     private function tlHandler(evt:Event):void
