@@ -183,7 +183,7 @@ package
     public function getNumPhysicians():String{
       return num_physicians;
     }
-    public function getPerCapita(){
+    public function getPerCapita():String{
       return per_capita_physicians;
     }
     
