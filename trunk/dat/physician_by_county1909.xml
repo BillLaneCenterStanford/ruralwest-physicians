@@ -2,6 +2,23 @@
   <records>
     <county>
       <fips>
+        4027
+      </fips>
+      <countyname>
+        yuma
+      </countyname>
+      <numPhys>
+        10
+      </numPhys>
+      <numPop>
+        7733
+      </numPop>
+      <state>
+        arizona
+      </state>
+    </county>
+    <county>
+      <fips>
         4021
       </fips>
       <countyname>
@@ -1260,6 +1277,23 @@
     </county>
     <county>
       <fips>
+        53069
+      </fips>
+      <countyname>
+        wahkiakum
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        3285
+      </numPop>
+      <state>
+        washington
+      </state>
+    </county>
+    <county>
+      <fips>
         53041
       </fips>
       <countyname>
@@ -1270,6 +1304,40 @@
       </numPhys>
       <numPop>
         32127
+      </numPop>
+      <state>
+        washington
+      </state>
+    </county>
+    <county>
+      <fips>
+        53019
+      </fips>
+      <countyname>
+        ferry
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        4800
+      </numPop>
+      <state>
+        washington
+      </state>
+    </county>
+    <county>
+      <fips>
+        53027
+      </fips>
+      <countyname>
+        grays harbor
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        33590
       </numPop>
       <state>
         washington
@@ -1617,6 +1685,23 @@
     </county>
     <county>
       <fips>
+        53011
+      </fips>
+      <countyname>
+        clark
+      </countyname>
+      <numPhys>
+        23
+      </numPhys>
+      <numPop>
+        26115
+      </numPop>
+      <state>
+        washington
+      </state>
+    </county>
+    <county>
+      <fips>
         53001
       </fips>
       <countyname>
@@ -1814,6 +1899,23 @@
       </numPhys>
       <numPop>
         11574
+      </numPop>
+      <state>
+        wyoming
+      </state>
+    </county>
+    <county>
+      <fips>
+        56003
+      </fips>
+      <countyname>
+        big horn
+      </countyname>
+      <numPhys>
+        7
+      </numPhys>
+      <numPop>
+        8886
       </numPop>
       <state>
         wyoming
@@ -2110,6 +2212,40 @@
     </county>
     <county>
       <fips>
+        49037
+      </fips>
+      <countyname>
+        san juan
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        2377
+      </numPop>
+      <state>
+        utah
+      </state>
+    </county>
+    <county>
+      <fips>
+        49025
+      </fips>
+      <countyname>
+        kane
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        1652
+      </numPop>
+      <state>
+        utah
+      </state>
+    </county>
+    <county>
+      <fips>
         49005
       </fips>
       <countyname>
@@ -2154,6 +2290,40 @@
       </numPhys>
       <numPop>
         1595
+      </numPop>
+      <state>
+        utah
+      </state>
+    </county>
+    <county>
+      <fips>
+        49047
+      </fips>
+      <countyname>
+        uintah
+      </countyname>
+      <numPhys>
+        4
+      </numPhys>
+      <numPop>
+        7050
+      </numPop>
+      <state>
+        utah
+      </state>
+    </county>
+    <county>
+      <fips>
+        49055
+      </fips>
+      <countyname>
+        wayne
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        1749
       </numPop>
       <state>
         utah
@@ -2909,6 +3079,23 @@
     </county>
     <county>
       <fips>
+        41015
+      </fips>
+      <countyname>
+        curry
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        18076
+      </numPop>
+      <state>
+        oregon
+      </state>
+    </county>
+    <county>
+      <fips>
         41049
       </fips>
       <countyname>
@@ -3089,6 +3276,23 @@
       </numPhys>
       <numPop>
         3491
+      </numPop>
+      <state>
+        montana
+      </state>
+    </county>
+    <county>
+      <fips>
+        30023
+      </fips>
+      <countyname>
+        deer lodge
+      </countyname>
+      <numPhys>
+        14
+      </numPhys>
+      <numPop>
+        12988
       </numPop>
       <state>
         montana
@@ -3368,6 +3572,23 @@
     </county>
     <county>
       <fips>
+        30093
+      </fips>
+      <countyname>
+        silver bow
+      </countyname>
+      <numPhys>
+        74
+      </numPhys>
+      <numPop>
+        56848
+      </numPop>
+      <state>
+        montana
+      </state>
+    </county>
+    <county>
+      <fips>
         30099
       </fips>
       <countyname>
@@ -3378,6 +3599,23 @@
       </numPhys>
       <numPop>
         9546
+      </numPop>
+      <state>
+        montana
+      </state>
+    </county>
+    <county>
+      <fips>
+        30111
+      </fips>
+      <countyname>
+        yellowstone
+      </countyname>
+      <numPhys>
+        26
+      </numPhys>
+      <numPop>
+        22944
       </numPop>
       <state>
         montana
@@ -3446,6 +3684,40 @@
       </numPhys>
       <numPop>
         83539
+      </numPop>
+      <state>
+        california
+      </state>
+    </county>
+    <county>
+      <fips>
+        6009
+      </fips>
+      <countyname>
+        calaveras
+      </countyname>
+      <numPhys>
+        11
+      </numPhys>
+      <numPop>
+        9171
+      </numPop>
+      <state>
+        california
+      </state>
+    </county>
+    <county>
+      <fips>
+        6003
+      </fips>
+      <countyname>
+        alpine
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        309
       </numPop>
       <state>
         california
@@ -4575,6 +4847,23 @@
     </county>
     <county>
       <fips>
+        35019
+      </fips>
+      <countyname>
+        new mexico
+      </countyname>
+      <numPhys>
+        5
+      </numPhys>
+      <numPop>
+        10927
+      </numPop>
+      <state>
+        new mexico
+      </state>
+    </county>
+    <county>
+      <fips>
         35033
       </fips>
       <countyname>
@@ -4823,6 +5112,23 @@
       </numPhys>
       <numPop>
         2811
+      </numPop>
+      <state>
+        nevada
+      </state>
+    </county>
+    <county>
+      <fips>
+        32003
+      </fips>
+      <countyname>
+        clark
+      </countyname>
+      <numPhys>
+        0
+      </numPhys>
+      <numPop>
+        3321
       </numPop>
       <state>
         nevada

@@ -2,6 +2,23 @@
   <records>
     <county>
       <fips>
+        1001
+      </fips>
+      <countyname>
+        autauga
+      </countyname>
+      <numPhys>
+        36
+      </numPhys>
+      <numPop>
+        50364
+      </numPop>
+      <state>
+        alabama
+      </state>
+    </county>
+    <county>
+      <fips>
         1003
       </fips>
       <countyname>
