@@ -4065,6 +4065,23 @@
     </county>
     <county>
       <fips>
+        6071
+      </fips>
+      <countyname>
+        san bernadino
+      </countyname>
+      <numPhys>
+        105
+      </numPhys>
+      <numPop>
+        56706
+      </numPop>
+      <state>
+        california
+      </state>
+    </county>
+    <county>
+      <fips>
         6035
       </fips>
       <countyname>
