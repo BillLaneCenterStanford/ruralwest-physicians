@@ -36,16 +36,16 @@ package
       pcpColorArray[2] = 0xFFAE9A;
       pcpColorArray[3] = 0xFFDBC9;
       pcpColorArray[4] = 0xFFFAF7;
-      pcpColorArray[5] = 0xcccccc;
+      pcpColorArray[5] = 0xbbbbbb;
       
       /////////////////////////////////////////////////
       
       pcpArray = new Array(7);
-      pcpArray[0] = " > 0.0100";
-      pcpArray[1] = " > 0.0030";
-      pcpArray[2] = " > 0.0010";
-      pcpArray[3] = " > 0.0005";
-      pcpArray[4] = " > 0.0000";
+      pcpArray[0] = " > 10.0";
+      pcpArray[1] = " > 3.0";
+      pcpArray[2] = " > 1.0";
+      pcpArray[3] = " > 0.5";
+      pcpArray[4] = " > 0.0";
       pcpArray[5] = " Data N/A";
 
       drawLegend();
@@ -54,6 +54,14 @@ package
     }
     
     public function drawLegend():void{
+      
+      var ltitle:TextSprite = new TextSprite("Physicians per 1000 \rpopulation");
+      ltitle.color = 0xffffff;
+      ltitle.x = ox - 3;
+      ltitle.y = oy - 40;
+      ltitle.font = "Calibri";
+      ltitle.size = 14;
+      addChild(ltitle);
       
       legendSprite.graphics.clear();
       while(textContainer.numChildren > 0)
@@ -82,7 +90,7 @@ package
           if(j == 5)
             txt = new TextSprite(pcpArray[j]);
           else
-            txt = new TextSprite(pcpArray[j] + " per capita");
+            txt = new TextSprite(pcpArray[j] + " per thousand");
         }
         
         txt.color = 0xffffff;

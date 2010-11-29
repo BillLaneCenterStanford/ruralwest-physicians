@@ -1,9 +1,9 @@
-Census 2000 
-Census Tract Population and Population Centers
-Geography Division
-U.S. Census Bureau
-October 2002
-
+# Census 2000 
+# Census Tract Population and Population Centers
+# Geography Division
+# U.S. Census Bureau
+# October 2002
+#
 01,001,020100,1921,+32.47507,-86.486814
 01,001,020200,1892,+32.472508,-86.472482
 01,001,020300,3339,+32.474632,-86.460215

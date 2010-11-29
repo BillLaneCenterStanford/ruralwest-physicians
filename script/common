@@ -1,0 +1,4 @@
+python csv2xml_physician.py ../dat/physician_by_county1909.csv ../dat/physician_by_county1909.xml
+python csv2xml_physician.py ../dat/physician_by_county1980.csv ../dat/physician_by_county1980.xml
+python csv2xml_physician.py ../dat/physician_by_county2000.csv ../dat/physician_by_county2000.xml
+python csv2xml_physician.py ../dat/physician_by_county2009.csv ../dat/physician_by_county2009.xml
