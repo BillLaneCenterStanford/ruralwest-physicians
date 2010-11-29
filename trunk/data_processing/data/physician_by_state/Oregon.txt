@@ -1,0 +1,163 @@
+adams	300	umatilla	1
+albany	5200	linn	7
+amity	292	yamhill	3
+antelope	300	wasco	1
+arleta	n-a	multnomah	4
+arlington	475	gilliam	3
+ashland	2634	jackson	8
+astoria	10139	clatsop	12
+athena	800	umatilla	3
+aumsville	152	marion	1
+aurora	400	marion	2
+baker city	8500	baker	15
+bandon	1500	coos	3
+banks	300	washington	1
+bay city	203	tillamook	1
+beaverton	249	washington	1
+bend	300	crook	1
+bonanza	110	klamath	2
+bourne	225	baker	1
+brownsville	698	linn	2
+burns	750	harney	3
+canby	372	clackamas	1
+canyon city	400	grant	3
+carlton	145	yamhill	1
+carson	n-a	baker	1
+cascade locks	248	hood river	2
+chemawa	742	marion	1
+clatskanie	311	columbia	1
+cloverdale	n-a	tillamook	1
+coburg	185	lane	1
+condon	760	gilliam	2
+coquille	1000	coos	2
+cornelius	246	washington	1
+cornucopia	400	baker	1
+corvallis	2060	benton	4
+cottage grove	974	lane	5
+cove	223	union	1
+creswell	224	lane	2
+dallas	1271	polk	5
+dayton	293	yamhill	1
+drain	500	douglas	2
+dufur	430	wasco	4
+eagle point	600	jackson	1
+echo	1000	umatilla	2
+elgin	603	union	5
+enterprise	476	wallowa	3
+eugene	3226	lane	23
+flora	65	wallowa	1
+florence	400	lane	1
+forest grove	1096	washington	7
+fossil	370	wheeler	2
+freewater	500	umatilla	1
+gardiner	286	douglas	1
+gaston	182	washington	2
+gearhart	n-a	clatsop	1
+gervais	300	marion	1
+gold hill	385	jackson	3
+grant's pass	2290	josephine	10
+grass valley	250	sherman	1
+greenville	144	washington	1
+gresham	165	multnomah	2
+haines	200	baker	2
+halfway	110	baker	1
+halsey	294	linn	1
+harrisburg	502	linn	1
+helix	300	umatilla	1
+heppner	1300	morrow	3
+hermiston	500	umatilla	1
+hillsboro	980	washington	5
+hood river	2363	hood river	9
+hot lake	600	union	2
+hubbard	300	marion	1
+huntington	821	baker	1
+independence	909	polk	2
+ione	223	morrow	1
+jacksonville	653	jackson	2
+jefferson	500	marion	1
+john day	412	grant	1
+jordan valley 	100	malheur	1
+joseph	300	wallowa	4
+junction city	506	lane	6
+kent	100	sherman	1
+klamath falls	447	klamath	4
+la fayette	359	yamhill	1
+la grande	2991	union	7
+lakeview	761	lake	3
+lebanon	2000	linn	6
+lents	97	multnomah	3
+long creek	165	grant	1
+lostine	318	wallowa	1
+mcminnville	1421	yamhill	6
+madras	300	crook	1
+malheur	350	malheur	1
+marshfield	2500	coos	13
+medford	5500	jackson	9
+merrill	67	klamath	2
+mill city	25	marion	1
+milton	804	umatilla	3
+milwaukee	489	clackamas	1
+mist	78	columbia	1
+mitchell	190	wheeler	1
+molalla	142	clackamas	2
+monmouth	606	polk	1
+monroe	258	benton	1
+moro	500	sherman	3
+mosier	25	wasco	1
+mount angel	100	marion	1
+myrtle creek	500	douglas	1
+myrtle point	700	coos	3
+newberg	945	yamhill	3
+newport	600	lincoln	2
+north bend	1000	coos	3
+north powder	600	union	3
+north yamhill	254	yamhill	1
+nyssa	200	malheur	1
+oak grove	n-a	clackamas	1
+oakland	500	douglas	2
+ontario	1000	malheur	3
+oregon city	3494	clackamas	9
+oswego	510	clackamas	1
+palmer	n-a	multnomah	1
+paisley	100	lake	1
+pendleton	7000	umatilla	13
+philomath	343	benton	2
+pilot rock	n-a	umatilla	1
+portland	170000	multnomah	323
+prairie city	213	grant	1
+prineville	1100	crook	4
+rainier	1800	columbia	2
+richland	500	baker	1
+riddles	250	douglas	1
+roseburg	2500	douglas	10
+saint helen	258	columbia	2
+saint johns	300	multnomah	4
+saint paul	143	marion	1
+salem	13000	marion	32
+scio	346	linn	1
+seaside	191	clatsop	1
+sheridan	466	yamhill	2
+sherwood	111	washington	2
+siletz	500	lincoln	1
+silverton	1000	marion	4
+springfield	353	lane	1
+stayton	600	marion	2
+summerville	184	union	2
+sumpter	1000	baker	2
+sweet home	n-a	linn	1
+the dalles	3875	wasco	10
+tillamook	834	tillamook	2
+toledo	600	lincoln	1
+tualitin	50	washington	1
+turner	400	marion	3
+tygh valley	102	wasco	1
+union	937	union	4
+vale	350	malheur	1
+vernonia	62	columbia	1
+wallowa	350	wallowa	2
+wasco	485	sherman	2
+weston	626	umatilla	2
+willamina	250	yamhill	2
+woodburn	1200	marion	4
+yainax	110	klamath	1
+yoncalla	310	douglas	1

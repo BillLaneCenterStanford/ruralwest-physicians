@@ -1,0 +1,48 @@
+austin	700	lander	2
+battle mountain	365	lander	1
+bauvard	n-a	elko	1
+caliente	700	lincoln	2
+carlin	314	elko	2
+carson city	2100	ormsby	6
+chafey	n-a	humboldt	1
+cherry creek 	139	white pine	2
+dayton	461	lyon	1
+delamar	904	lincoln	1
+elko	1000	elko	1
+ely	1100	white pine	11
+eureka	785	eureka	1
+fairview	40	churchill	1
+fallon	1000	churchill	7
+gardnerville	438	douglas	4
+golconda	800	churchill	1
+goldfield	10000	esmeralda	22
+hawthorne	2000	esmeralda	1
+las vegas	1000	lincoln	2
+lida	25	esmeralda	1
+lovelocks	552	humboldt	4
+mcdermitt	n-a	humboldt	1
+mcgill	1000	white pine	1
+mason	n-a	lyon	1
+midas	20	elko	1
+mina	n-a	esmeralda	1
+owyhee	11	elko	1
+paradise valley	447	humboldt	1
+pioche	125	lincoln	4
+rawhide	5000	esmeralda	3
+reno	15000	washoe	43
+rhyolite	1000	nye	2
+round mountain	150	nye	2
+saint clair	1000	churchill	1
+schurz	300	esmeralda	1
+searchlight	1500	lincoln	3
+sheridan	238	douglas	1
+sparks	1800	washoe	4
+stewart	n-a	ormsby	1
+tonopah	6500	nye	9
+verdi	156	washoe	3
+virginia city	2695	storey	4
+wadsworth	537	washoe	2
+wells	300	elko	2
+winnemucca	1000	humboldt	4
+wonder	70	churchill	1
+yerington	200	lyon	4

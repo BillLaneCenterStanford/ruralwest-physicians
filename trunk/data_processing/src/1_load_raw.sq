@@ -1,0 +1,39 @@
+
+use roy;
+
+/*
+load data infile '~/Dropbox/west/data/raw_1980.csv' into table raw_1980 fields terminated by ',';
+load data infile '~/Dropbox/west/data/raw_2000.csv' into table raw_2000 fields terminated by ',';
+load data infile '~/Dropbox/west/data/raw_2009.csv' into table raw_2009 fields terminated by ',';
+*/
+
+/*
+create table census_1909 (fips varchar(5), totalpop int);
+load data infile '~/Dropbox/west/data/census1909_totalpop.csv' into table census_1909 fields terminated by ',';
+create table census_1980 (fips varchar(5), totalpop int);
+load data infile '~/Dropbox/west/data/census1980_totalpop.csv' into table census_1980 fields terminated by ',';
+create table census_2000 (fips varchar(5), totalpop int);
+load data infile '~/Dropbox/west/data/census2000_totalpop.csv' into table census_2000 fields terminated by ',';
+create table census_2009 (fips varchar(5), totalpop int);
+load data infile '~/Dropbox/west/data/census2009_totalpop.csv' into table census_2009 fields terminated by ',';
+*/
+
+/*
+drop table us_fips;
+create table us_fips (state varchar(20), county varchar(50), fips varchar(5));
+#load data infile '~/Dropbox/west/data/FIPS.txt' into table us_fips fields terminated by '\t';
+
+drop table processed_1980;
+create table processed_1980 (fips varchar(5), numphys int);
+load data infile '~/Dropbox/west/data/processed_1980.csv' into table processed_1980 fields terminated by '\t';
+
+drop table processed_2000;
+create table processed_2000 (fips varchar(5), numphys int);
+load data infile '~/Dropbox/west/data/processed_2000.csv' into table processed_2000 fields terminated by '\t';
+
+drop table processed_2009;
+create table processed_2009 (fips varchar(5), numphys int);
+load data infile '~/Dropbox/west/data/processed_2009.csv' into table processed_2009 fields terminated by '\t';
+*/
+
+

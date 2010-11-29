@@ -1,0 +1,118 @@
+absarokee	n-a	carbon	1
+aldridge	400	park	3
+alhambra	95	jefferson	2
+anaconda	13202	deerlodge	11
+bannack	200	beaverhead	1
+basin	600	jefferson	1
+bearcreek	1000	carbon	1
+belgrade	500	gallatin	2
+belt	2000	cascade	3
+big timber	1000	sweet grass	4
+billings	10000	yellowstone	17
+bonner	260	missoula	1
+boulder	922	jefferson	2
+bozeman	6000	gallatin	9
+bridger	178	carbon	4
+browning	100	teton	5
+butte	70000	silverbow	73
+cascade	187	cascade	1
+chinook	310	chouteau	2
+chouteau	500	teton	3
+clyde park	16	park	1
+columbia falls	629	flathead	1
+columbus	175	yellowstone	2
+conrad	300	teton	1
+corvallis	330	ravalli	2
+creston	n-a	flathead	1
+crow agency	56	rosebud	1
+culbertson	400	valley	3
+darby	160	ravalli	1
+deer lodge	1324	powell	4
+dillon	1530	beaverhead	4
+east helena	750	lewis and clark	1
+ekalaka	75	custer	1
+elkhorn	150	jefferson	1
+elliston	200	powell	1
+ennis	49	madison	1
+eureka	600	lincoln	1
+fishtail	10	carbon	1
+flandrem	75	valley	1
+forsyth	1150	rosebud	3
+fort benton	1024	chouteau	3
+fort shaw	375	cascade	1
+frenchtown	300	missoula	1
+fromberg	n-a	carbon	1
+gardiner	75	park	1
+garneill	100	fergus	1
+giltedge	220	fergus	1
+glasgow	900	valley	3
+glendive	1200	dawson	5
+golden	10	carbon	1
+great falls	23690	cascade	17
+hamilton	1257	ravalli	5
+hardin	100	yellowstone	1
+harlem	100	chouteau	1
+harlowton	300	meagher	2
+havre	1033	chouteau	4
+helena	18770	lewis and clark	27
+hunters' hot springs	54	park	1
+huntley	200	yellowstone	1
+jefferson city	184	jefferson	1
+jocko	10	missoula	1
+joliet	150	carbon	2
+kalispell	2526	flathead	12
+kendall	425	fergus	1
+lame deer 	50	rosebud	2
+laurel	350	yellowstone	2
+lavina	21	fergus	1
+lewistown	1100	fergus	14
+libby	260	lincoln	1
+lima	250	beaverhead	1
+livingston	2778	park	8
+logan	100	gallatin	1
+malta	100	valley	2
+manhattan	300	gallatin	1
+melrose 	186	silverbow	1
+miles city	1938	custer	8
+missoula	13000	missoula	26
+moore	125	fergus	2
+mondak	300	valley	1
+musselshell	125	yellowstone	1
+norris	27	madison	1
+paradise	379	sanders	1
+park city	100	yellowstone	2
+philbrook	n-a	fergus	1
+philipsburg	995	granite	2
+pipestone springs	10	jefferson	1
+plains	300	sanders	2
+polson	200	flathead	1
+pony	437	madison	2
+poplar	100	valley	1
+pryor	25	crow indian reservation	1
+redlodge	5250	carbon	5
+roundup	500	fergus	4
+ruby	300	madison	1
+saco	100	valley	1
+sandcoulee	1000	cascade	1
+sheridan 	581	madison	2
+sidney	n-a	dawson	3
+somers	300	flathead	2
+stanford	100	fergus	1
+stevensville	346	ravalli	3
+stockett	600	cascade	1
+storrs	100	gallatin	1
+taft	n-a	missoula	1
+thompson	300	sanders	1
+three forks	500	gallatin	2
+townsend	500	broadwater	4
+twin bridges	550	madison	2
+twodot	300	meagher	1
+victor	400	ravalli	2
+virginia city	568	madison	1
+warmsprings	60	deerlodge	3
+whitefish	1000	flathead	3
+whitehall	600	jefferson	3
+white sulphur springs	446	meagher	2
+wibaux	300	dawson	1
+wisdom	250	beaverhead	2
+zortman	200	chouteau	2

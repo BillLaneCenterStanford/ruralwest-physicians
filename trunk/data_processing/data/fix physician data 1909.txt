@@ -1,0 +1,19 @@
+san bernardino, CA (san bernadino)
+UINTAH, utah (uinta)
+wayne, Utah 0
+san juan, utah 0
+kane, utah
+ormsby, nevada (non-exist in census)
+Clark nevada 0
+Curry Oregon
+Guadalupe, new mexico (Guadaloupe)
+Big Horn, Wyoming (bighorn)
+Yellowstone Natl, 0 Wyoming (actually 26 in Montana)
+silver bow montana (silverbow)
+Deer Lodge, Montana
+alpine, CA 0
+Calaveras CA (calveras)
+Ferry Washingtong
+Clark Wahsingtong 23
+Wahkiakum Wangshington
+Grays Harbor/CHE, Wsshingtong (Grays Harbor)

@@ -1,0 +1,71 @@
+baggs	156	carbon	2
+basin	400	bighorn	3
+buckhorn	n-a	crook	1
+buffalo	710	johnson	5
+burlington	175	bighorn	4
+cambria	490	weston	1
+carneyville	20	sheridan	1
+carpenter	n-a	laramie	1
+casper	883	natrona	6
+cheyenne	13398	laramie	20
+cody	900	park	6
+cowley	400	bighorn	1
+cumberland	600	uinta	1
+daniel	19	uinta	1
+dayton	400	sheridan	1
+diamondville	897	uinta	1
+dietz	250	sheridan	1
+dixon	60	carbon	1
+douglas	1500	converse	6
+dubois	176	fremont	1
+encampment	800	carbon	3
+evanston	2110	uinta	4
+fort d.a. russell	n-a	laramie	1
+fort yellowstone	n-a	n-a	1
+garland	80	park	1
+gillette	151	crook	3
+glenrock	400	converse	1
+green river	1361	sweetwater	3
+greybull	25	bighorn	1
+guernsey	515	laramie	1
+gunn	275	sweetwater	1
+hanna	1500	carbon	1
+hartville	310	laramie	1
+hudson	n-a	fremont	1
+hulett	22	crook	1
+hyattville	85	bighorn	2
+jackson	59	uinta	1
+junction	50	laramie	1
+kemmerer	832	uinta	3
+lander	1000	fremont	8
+laramie	7238	albany	15
+lovell	15	bighorn	1
+lusk	180	converse	3
+meadow	n-a	laramie	1
+meeteetse	300	park	1
+monarch	325	sheridan	1
+moorcroft	16	crook	2
+mountain view	23	uinta	2
+newcastle	756	weston	4
+otto	n-a	bighorn	1
+parkman	125	sheridan	1
+pavillion	n-a	fremont	1
+pine bluffs	n-a	laramie	1
+pinedale	n-a	fremont	1
+ralston	n-a	park	1
+rawlins	2317	carbon	5
+riverston	600	fremont	2
+rock springs	6000	sweetwater	7
+saratoga	1200	carbon	2
+sheridan	4976	sheridan	20
+shoshoni	400	fremont	2
+sundance	294	crook	2
+sunrise	50	laramie	2
+superior	n-a	sweetwater	1
+sweetwater	290	sweetwater	1
+thermopolis	800	fremont	5
+torrington	25	laramie	3
+wheatland	327	laramie	5
+wilson	50	uinta	2
+wind river	50	fremont	1
+worland	15	bighorn	2
