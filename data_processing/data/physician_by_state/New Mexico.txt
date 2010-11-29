@@ -1,0 +1,119 @@
+alamogordo	3050	otero	10
+albuquerque	15000	bernalillo	42
+anthony	500	dona ana	1
+anton chico	847	guadaloupe	1
+artesia	2500	eddy	8
+aztec	307	san juan	2
+belen	153	valencia	5
+bernalillo	450	sandoval	2
+carlsbad	2500	eddy	6
+carrizozo	750	lincoln	3
+carthage	400	jefferson	1
+cerrillos	491	santa fe	2
+cerro	n-a	taos	1
+chloride	341	sierra	1
+cimarron	363	colfax	2
+clayton	1211	union	5
+cloudcroft	200	otero	1
+clovis	1500	curry	8
+corona	15	lincoln	1
+dawson	300	colfax	2
+dayton	300	eddy	2
+deming	1800	luna	7
+des moines	200	union	1
+dexter	n-a	chaves	3
+dora	n-a	roosevelt	1
+east las vegas	7000	san miguel	22
+elida	25	roosevelt	4
+elk	26	chaves	1
+espanola	200	rio arriba	2
+estancia	30	torrance	4
+farmington	300	san juan	3
+fierro	250	grant	1
+folsom	300	union	2
+fort bayard	500	grant	10
+fort stanton	50	lincoln	6
+fort wingate	n-a	mckinley	1
+gallup	2946	mckinley	2
+gardiner	n-a	colfax	1
+gibson	550	mckinley	2
+golden	323	santa fe	1
+grady	n-a	curry	1
+hachita	25	grant	1
+hagerman	426	chaves	2
+hanley	n-a	quay	1
+hanover	370	grant	1
+hapitan	n-a	lincoln	1
+haskell	n-a	quay	1
+haynes	n-a	rio arriba	1
+hillsboro	521	sierra	1
+jemez springs	397	sandoval	1
+kenna	60	chaves	1
+kettner	500	valencia	1
+knoles	n-a	eddy	1
+koehler	n-a	colfax	1
+laguna	1077	valencia	1
+lake arthur	200	chaves	2
+lakewood	250	eddy	1
+la lande	n-a	roosevelt	1
+la mesa 	200	dona ana	1
+laplata	300	san juan	1
+las cruces 	5000	dona ana	8
+las vegas	8500	san miguel	1
+leopold	50	grant	1
+lincon	352	lincoln	1
+logan	n-a	quay	1
+lordsburg	700	grant	1
+los lunas	178	valencia	1
+loving	n-a	eddy	1
+loyd	n-a	quay	1
+magdalena	700	socorro	2
+manzano	90	torrance	1
+melrose	1000	curry	4
+mescalero	600	otero	1
+mesilla	600	dona ana	1
+mesilla park	n-a	dona ana	1
+mogollon	210	socorro	1
+montoya	150	quay	1
+mora	600	mora	2
+moriarty	25	torrance	2
+mountainair	10	torrance	1
+nara visa	20	quay	2
+norton	n-a	quay	1
+oragrande	300	otero	1
+organ	60	dona ana	1
+parkview	250	rio arriba	1
+penablanca	n-a	sandoval	1
+pines	150	sandoval	1
+portales	800	roosevelt	7
+ragland	n-a	quay	1
+raton	3540	colfax	10
+rincon	n-a	dona ana	1
+romero	10	san miguel	1
+roswell	2006	chaves	23
+roy	300	mora	1
+saint vrain	n-a	curry	1
+san antonio	300	socorro	1
+san jon	n-a	quay	2
+san marcial	1500	socorro	3
+santa fe	5603	santa fe	9
+santa rita	795	grant	2
+santa rosa	1400	guadaloupe	3
+shiprock	n-a	san juan	3
+silver city	3600	grant	12
+socorro	2000	socorro	2
+solano	n-a	mora	2
+springer	350	colfax	1
+stanley	n-a	santa fe	1
+sunnyside	100	guadaloupe	1
+taos	1000	taos	2
+texico	100	curry	3
+tohatchi	n-a	mckinley	1
+tucumcari	1800	quay	10
+tularosa	500	otero	3
+van houten	25	colfax	1
+wagonmound	815	mora	2
+watrous	103	mora	3
+white oaks	385	lincoln	1
+willard	150	torrance	2
+zuni	n-a	mckinley	1

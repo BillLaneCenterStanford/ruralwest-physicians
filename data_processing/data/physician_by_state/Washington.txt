@@ -1,0 +1,256 @@
+aberdeen	15560	chehalis	17
+albion	225	whitman	1
+almira	500	lincoln	2
+anacortes	3500	skagit	6
+anatone	109	asotin	1
+arlington	1524	snohomish	4
+ashford	125	pierce	1
+asotin	832	asotin	3
+auburn	619	king	3
+ballard	10049	king	7
+behula	n-a	king	1
+bellevue	n-a	king	1
+bellingham	25000	whatcom	38
+beverly	100	grant	1
+bickleton	300	klickitat	2
+black diamond	1946	king	1
+blaine	1592	whatcom	2
+bothell	385	king	3
+bremerton	2000	kitsap	7
+brewster	300	okanogan	2
+bridgeport	250	douglas	1
+brighton beach	n-a	king	1
+buckley	1014	pierce	1
+bucoda	400	thurston	1
+burlington	227	skagit	3
+camas	520	clarke	2
+camden	n-a	stevens	1
+carbonado	730	pierce	1
+cashmere	350	chelan	3
+castlerock	900	cowlitz	1
+centralia	1600	lewis	8
+chattaroy	80	spokane	1
+chehalis	1775	lewis	8
+chelan	800	chelan	2
+cheney	781	spokane	3
+chesaw	200	okanogan	1
+chewelah	437	stevens	3
+clarkston	2684	asotin	2
+cle elum	1500	kittitas	4
+clement	n-a	stevens	1
+cleveland	170	klickitat	1
+colfax	3500	whitman	10
+college place	200	walla walla	4
+colton	275	whitman	3
+colville	594	stevens	6
+conconully	400	okanogan	1
+concrete	n-a	skagit	1
+connell	500	franklin	1
+cosmopolis	1150	chehalis	1
+coulee city	500	rant	1
+coupeville	n-a	island	1
+creston	300	lincoln	2
+daisey	62	stevens	1
+darrington	400	snohomish	1
+davenport	2500	lincoln	5
+dayton	2216	columbia	7
+deer park	216	spokane	3
+dryad	169	lewis	1
+east sound	92	san juan	2
+eatonville	75	pierce	1
+edison	216	skagit	1
+edmonds	1017	snohomish	2
+edwall	300	lincoln	2
+elberton	297	whitman	1
+elk	500	spokane	1
+ellensburg	5000	kittitas	10
+elma	3120	chehalis	3
+endicott	n-a	whitman	2
+enumclaw	600	king	4
+everett	20000	snohomish	22
+everson	134	whatcom	1
+fairfax	167	pierce	1
+fairfield	450	spokane	1
+fall city	205	king	1
+farmington	434	whitman	1
+ferndale	249	whatcom	3
+fern hill	n-a	pierce	1
+fort casey	n-a	island	2
+fort flagler	n-a	jefferson	1
+fort simcoe	52	yakima	1
+fort spokane	300	lincoln	2
+fort steilacoom	300	pierce	3
+fort walla walla	n-a	walla walla	1
+fort worden	n-a	jefferson	1
+franklin	520	king	1
+friday harbor	282	san juan	2
+garfield	697	whitman	3
+georgetown	3200	king	2
+gig harbor	200	pierce	1
+goldendale	738	klickitat	4
+govan	300	lincoln	2
+grandview	200	yakima	1
+granger	n-a	yakima	2
+granite falls	617	snohomish	1
+hadlock	200	jefferson	2
+hamilton	392	skagit	1
+hanford	300	benton	2
+harrington	950	lincoln	4
+hartford	n-a	snohomish	1
+hartline	250	grant	1
+hatton	100	adams	1
+hillyard	108	spokane	6
+hoquiam	11347	chehalis	8
+hunters	132	stevens	2
+huntsville	99	columbia	1
+ilwaco	584	pacific	1
+issaquah	925	king	2
+johnson	210	whitman	1
+kahlotus	400	franklin	1
+kalama	554	cowlitz	1
+kapowsin	350	pierce	1
+kelso	1200	cowlitz	4
+kennewick	800	benton	2
+kent	1000	king	6
+kettle falls	297	stevens	2
+kirkland	448	king	3
+krupp	100	grant	1
+la center	204	clarke	1
+la conner	800	skagit	3
+la crosse	240	whitman	1
+latah	500	spokane	1
+leavenworth	1100	chelan	2
+lebam	n-a	pacific	2
+lind	700	adams	3
+little falls	600	lewis	1
+little rock	n-a	thurston	1
+loomis	n-a	okanogan	1
+lynden	900	whatcom	3
+mabton	300	yakima	1
+mcmurray	205	skagit	1
+malden	n-a	whitman	1
+mansfield	200	douglas	1
+maple falls	200	whatcom	1
+marcus	200	stevens	1
+marysville	1102	snohomish	2
+mayfield	49	lewis	1
+mead	55	spokane	1
+medical lake	800	spokane	4
+meyers falls	450	stevens	1
+mineral	n-a	lewis	1
+molson	150	okanogan	1
+monroe	200	snohomish	3
+montesano	1194	chehalis	6
+mount vernon	2500	skagit	5
+neah bay	23	clallam	1
+newport	2000	stevens	2
+nob hill	n-a	n-a	2
+north bend	280	king	2
+northport	787	stevens	2
+north yakima	3154	yakima	32
+oakesdale	1400	whitman	2
+oak harbor	132	island	1
+oakville	420	chehalis	1
+o'brien	103	king	1
+odessa	1200	lincoln	2
+okanogan	n-a	okanogan	1
+olga	n-a	san juan	1
+olalla	26	kitsap	1
+olympia	6082	thurston	11
+omak	100	okanogan	1
+oroville	128	okanogan	3
+orting	1050	pierce	3
+palouse	2200	whitman	12
+pasco	1500	franklin	2
+paulsbo	100	kitsap	2
+pe ell	217	lewis	1
+pine city	100	whitman	1
+pomeroy	953	garfield	5
+port angeles	2321	clallam	5
+port blakeley	1400	kitsap	1
+port crescent	150	clallam	1
+port gamble	420	kitsap	1
+port madison	75	kitsap	1
+port orchard 	800	kitsap	3
+port townsend	3443	jefferson	9
+prescott	600	walla walla	1
+preston	n-a	lincoln	1
+prosser	2000	benton	5
+pullman	1308	whitman	8
+puyallup	4500	pierce	6
+quincy	350	grant	1
+ravensdale	n-a	king	1
+raymond	700	pacific	3
+reardon	400	lincoln	2
+redmond	300	king	1
+renton	412	king	4
+richland	n-a	benton	1
+ridgefield	135	clarke	1
+ritzville	2000	adams	5
+riverside	250	okanogan	1
+riverton	n-a	king	1
+roche harbor	254	san juan	1
+rockford	433	spokane	3
+rosalia	1200	whitman	2
+roslyn	4000	kittitas	2
+roy	172	pierce	3
+saint john	800	whitman	4
+seattle	186000	king	423
+sedro woolley	2800	skagit	5
+seguin	300	clallam	2
+shelton	883	mason	3
+skykomish	129	king	1
+snohomish	4032	snohomish	6
+south bend	711	pacific	5
+spanaway	200	pierce	1
+spangle	331	spokane	1
+spokane	36848	spokane	197
+sprague	1800	lincoln	4
+springdale	250	stevens	1
+stanwood	1011	snohomish	2
+starbuck	500	columbia	1
+steilacoom	50	pierce	1
+stevenson	350	skamania	1
+sultan	509	snohomish	2
+sumas	319	whatcom	2
+sumner	1100	pierce	2
+sunnyside	319	yakima	2
+tacoma	85000	pierce	120
+taylor	n-a	king	1
+tekoa	1200	whitman	2
+tenino	244	thurston	1
+thornton	300	whitman	1
+thorp	284	kittitas	1
+three lakes	164	snohomish	1
+toledo	285	lewis	2
+toppenish	36	yakima	2
+tulalip	650	snohomish	2
+twisp	250	okanogan	1
+uniontown	800	whitman	1
+usk	n-a	stevens	1
+valley	n-a	stevens	1
+vancouver	8000	clarke	17
+vashon	350	king	3
+waitsburg	1011	walla walla	3
+walla walla	14878	walla walla	29
+walville	n-a	lewis	1
+wapato	200	yakima	3
+warden	n-a	grant	1
+washougal	250	clarke	1
+washtucna	300	adams	1
+waterville	800	douglas	3
+waverly	500	spokane	1
+wenatchee	2365	chelan	9
+west beverly	n-a	kittitas	1
+westsound	54	san juan	1
+white bluffs	n-a	benton	1
+white salmon	189	klickitat	1
+wilbur	1000	lincoln	5
+wilkerson	969	pierce	1
+wilsoncreek	600	grant	1
+winlock	655	lewis	2
+winona	91	whitman	1
+woodland	197	cowlitz	3
+yacolt	250	clarke	1
+yakima	287	yakima	2
+zillah	169	yakima	2

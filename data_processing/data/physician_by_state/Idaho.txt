@@ -1,0 +1,111 @@
+albion	306	cassia	1
+american falls	300	oneida	3
+ashton	200	fremont	1
+atlanta	300	elmore	1
+bellevue	356	blaine	1
+blackfoot	1000	bingham	8
+boise	20000	ada	43
+bonner's ferry	800	bonner	1
+buhl	300	twin falls	1
+burke	621	shoshone	3
+burley	500	cassia	2
+caldwell	3000	canyon	8
+cambridge	525	washington	2
+challis	300	custer	1
+clearwater	90	idaho	1
+coeur d'alene	4000	kootenai	10
+cottonwood	400	idaho	3
+council 	400	washington	1
+culdesac	600	nez perce	1
+custer	500	custer	1
+de lamar	700	owyhee	1
+dent	n-a	nez perce	1
+downey	100	bannock	1
+driggs	250	fremont	1
+dubois	200	fremont	1
+elk city	100	idaho	1
+emmett	1500	canyon	4
+filer	300	twin falls	2
+franklin	435	oneida	1
+gem 	500	shoshone	1
+genesee	900	latah	1
+gifford	600	nez perce	2
+glenns ferry	300	elmore	2
+gooding	100	lincoln	3
+grangeville	1132	idaho	7
+hailey	1240	blaine	3
+harrison	702	kootenai	1
+heyburn	400	lincoln	2
+hope	250	bonner	1
+idaho falls	1262	bingham	10
+ilo	200	nez perce	3
+jerome	300	lincoln	2
+kamiah	250	nez perce	1
+kendrick	600	latah	1
+keuterville	100	idaho	1
+kooskia	297	idaho	2
+landore	100	washington	1
+lapwai	300	nez perce	2
+leland	150	nez perce	1
+lewiston	2425	nez perce	13
+mccammon	250	bannock	1
+mackay	800	custer	3
+malad city	1100	oneida	3
+marysville	104	fremont	1
+melrose	43	nez perce	1
+menan	300	fremont	1
+meridian	200	ada	4
+middleton	500	canyon	2
+midvale	100	washington	1
+mohler	24	nez perce	1
+montpelier	1444	bear lake	4
+moscow	5500	latah	13
+mountain home	529	elmore	2
+mullan	410	shoshone	3
+murray	300	shoshone	1
+nampa	3000	canyon	8
+new plymouth	200	canyon	1
+nez perce	1000	nez perce	5
+notus	n-a	canyon	1
+oakley	1000	cassia	4
+orofino	500	nez perce	3
+paris	906	bear lake	2
+parma	150	canyon	3
+payette	2500	canyon	6
+peck	200	nez perce	2
+placerville	230	boise	1
+pocatello	7000	bannock	8
+post falls	600	kootenai	1
+potlatch	n-a	latah	3
+preston	1500	oneida	3
+rathdrum	900	kootenai	2
+reubens	n-a	nez perce	1
+rexburg	1061	fremont	2
+rigby	100	fremont	2
+rock creek	40	twin falls	1
+roseberry	20	boise	1
+rupert	500	lincoln	1
+russell	50	nez perce	1
+saint anthony	411	fremont	6
+saint joe	300	kootenai	2
+saint maries	218	kootenai	1
+salmon	398	lemhi	5
+sandpoint	2800	bonner	7
+santa	n-a	kootenai	1
+shelley	150	bingham	1
+shoshone	600	lincoln	2
+silver city	800	owyhee	1
+soda springs	700	bannock	2
+spirit lake	n-a	kootenai	2
+star	80	ada	1
+stites	n-a	idaho	1
+sweet	35	boise	2
+troy	400	latah	1
+twin falls	1500	twin falls	16
+vanwyck	50	boise	1
+vollmer	n-a	nez perce	3
+wallace	2265	shoshone	12
+wardner	2000	shoshone	3
+weiser	3500	washington	6
+whitebird	176	idaho	1
+woodside	n-a	nez perce	1

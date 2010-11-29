@@ -1,0 +1,3055 @@
+01001	Autauga	36	50364	Alabama
+01003	Baldwin	485	174439	Alabama
+01005	Barbour	20	29309	Alabama
+01007	Bibb	7	21629	Alabama
+01009	Blount	20	57441	Alabama
+01011	Bullock	9	10796	Alabama
+01013	Butler	21	20090	Alabama
+01015	Calhoun	233	113419	Alabama
+01017	Chambers	34	34424	Alabama
+01019	Cherokee	12	24545	Alabama
+01021	Chilton	17	42444	Alabama
+01023	Choctaw	7	14055	Alabama
+01025	Clarke	20	26304	Alabama
+01027	Clay	10	13809	Alabama
+01029	Cleburne	1	14799	Alabama
+01031	Coffee	68	47753	Alabama
+01033	Colbert	110	54663	Alabama
+01035	Conecuh	9	13066	Alabama
+01037	Coosa	1	10814	Alabama
+01039	Covington	49	36856	Alabama
+01041	Crenshaw	6	13754	Alabama
+01043	Cullman	116	81324	Alabama
+01045	Dale	43	48292	Alabama
+01047	Dallas	84	42867	Alabama
+01049	De Kalb	55	68515	Alabama
+01051	Elmore	54	78106	Alabama
+01053	Escambia	37	37490	Alabama
+01055	Etowah	230	103303	Alabama
+01057	Fayette	13	17691	Alabama
+01059	Franklin	32	30801	Alabama
+01061	Geneva	12	25882	Alabama
+01063	Greene	7	9172	Alabama
+01065	Hale	4	18145	Alabama
+01067	Henry	8	16591	Alabama
+01069	Houston	393	98488	Alabama
+01071	Jackson	57	53134	Alabama
+01073	Jefferson	4141	659503	Alabama
+01075	Lamar	2	14295	Alabama
+01077	Lauderdale	198	89128	Alabama
+01079	Lawrence	12	34166	Alabama
+01081	Lee	238	133010	Alabama
+01083	Limestone	72	76135	Alabama
+01085	Lowndes	5	12644	Alabama
+01087	Macon	23	22290	Alabama
+01089	Madison	984	319510	Alabama
+01091	Marengo	18	21055	Alabama
+01093	Marion	33	29465	Alabama
+01095	Marshall	114	88484	Alabama
+01097	Mobile	1299	406309	Alabama
+01099	Monroe	21	22553	Alabama
+01101	Montgomery	749	224810	Alabama
+01103	Morgan	227	115959	Alabama
+01105	Perry	6	10643	Alabama
+01107	Pickens	10	19524	Alabama
+01109	Pike	34	30381	Alabama
+01111	Randolph	14	22620	Alabama
+01113	Russell	29	50504	Alabama
+01115	St Clair	44	79837	Alabama
+01117	Shelby	546	187784	Alabama
+01119	Sumter	8	13266	Alabama
+01121	Talladega	69	80279	Alabama
+01123	Tallapoosa	60	40773	Alabama
+01125	Tuscaloosa	552	179448	Alabama
+01127	Walker	89	68970	Alabama
+01129	Washington	7	17204	Alabama
+01131	Wilcox	6	12803	Alabama
+01133	Winston	15	23974	Alabama
+02013	Aleutians East	1	2810	Alaska
+02016	Aleutians West	4	4529	Alaska
+02020	Anchorage	1149	279243	Alaska
+02050	Bethel	21	17236	Alaska
+02060	Bristol Bay	1	953	Alaska
+02070	Dillingham	13	4933	Alaska
+02090	Fairbanks North Star	237	97970	Alaska
+02100	Haines	10	2271	Alaska
+02110	Juneau	94	30988	Alaska
+02122	Kenai Peninsula	105	53409	Alaska
+02130	Ketchikan Gateway	35	13142	Alaska
+02150	Kodiak Island	32	13049	Alaska
+02170	Matanuska Susitna	123	85458	Alaska
+02180	Nome	11	9261	Alaska
+02185	North Slope	5	6615	Alaska
+02188	Northwest Arctic	8	7502	Alaska
+02201	Prince Wales Ketchikan	11	5533	Alaska
+02220	Sitka	36	8889	Alaska
+02232	Skagway Hoonah Angoon	2	\N	Alaska
+02240	Southeast Fairbanks	5	6753	Alaska
+02261	Valdez Cordova	11	9362	Alaska
+02280	Wrangell Petersburg	14	5910	Alaska
+02290	Yukon Koyukuk	1	5701	Alaska
+04001	Apache	74	70207	Arizona
+04003	Cochise	171	129006	Arizona
+04005	Coconino	425	128558	Arizona
+04007	Gila	100	52166	Arizona
+04009	Graham	32	36452	Arizona
+04011	Greenlee	11	8002	Arizona
+04012	La Paz	16	20086	Arizona
+04013	Maricopa	11889	3954598	Arizona
+04015	Mohave	338	196281	Arizona
+04017	Navajo	154	112757	Arizona
+04019	Pima	4182	1012018	Arizona
+04021	Pinal	57	327301	Arizona
+04023	Santa Cruz	54	42923	Arizona
+04025	Yavapai	576	215503	Arizona
+04027	Yuma	282	194322	Arizona
+05001	Arkansas	22	19236	Arkansas
+05003	Ashley	17	22233	Arkansas
+05005	Baxter	116	42115	Arkansas
+05007	Benton	340	209791	Arkansas
+05009	Boone	76	36881	Arkansas
+05011	Bradley	10	11906	Arkansas
+05013	Calhoun	2	5435	Arkansas
+05015	Carroll	33	27557	Arkansas
+05017	Chicot	20	11993	Arkansas
+05019	Clark	23	23888	Arkansas
+05021	Clay	7	15845	Arkansas
+05023	Cleburne	42	25397	Arkansas
+05025	Cleveland	2	8665	Arkansas
+05027	Columbia	23	24146	Arkansas
+05029	Conway	20	20755	Arkansas
+05031	Craighead	342	92640	Arkansas
+05033	Crawford	63	59682	Arkansas
+05035	Crittenden	54	52554	Arkansas
+05037	Cross	17	18808	Arkansas
+05039	Dallas	5	8144	Arkansas
+05041	Desha	10	13538	Arkansas
+05043	Drew	15	18670	Arkansas
+05045	Faulkner	165	106823	Arkansas
+05047	Franklin	8	18185	Arkansas
+05049	Fulton	10	11688	Arkansas
+05051	Garland	307	97465	Arkansas
+05053	Grant	10	17690	Arkansas
+05055	Greene	48	40684	Arkansas
+05057	Hempstead	21	22900	Arkansas
+05059	Hot Spring	14	31909	Arkansas
+05061	Howard	8	14143	Arkansas
+05063	Independence	84	34641	Arkansas
+05065	Izard	8	12992	Arkansas
+05067	Jackson	20	16936	Arkansas
+05069	Jefferson	190	78373	Arkansas
+05071	Johnson	32	24851	Arkansas
+05073	Lafayette	4	7705	Arkansas
+05075	Lawrence	9	16861	Arkansas
+05077	Lee	7	10782	Arkansas
+05079	Lincoln	2	13609	Arkansas
+05081	Little River	9	12807	Arkansas
+05083	Logan	13	22567	Arkansas
+05085	Lonoke	30	65233	Arkansas
+05087	Madison	10	15651	Arkansas
+05089	Marion	10	16774	Arkansas
+05091	Miller	46	43226	Arkansas
+05093	Mississippi	35	46808	Arkansas
+05095	Monroe	6	8518	Arkansas
+05099	Nevada	3	9157	Arkansas
+05101	Newton	5	8298	Arkansas
+05103	Ouachita	25	25770	Arkansas
+05105	Perry	3	10317	Arkansas
+05107	Phillips	28	21603	Arkansas
+05109	Pike	6	10616	Arkansas
+05111	Poinsett	7	24721	Arkansas
+05113	Polk	30	20257	Arkansas
+05115	Pope	101	59952	Arkansas
+05117	Prairie	1	8580	Arkansas
+05119	Pulaski	2924	376797	Arkansas
+05121	Randolph	15	18134	Arkansas
+05123	St Francis	23	26336	Arkansas
+05125	Saline	146	98209	Arkansas
+05127	Scott	5	11248	Arkansas
+05129	Searcy	8	8048	Arkansas
+05131	Sebastian	468	122274	Arkansas
+05133	Sevier	14	16519	Arkansas
+05135	Sharp	11	17866	Arkansas
+05137	Stone	9	12090	Arkansas
+05139	Union	99	43213	Arkansas
+05141	Van Buren	11	16575	Arkansas
+05143	Washington	575	195803	Arkansas
+05145	White	122	74845	Arkansas
+05147	Woodruff	4	7439	Arkansas
+05149	Yell	21	21976	Arkansas
+06001	Alameda	5335	1474368	California
+06003	Alpine	2	1061	California
+06005	Amador	76	38238	California
+06007	Butte	570	220337	California
+06009	Calaveras	67	46843	California
+06011	Colusa	14	21204	California
+06013	Contra Costa	3529	1029703	California
+06015	Del Norte	54	29100	California
+06017	El Dorado	418	176075	California
+06019	Fresno	2146	909153	California
+06021	Glenn	12	28237	California
+06023	Humboldt	335	129000	California
+06025	Imperial	160	163972	California
+06027	Inyo	51	17136	California
+06029	Kern	1340	800458	California
+06031	Kings	163	149518	California
+06033	Lake	96	64866	California
+06035	Lassen	38	34574	California
+06037	Los Angeles	33164	9862049	California
+06039	Madera	191	148333	California
+06041	Marin	1876	248794	California
+06043	Mariposa	13	17976	California
+06045	Mendocino	252	86221	California
+06047	Merced	293	246117	California
+06049	Modoc	7	9184	California
+06051	Mono	38	12774	California
+06053	Monterey	1038	408238	California
+06055	Napa	573	133433	California
+06057	Nevada	313	97118	California
+06059	Orange	11188	3010759	California
+06061	Placer	1210	341945	California
+06063	Plumas	37	20275	California
+06065	Riverside	3410	2100516	California
+06067	Sacramento	4630	1394154	California
+06069	San Benito	58	54699	California
+06071	San Bernardino	4398	2015355	California
+06073	San Diego	11901	3001072	California
+06075	San Francisco	7142	808976	California
+06077	San Joaquin	1262	672388	California
+06079	San Luis Obispo	981	265297	California
+06081	San Mateo	3548	712690	California
+06083	Santa Barbara	1452	405396	California
+06085	Santa Clara	7831	1764499	California
+06087	Santa Cruz	843	253137	California
+06089	Shasta	550	180214	California
+06093	Siskiyou	95	44542	California
+06095	Solano	1028	407515	California
+06097	Sonoma	1631	466741	California
+06099	Stanislaus	1033	510694	California
+06101	Sutter	225	92207	California
+06103	Tehama	73	61550	California
+06105	Trinity	12	14317	California
+06107	Tulare	576	426276	California
+06109	Tuolumne	142	55644	California
+06111	Ventura	2181	797740	California
+06113	Yolo	878	197658	California
+06115	Yuba	59	73067	California
+08001	Adams	1016	430836	Colorado
+08003	Alamosa	44	15417	Colorado
+08005	Arapahoe	2136	554282	Colorado
+08007	Archuleta	21	12648	Colorado
+08009	Baca	5	3834	Colorado
+08011	Bent	4	5902	Colorado
+08013	Boulder	1307	293161	Colorado
+08014	Broomfield	117	54858	Colorado
+08015	Chaffee	49	16995	Colorado
+08017	Cheyenne	2	1749	Colorado
+08019	Clear Creek	17	8908	Colorado
+08021	Conejos	8	8067	Colorado
+08023	Costilla	2	3232	Colorado
+08025	Crowley	2	6332	Colorado
+08027	Custer	7	3999	Colorado
+08029	Delta	65	30923	Colorado
+08031	Denver	4015	598707	Colorado
+08033	Dolores	2	1986	Colorado
+08035	Douglas	687	280621	Colorado
+08037	Eagle	197	52331	Colorado
+08039	Elbert	11	22929	Colorado
+08041	El Paso	1691	596053	Colorado
+08043	Fremont	53	47283	Colorado
+08045	Garfield	120	55426	Colorado
+08047	Gilpin	6	5153	Colorado
+08049	Grand	25	13781	Colorado
+08051	Gunnison	33	15147	Colorado
+08053	Hinsdale	5	840	Colorado
+08055	Huerfano	12	7938	Colorado
+08057	Jackson	2	1346	Colorado
+08059	Jefferson	1347	533339	Colorado
+08061	Kiowa	1	1321	Colorado
+08063	Kit Carson	6	7843	Colorado
+08065	Lake	3	7994	Colorado
+08067	La Plata	270	50482	Colorado
+08069	Larimer	903	292825	Colorado
+08071	Las Animas	25	16048	Colorado
+08073	Lincoln	6	5286	Colorado
+08075	Logan	28	20905	Colorado
+08077	Mesa	441	143171	Colorado
+08079	Mineral	2	962	Colorado
+08081	Moffat	21	13840	Colorado
+08083	Montezuma	50	25384	Colorado
+08085	Montrose	93	40539	Colorado
+08087	Morgan	30	27804	Colorado
+08089	Otero	31	18774	Colorado
+08091	Ouray	22	4560	Colorado
+08093	Park	13	16993	Colorado
+08095	Phillips	4	4477	Colorado
+08097	Pitkin	91	15474	Colorado
+08099	Prowers	12	13116	Colorado
+08101	Pueblo	483	156737	Colorado
+08103	Rio Blanco	11	6340	Colorado
+08105	Rio Grande	15	11617	Colorado
+08107	Routt	103	22980	Colorado
+08109	Saguache	7	7058	Colorado
+08111	San Juan	1	552	Colorado
+08113	San Miguel	19	7552	Colorado
+08115	Sedgwick	3	2354	Colorado
+08117	Summit	104	26843	Colorado
+08119	Teller	41	21661	Colorado
+08123	Weld	366	249775	Colorado
+08125	Yuma	11	9669	Colorado
+09001	Fairfield	4085	895030	Connecticut
+09003	Hartford	4194	877312	Connecticut
+09005	Litchfield	481	187745	Connecticut
+09007	Middlesex	548	164794	Connecticut
+09009	New Haven	5072	846101	Connecticut
+09011	New London	783	264519	Connecticut
+09013	Tolland	280	148406	Connecticut
+09015	Windham	180	117345	Connecticut
+10001	Kent	310	155415	Delaware
+10003	New Castle	2057	529641	Delaware
+10005	Sussex	430	188036	Delaware
+11001	District of Columbia	5498	591833	District of Columbia
+12001	Alachua	2407	241364	Florida
+12003	Baker	18	26164	Florida
+12005	Bay	418	163946	Florida
+12007	Bradford	23	29012	Florida
+12009	Brevard	1522	536521	Florida
+12011	Broward	5800	1751234	Florida
+12013	Calhoun	8	13617	Florida
+12015	Charlotte	486	150060	Florida
+12017	Citrus	366	141416	Florida
+12019	Clay	436	184727	Florida
+12021	Collier	1420	315258	Florida
+12023	Columbia	136	69092	Florida
+12027	De Soto	32	33991	Florida
+12029	Dixie	8	14957	Florida
+12031	Duval	3402	850962	Florida
+12033	Escambia	1099	302939	Florida
+12035	Flagler	181	91247	Florida
+12037	Franklin	17	11202	Florida
+12039	Gadsden	45	47560	Florida
+12041	Gilchrist	5	17191	Florida
+12043	Glades	8	11175	Florida
+12045	Gulf	16	15667	Florida
+12047	Hamilton	5	14348	Florida
+12049	Hardee	12	28888	Florida
+12051	Hendry	30	39453	Florida
+12053	Hernando	317	171689	Florida
+12055	Highlands	215	100011	Florida
+12057	Hillsborough	4744	1180784	Florida
+12059	Holmes	14	19328	Florida
+12061	Indian River	508	132315	Florida
+12063	Jackson	52	49656	Florida
+12065	Jefferson	9	14547	Florida
+12067	Lafayette	3	8013	Florida
+12069	Lake	678	307243	Florida
+12071	Lee	1810	593136	Florida
+12073	Leon	872	264063	Florida
+12075	Levy	26	39460	Florida
+12079	Madison	10	18895	Florida
+12081	Manatee	940	315766	Florida
+12083	Marion	695	329628	Florida
+12085	Martin	570	138660	Florida
+12086	Miami-Dade	10389	2398245	Florida
+12087	Monroe	279	72243	Florida
+12089	Nassau	133	69835	Florida
+12091	Okaloosa	600	179693	Florida
+12093	Okeechobee	47	40359	Florida
+12095	Orange	3413	1072801	Florida
+12097	Osceola	358	263676	Florida
+12099	Palm Beach	5327	1265293	Florida
+12101	Pasco	846	471028	Florida
+12103	Pinellas	3709	910260	Florida
+12105	Polk	1125	580594	Florida
+12107	Putnam	83	73459	Florida
+12109	St Johns	704	181540	Florida
+12111	St Lucie	458	265108	Florida
+12113	Santa Rosa	348	150053	Florida
+12115	Sarasota	1767	372057	Florida
+12117	Seminole	1088	410854	Florida
+12119	Sumter	153	74721	Florida
+12121	Suwannee	23	39802	Florida
+12123	Taylor	21	21546	Florida
+12125	Union	11	15141	Florida
+12127	Volusia	1242	498036	Florida
+12129	Wakulla	17	31089	Florida
+12131	Walton	106	53837	Florida
+12133	Washington	16	23928	Florida
+13001	Appling	15	18038	Georgia
+13005	Bacon	14	10442	Georgia
+13009	Baldwin	134	46716	Georgia
+13011	Banks	4	16760	Georgia
+13013	Barrow	41	70073	Georgia
+13015	Bartow	99	94913	Georgia
+13017	Ben Hill	21	17635	Georgia
+13019	Berrien	10	17058	Georgia
+13021	Bibb	805	155216	Georgia
+13023	Bleckley	9	12683	Georgia
+13025	Brantley	3	15511	Georgia
+13027	Brooks	6	16425	Georgia
+13029	Bryan	71	31173	Georgia
+13031	Bulloch	105	67761	Georgia
+13033	Burke	19	22732	Georgia
+13035	Butts	12	24423	Georgia
+13037	Calhoun	5	6271	Georgia
+13039	Camden	60	47641	Georgia
+13043	Candler	8	10580	Georgia
+13045	Carroll	181	113688	Georgia
+13047	Catoosa	82	62825	Georgia
+13049	Charlton	4	10848	Georgia
+13051	Chatham	1145	251120	Georgia
+13053	Chattahoochee	15	13754	Georgia
+13055	Chattooga	10	26801	Georgia
+13057	Cherokee	209	210529	Georgia
+13059	Clarke	360	114737	Georgia
+13061	Clay	2	3231	Georgia
+13063	Clayton	282	273718	Georgia
+13065	Clinch	3	7060	Georgia
+13067	Cobb	1738	698158	Georgia
+13069	Coffee	66	40527	Georgia
+13071	Colquitt	59	45279	Georgia
+13073	Columbia	720	110627	Georgia
+13075	Cook	12	16608	Georgia
+13077	Coweta	145	122924	Georgia
+13079	Crawford	2	12510	Georgia
+13081	Crisp	38	22162	Georgia
+13083	Dade	16	16142	Georgia
+13085	Dawson	20	22006	Georgia
+13087	Decatur	33	28823	Georgia
+13089	De Kalb	4066	739956	Georgia
+13091	Dodge	29	20116	Georgia
+13093	Dooly	5	11548	Georgia
+13095	Dougherty	306	95754	Georgia
+13097	Douglas	166	127932	Georgia
+13099	Early	7	11713	Georgia
+13103	Effingham	19	52060	Georgia
+13105	Elbert	14	20494	Georgia
+13107	Emanuel	18	22825	Georgia
+13109	Evans	13	11646	Georgia
+13111	Fannin	31	22618	Georgia
+13113	Fayette	330	106465	Georgia
+13115	Floyd	402	95980	Georgia
+13117	Forsyth	260	168060	Georgia
+13119	Franklin	19	21824	Georgia
+13121	Fulton	5058	1014932	Georgia
+13123	Gilmer	34	28537	Georgia
+13125	Glascock	1	2796	Georgia
+13127	Glynn	281	75884	Georgia
+13129	Gordon	60	52800	Georgia
+13131	Grady	19	25115	Georgia
+13133	Greene	39	15635	Georgia
+13135	Gwinnett	1204	789499	Georgia
+13137	Habersham	51	43056	Georgia
+13139	Hall	451	184814	Georgia
+13141	Hancock	4	9440	Georgia
+13143	Haralson	22	28979	Georgia
+13145	Harris	51	29447	Georgia
+13147	Hart	24	24278	Georgia
+13149	Heard	1	11476	Georgia
+13151	Henry	291	191502	Georgia
+13153	Houston	233	133161	Georgia
+13155	Irwin	3	10231	Georgia
+13157	Jackson	39	61620	Georgia
+13159	Jasper	8	13842	Georgia
+13161	Jeff Davis	8	13486	Georgia
+13163	Jefferson	18	16443	Georgia
+13165	Jenkins	3	8547	Georgia
+13167	Johnson	4	9550	Georgia
+13169	Jones	22	27542	Georgia
+13171	Lamar	11	17000	Georgia
+13173	Lanier	6	8277	Georgia
+13175	Laurens	149	47848	Georgia
+13177	Lee	50	33761	Georgia
+13179	Liberty	55	58491	Georgia
+13181	Lincoln	5	8074	Georgia
+13183	Long	1	11452	Georgia
+13185	Lowndes	235	104583	Georgia
+13187	Lumpkin	35	27056	Georgia
+13189	McDuffie	18	21756	Georgia
+13191	McIntosh	6	11455	Georgia
+13193	Macon	7	13520	Georgia
+13195	Madison	8	28200	Georgia
+13197	Marion	3	6964	Georgia
+13199	Meriwether	16	22840	Georgia
+13201	Miller	11	6185	Georgia
+13205	Mitchell	16	24073	Georgia
+13207	Monroe	53	25252	Georgia
+13209	Montgomery	9	8930	Georgia
+13211	Morgan	20	18491	Georgia
+13213	Murray	14	40304	Georgia
+13215	Muscogee	747	186984	Georgia
+13217	Newton	81	98542	Georgia
+13219	Oconee	164	32221	Georgia
+13221	Oglethorpe	5	14106	Georgia
+13223	Paulding	46	133135	Georgia
+13225	Peach	17	26736	Georgia
+13227	Pickens	48	31176	Georgia
+13229	Pierce	21	18127	Georgia
+13231	Pike	4	17569	Georgia
+13233	Polk	31	42018	Georgia
+13235	Pulaski	20	9787	Georgia
+13237	Putnam	19	20385	Georgia
+13241	Rabun	33	16514	Georgia
+13243	Randolph	4	7161	Georgia
+13245	Richmond	1316	199486	Georgia
+13247	Rockdale	153	83222	Georgia
+13249	Schley	1	4255	Georgia
+13251	Screven	7	15133	Georgia
+13253	Seminole	17	9091	Georgia
+13255	Spalding	93	63913	Georgia
+13257	Stephens	49	25493	Georgia
+13259	Stewart	6	4666	Georgia
+13261	Sumter	54	32449	Georgia
+13263	Talbot	1	6414	Georgia
+13267	Tattnall	12	23469	Georgia
+13269	Taylor	2	8766	Georgia
+13271	Telfair	8	13355	Georgia
+13273	Terrell	6	10293	Georgia
+13275	Thomas	176	45778	Georgia
+13277	Tift	112	42434	Georgia
+13279	Toombs	54	28102	Georgia
+13281	Towns	22	11042	Georgia
+13283	Treutlen	3	7076	Georgia
+13285	Troup	126	64233	Georgia
+13287	Turner	9	9228	Georgia
+13289	Twiggs	1	10257	Georgia
+13291	Union	39	21351	Georgia
+13293	Upson	46	27530	Georgia
+13295	Walker	32	64799	Georgia
+13297	Walton	66	85813	Georgia
+13299	Ware	104	35879	Georgia
+13301	Warren	4	5844	Georgia
+13303	Washington	30	21006	Georgia
+13305	Wayne	39	29509	Georgia
+13309	Wheeler	1	6877	Georgia
+13311	White	25	25299	Georgia
+13313	Whitfield	197	93835	Georgia
+13315	Wilcox	1	8750	Georgia
+13317	Wilkes	14	10282	Georgia
+13319	Wilkinson	1	10026	Georgia
+13321	Worth	11	21306	Georgia
+15001	Hawaii	445	175784	Hawaii
+15003	Honolulu	3973	905034	Hawaii
+15007	Kauai	198	63689	Hawaii
+15009	Maui	405	143574	Hawaii
+16001	Ada	1329	380920	Idaho
+16003	Adams	4	3499	Idaho
+16005	Bannock	233	80812	Idaho
+16007	Bear Lake	8	5798	Idaho
+16009	Benewah	9	9352	Idaho
+16011	Bingham	50	43903	Idaho
+16013	Blaine	107	21731	Idaho
+16015	Boise	7	7504	Idaho
+16017	Bonner	97	41168	Idaho
+16019	Bonneville	248	99135	Idaho
+16021	Boundary	12	10962	Idaho
+16023	Butte	5	2751	Idaho
+16027	Canyon	212	183939	Idaho
+16029	Caribou	6	6826	Idaho
+16031	Cassia	39	21348	Idaho
+16035	Clearwater	19	8176	Idaho
+16037	Custer	1	4254	Idaho
+16039	Elmore	41	28997	Idaho
+16041	Franklin	6	12454	Idaho
+16043	Fremont	10	12551	Idaho
+16045	Gem	14	16513	Idaho
+16047	Gooding	11	14295	Idaho
+16049	Idaho	17	15448	Idaho
+16051	Jefferson	7	23860	Idaho
+16053	Jerome	13	20468	Idaho
+16055	Kootenai	404	137475	Idaho
+16057	Latah	62	35906	Idaho
+16059	Lemhi	9	7808	Idaho
+16061	Lewis	3	3594	Idaho
+16063	Lincoln	1	4503	Idaho
+16065	Madison	45	37456	Idaho
+16067	Minidoka	14	18645	Idaho
+16069	Nez Perce	112	38975	Idaho
+16071	Oneida	2	4130	Idaho
+16073	Owyhee	2	10877	Idaho
+16075	Payette	15	22966	Idaho
+16077	Power	3	7683	Idaho
+16079	Shoshone	18	12913	Idaho
+16081	Teton	10	8833	Idaho
+16083	Twin Falls	185	74284	Idaho
+16085	Valley	35	8862	Idaho
+16087	Washington	11	10206	Idaho
+17001	Adams	224	66897	Illinois
+17003	Alexander	2	8152	Illinois
+17005	Bond	19	18253	Illinois
+17007	Boone	102	54142	Illinois
+17009	Brown	2	6573	Illinois
+17011	Bureau	54	34933	Illinois
+17013	Calhoun	6	5101	Illinois
+17015	Carroll	9	15841	Illinois
+17017	Cass	4	13574	Illinois
+17019	Champaign	745	193636	Illinois
+17021	Christian	28	34501	Illinois
+17023	Clark	10	16834	Illinois
+17025	Clay	13	13767	Illinois
+17027	Clinton	34	36711	Illinois
+17029	Coles	111	52172	Illinois
+17031	Cook	24332	5294664	Illinois
+17033	Crawford	27	19555	Illinois
+17035	Cumberland	2	10846	Illinois
+17037	De Kalb	124	106321	Illinois
+17039	Dewitt	17	16354	Illinois
+17041	Douglas	10	19448	Illinois
+17043	Du Page	4620	930528	Illinois
+17045	Edgar	14	18692	Illinois
+17047	Edwards	1	6501	Illinois
+17049	Effingham	86	34275	Illinois
+17051	Fayette	10	20981	Illinois
+17053	Ford	14	14050	Illinois
+17055	Franklin	25	39488	Illinois
+17057	Fulton	34	36719	Illinois
+17059	Gallatin	3	5982	Illinois
+17061	Greene	12	13644	Illinois
+17063	Grundy	60	47958	Illinois
+17065	Hamilton	6	8267	Illinois
+17067	Hancock	13	18691	Illinois
+17069	Hardin	4	4381	Illinois
+17071	Henderson	4	7477	Illinois
+17073	Henry	36	49569	Illinois
+17075	Iroquois	30	30285	Illinois
+17077	Jackson	214	58264	Illinois
+17079	Jasper	2	9698	Illinois
+17081	Jefferson	107	40083	Illinois
+17083	Jersey	24	22622	Illinois
+17085	Jo Daviess	22	22188	Illinois
+17087	Johnson	5	13731	Illinois
+17089	Kane	925	507579	Illinois
+17091	Kankakee	191	112524	Illinois
+17093	Kendall	89	103460	Illinois
+17095	Knox	117	51857	Illinois
+17097	Lake	2535	712453	Illinois
+17099	La Salle	159	112474	Illinois
+17101	Lawrence	11	16681	Illinois
+17103	Lee	71	35129	Illinois
+17105	Livingston	38	37681	Illinois
+17107	Logan	18	29788	Illinois
+17109	McDonough	49	32788	Illinois
+17111	McHenry	442	318641	Illinois
+17113	Mclean	374	165298	Illinois
+17115	Macon	296	108328	Illinois
+17117	Macoupin	26	48138	Illinois
+17119	Madison	386	268078	Illinois
+17121	Marion	63	39505	Illinois
+17123	Marshall	8	12670	Illinois
+17125	Mason	12	15076	Illinois
+17127	Massac	9	15070	Illinois
+17129	Menard	11	12464	Illinois
+17131	Mercer	9	16481	Illinois
+17133	Monroe	23	32804	Illinois
+17135	Montgomery	26	29773	Illinois
+17137	Morgan	56	35251	Illinois
+17139	Moultrie	8	14374	Illinois
+17141	Ogle	47	55167	Illinois
+17143	Peoria	1046	183655	Illinois
+17145	Perry	20	22484	Illinois
+17147	Piatt	14	16505	Illinois
+17149	Pike	14	16519	Illinois
+17151	Pope	1	4079	Illinois
+17155	Putnam	1	6003	Illinois
+17157	Randolph	34	32641	Illinois
+17159	Richland	39	15532	Illinois
+17161	Rock Island	323	146886	Illinois
+17163	St Clair	576	262291	Illinois
+17165	Saline	41	25944	Illinois
+17167	Sangamon	1182	194925	Illinois
+17169	Schuyler	4	6916	Illinois
+17171	Scott	1	5181	Illinois
+17173	Shelby	15	21748	Illinois
+17175	Stark	3	6135	Illinois
+17177	Stephenson	74	46367	Illinois
+17179	Tazewell	203	131524	Illinois
+17181	Union	24	18191	Illinois
+17183	Vermilion	145	80680	Illinois
+17185	Wabash	12	12047	Illinois
+17187	Warren	17	17541	Illinois
+17189	Washington	12	14728	Illinois
+17191	Wayne	13	16494	Illinois
+17193	White	7	14671	Illinois
+17195	Whiteside	82	59153	Illinois
+17197	Will	1039	681097	Illinois
+17199	Williamson	167	64628	Illinois
+17201	Winnebago	882	300252	Illinois
+17203	Woodford	53	38503	Illinois
+18001	Adams	20	33985	Indiana
+18003	Allen	1090	350523	Indiana
+18005	Bartholomew	213	75360	Indiana
+18007	Benton	3	8769	Indiana
+18009	Blackford	12	13093	Indiana
+18011	Boone	421	55027	Indiana
+18013	Brown	16	14550	Indiana
+18015	Carroll	12	19864	Indiana
+18017	Cass	52	39123	Indiana
+18019	Clark	175	106673	Indiana
+18021	Clay	22	26703	Indiana
+18023	Clinton	28	34069	Indiana
+18025	Crawford	1	10624	Indiana
+18027	Daviess	34	30147	Indiana
+18029	Dearborn	62	49985	Indiana
+18031	Decatur	24	24998	Indiana
+18033	De Kalb	47	41884	Indiana
+18035	Delaware	350	114685	Indiana
+18037	Dubois	94	41449	Indiana
+18039	Elkhart	316	199137	Indiana
+18041	Fayette	29	24265	Indiana
+18043	Floyd	180	73780	Indiana
+18045	Fountain	5	17041	Indiana
+18047	Franklin	26	23343	Indiana
+18049	Fulton	18	20319	Indiana
+18051	Gibson	31	32666	Indiana
+18053	Grant	118	68609	Indiana
+18055	Greene	16	32577	Indiana
+18057	Hamilton	1723	269785	Indiana
+18059	Hancock	117	67282	Indiana
+18061	Harrison	36	37067	Indiana
+18063	Hendricks	299	137240	Indiana
+18065	Henry	59	47162	Indiana
+18067	Howard	161	83381	Indiana
+18069	Huntington	29	37570	Indiana
+18071	Jackson	57	42193	Indiana
+18073	Jasper	29	32544	Indiana
+18075	Jay	13	21412	Indiana
+18077	Jefferson	75	32820	Indiana
+18079	Jennings	14	28040	Indiana
+18081	Johnson	294	139158	Indiana
+18083	Knox	96	38057	Indiana
+18085	Kosciusko	91	76275	Indiana
+18087	Lagrange	20	37172	Indiana
+18089	Lake	1099	493800	Indiana
+18091	La Porte	191	110888	Indiana
+18093	Lawrence	67	45913	Indiana
+18095	Madison	199	131501	Indiana
+18097	Marion	4383	880380	Indiana
+18099	Marshall	56	46709	Indiana
+18101	Martin	3	9969	Indiana
+18103	Miami	33	36219	Indiana
+18105	Monroe	380	128992	Indiana
+18107	Montgomery	47	37805	Indiana
+18109	Morgan	97	70668	Indiana
+18111	Newton	4	13933	Indiana
+18113	Noble	34	47601	Indiana
+18115	Ohio	1	5773	Indiana
+18117	Orange	16	19571	Indiana
+18119	Owen	8	22375	Indiana
+18121	Parke	8	17152	Indiana
+18123	Perry	16	18929	Indiana
+18125	Pike	2	12569	Indiana
+18127	Porter	375	162181	Indiana
+18129	Posey	13	26079	Indiana
+18131	Pulaski	8	13712	Indiana
+18133	Putnam	24	37183	Indiana
+18135	Randolph	19	25801	Indiana
+18137	Ripley	28	27400	Indiana
+18139	Rush	14	17297	Indiana
+18141	St Joseph	859	266680	Indiana
+18143	Scott	20	23627	Indiana
+18145	Shelby	34	44186	Indiana
+18147	Spencer	7	20111	Indiana
+18149	Starke	11	23658	Indiana
+18151	Steuben	30	33368	Indiana
+18153	Sullivan	13	21328	Indiana
+18155	Switzerland	2	9696	Indiana
+18157	Tippecanoe	460	164237	Indiana
+18159	Tipton	16	15923	Indiana
+18161	Union	3	7157	Indiana
+18163	Vanderburgh	638	174729	Indiana
+18165	Vermillion	9	16234	Indiana
+18167	Vigo	359	105968	Indiana
+18169	Wabash	29	32706	Indiana
+18171	Warren	5	8547	Indiana
+18173	Warrick	265	57656	Indiana
+18175	Washington	24	27949	Indiana
+18177	Wayne	178	67795	Indiana
+18179	Wells	48	27964	Indiana
+18181	White	17	23800	Indiana
+18183	Whitley	36	32667	Indiana
+19001	Adair	6	7506	Iowa
+19003	Adams	3	4040	Iowa
+19005	Allamakee	15	14538	Iowa
+19007	Appanoose	16	12850	Iowa
+19009	Audubon	4	6033	Iowa
+19011	Benton	10	26532	Iowa
+19013	Black Hawk	380	128347	Iowa
+19015	Boone	35	26349	Iowa
+19017	Bremer	32	23690	Iowa
+19019	Buchanan	19	21032	Iowa
+19021	Buena Vista	21	19702	Iowa
+19023	Butler	4	14644	Iowa
+19025	Calhoun	15	9887	Iowa
+19027	Carroll	36	20926	Iowa
+19029	Cass	17	13840	Iowa
+19031	Cedar	12	18079	Iowa
+19033	Cerro Gordo	216	43786	Iowa
+19035	Cherokee	19	11552	Iowa
+19037	Chickasaw	8	12121	Iowa
+19039	Clarke	7	9032	Iowa
+19041	Clay	35	16691	Iowa
+19043	Clayton	15	17566	Iowa
+19045	Clinton	77	48942	Iowa
+19047	Crawford	12	16415	Iowa
+19049	Dallas	282	59930	Iowa
+19051	Davis	11	8569	Iowa
+19053	Decatur	4	8409	Iowa
+19055	Delaware	16	17301	Iowa
+19057	Des Moines	107	40629	Iowa
+19059	Dickinson	39	16775	Iowa
+19061	Dubuque	270	92724	Iowa
+19063	Emmet	11	10457	Iowa
+19065	Fayette	16	20273	Iowa
+19067	Floyd	13	16183	Iowa
+19069	Franklin	5	10477	Iowa
+19071	Fremont	5	7446	Iowa
+19073	Greene	13	9293	Iowa
+19075	Grundy	6	12183	Iowa
+19077	Guthrie	6	10956	Iowa
+19079	Hamilton	17	15357	Iowa
+19081	Hancock	4	11354	Iowa
+19083	Hardin	14	17371	Iowa
+19085	Harrison	9	15222	Iowa
+19087	Henry	31	20213	Iowa
+19089	Howard	10	9484	Iowa
+19091	Humboldt	5	9514	Iowa
+19093	Ida	7	6862	Iowa
+19095	Iowa	13	15877	Iowa
+19097	Jackson	19	19965	Iowa
+19099	Jasper	31	36583	Iowa
+19101	Jefferson	26	15463	Iowa
+19103	Johnson	1978	128094	Iowa
+19105	Jones	15	20346	Iowa
+19107	Keokuk	3	10697	Iowa
+19109	Kossuth	11	15463	Iowa
+19111	Lee	62	35408	Iowa
+19113	Linn	498	208574	Iowa
+19115	Louisa	3	11725	Iowa
+19117	Lucas	8	9290	Iowa
+19119	Lyon	3	11234	Iowa
+19121	Madison	14	15507	Iowa
+19123	Mahaska	28	22321	Iowa
+19125	Marion	55	32571	Iowa
+19127	Marshall	72	39523	Iowa
+19129	Mills	15	15113	Iowa
+19131	Mitchell	7	10710	Iowa
+19133	Monona	14	8966	Iowa
+19135	Monroe	6	7577	Iowa
+19137	Montgomery	13	10870	Iowa
+19139	Muscatine	46	42504	Iowa
+19141	Obrien	12	13952	Iowa
+19143	Osceola	4	6444	Iowa
+19145	Page	25	15664	Iowa
+19147	Palo Alto	9	9345	Iowa
+19149	Plymouth	28	24323	Iowa
+19151	Pocahontas	4	7560	Iowa
+19153	Polk	1407	424778	Iowa
+19155	Pottawattamie	128	89647	Iowa
+19157	Poweshiek	35	18590	Iowa
+19159	Ringgold	12	5156	Iowa
+19161	Sac	12	10311	Iowa
+19163	Scott	501	164690	Iowa
+19165	Shelby	10	12131	Iowa
+19167	Sioux	36	32200	Iowa
+19169	Story	208	86754	Iowa
+19171	Tama	9	17690	Iowa
+19173	Taylor	1	6298	Iowa
+19175	Union	15	12261	Iowa
+19177	Van Buren	4	7676	Iowa
+19179	Wapello	75	35513	Iowa
+19181	Warren	40	45059	Iowa
+19183	Washington	26	21343	Iowa
+19185	Wayne	9	6253	Iowa
+19187	Webster	86	38517	Iowa
+19189	Winnebago	6	10901	Iowa
+19191	Winneshiek	39	20913	Iowa
+19193	Woodbury	220	102559	Iowa
+19197	Wright	12	12903	Iowa
+20001	Allen	11	13319	Kansas
+20003	Anderson	8	7984	Kansas
+20005	Atchison	22	16481	Kansas
+20007	Barber	8	4674	Kansas
+20009	Barton	39	27703	Kansas
+20011	Bourbon	28	14851	Kansas
+20013	Brown	15	10009	Kansas
+20015	Butler	105	63562	Kansas
+20019	Chautauqua	1	3768	Kansas
+20021	Cherokee	16	21082	Kansas
+20023	Cheyenne	4	2742	Kansas
+20025	Clark	4	2108	Kansas
+20027	Clay	11	8859	Kansas
+20029	Cloud	15	9453	Kansas
+20031	Coffey	6	8409	Kansas
+20033	Comanche	1	1950	Kansas
+20035	Cowley	38	34065	Kansas
+20037	Crawford	70	38868	Kansas
+20039	Decatur	6	2912	Kansas
+20041	Dickinson	18	19328	Kansas
+20043	Doniphan	4	7753	Kansas
+20045	Douglas	285	114748	Kansas
+20047	Edwards	3	3082	Kansas
+20049	Elk	1	3047	Kansas
+20051	Ellis	96	27801	Kansas
+20053	Ellsworth	5	6250	Kansas
+20055	Finney	52	40998	Kansas
+20057	Ford	53	33293	Kansas
+20059	Franklin	24	26562	Kansas
+20061	Geary	38	31171	Kansas
+20063	Gove	7	2548	Kansas
+20065	Graham	2	2592	Kansas
+20067	Grant	7	7395	Kansas
+20069	Gray	1	5688	Kansas
+20071	Greeley	3	1266	Kansas
+20073	Greenwood	7	6861	Kansas
+20075	Hamilton	3	2631	Kansas
+20077	Harper	7	5857	Kansas
+20079	Harvey	93	33675	Kansas
+20081	Haskell	2	3919	Kansas
+20083	Hodgeman	1	1948	Kansas
+20085	Jackson	20	13240	Kansas
+20087	Jefferson	17	18421	Kansas
+20091	Johnson	2945	534093	Kansas
+20093	Kearny	3	4159	Kansas
+20095	Kingman	3	7719	Kansas
+20097	Kiowa	2	2541	Kansas
+20099	Labette	47	21871	Kansas
+20101	Lane	1	1743	Kansas
+20103	Leavenworth	114	74276	Kansas
+20105	Lincoln	1	3261	Kansas
+20107	Linn	3	9616	Kansas
+20109	Logan	4	2593	Kansas
+20111	Lyon	55	35562	Kansas
+20113	McPherson	39	29044	Kansas
+20115	Marion	10	12100	Kansas
+20117	Marshall	9	10178	Kansas
+20119	Meade	4	4359	Kansas
+20121	Miami	37	30989	Kansas
+20123	Mitchell	10	6292	Kansas
+20125	Montgomery	49	34395	Kansas
+20127	Morris	10	6037	Kansas
+20129	Morton	8	2978	Kansas
+20131	Nemaha	10	10112	Kansas
+20133	Neosho	19	16223	Kansas
+20135	Ness	3	2945	Kansas
+20137	Norton	6	5370	Kansas
+20139	Osage	9	16327	Kansas
+20141	Osborne	1	3804	Kansas
+20143	Ottawa	8	6026	Kansas
+20145	Pawnee	15	6291	Kansas
+20147	Phillips	4	5339	Kansas
+20149	Pottawatomie	24	19695	Kansas
+20151	Pratt	12	9411	Kansas
+20153	Rawlins	3	2503	Kansas
+20155	Reno	150	63427	Kansas
+20157	Republic	7	4812	Kansas
+20159	Rice	5	10060	Kansas
+20161	Riley	176	71069	Kansas
+20163	Rooks	5	5136	Kansas
+20165	Rush	4	3232	Kansas
+20167	Russell	10	6641	Kansas
+20169	Saline	174	54657	Kansas
+20171	Scott	5	4577	Kansas
+20173	Sedgwick	1609	482863	Kansas
+20175	Seward	39	23016	Kansas
+20177	Shawnee	585	174709	Kansas
+20179	Sheridan	2	2510	Kansas
+20181	Sherman	4	6013	Kansas
+20183	Smith	6	3901	Kansas
+20185	Stafford	3	4326	Kansas
+20187	Stanton	3	2148	Kansas
+20189	Stevens	2	5056	Kansas
+20191	Sumner	13	23616	Kansas
+20193	Thomas	9	7277	Kansas
+20195	Trego	4	2882	Kansas
+20197	Wabaunsee	2	6922	Kansas
+20199	Wallace	1	1404	Kansas
+20201	Washington	3	5791	Kansas
+20203	Wichita	2	2148	Kansas
+20205	Wilson	11	9698	Kansas
+20207	Woodson	1	3285	Kansas
+20209	Wyandotte	762	154287	Kansas
+21001	Adair	19	17773	Kentucky
+21003	Allen	8	19090	Kentucky
+21005	Anderson	18	21347	Kentucky
+21007	Ballard	2	8323	Kentucky
+21009	Barren	95	41566	Kentucky
+21011	Bath	4	11750	Kentucky
+21013	Bell	46	29055	Kentucky
+21015	Boone	194	115231	Kentucky
+21017	Bourbon	31	19828	Kentucky
+21019	Boyd	214	48560	Kentucky
+21021	Boyle	111	28933	Kentucky
+21023	Bracken	5	8569	Kentucky
+21025	Breathitt	24	15813	Kentucky
+21027	Breckinridge	10	19132	Kentucky
+21029	Bullitt	36	75028	Kentucky
+21031	Butler	3	13276	Kentucky
+21033	Caldwell	11	12866	Kentucky
+21035	Calloway	73	36240	Kentucky
+21037	Campbell	167	87038	Kentucky
+21039	Carlisle	3	5162	Kentucky
+21041	Carroll	7	10627	Kentucky
+21043	Carter	13	27454	Kentucky
+21045	Casey	7	16214	Kentucky
+21047	Christian	117	79820	Kentucky
+21049	Clark	61	35691	Kentucky
+21051	Clay	22	23930	Kentucky
+21053	Clinton	7	9568	Kentucky
+21055	Crittenden	5	9244	Kentucky
+21057	Cumberland	5	6817	Kentucky
+21059	Daviess	233	94418	Kentucky
+21061	Edmonson	4	12085	Kentucky
+21063	Elliott	3	7280	Kentucky
+21065	Estill	7	14948	Kentucky
+21067	Fayette	2341	282114	Kentucky
+21069	Fleming	15	14735	Kentucky
+21071	Floyd	79	42094	Kentucky
+21073	Franklin	85	48844	Kentucky
+21075	Fulton	14	6855	Kentucky
+21077	Gallatin	2	8071	Kentucky
+21079	Garrard	10	17021	Kentucky
+21081	Grant	17	25549	Kentucky
+21083	Graves	41	37487	Kentucky
+21085	Grayson	37	25497	Kentucky
+21087	Green	8	11613	Kentucky
+21089	Greenup	108	37388	Kentucky
+21091	Hancock	2	8663	Kentucky
+21093	Hardin	240	98546	Kentucky
+21095	Harlan	40	30783	Kentucky
+21097	Harrison	24	18654	Kentucky
+21099	Hart	10	18561	Kentucky
+21101	Henderson	82	45462	Kentucky
+21103	Henry	9	15741	Kentucky
+21105	Hickman	3	4936	Kentucky
+21107	Hopkins	174	46338	Kentucky
+21109	Jackson	3	13645	Kentucky
+21111	Jefferson	3753	713877	Kentucky
+21113	Jessamine	125	46716	Kentucky
+21115	Johnson	38	24056	Kentucky
+21117	Kenton	487	157629	Kentucky
+21119	Knott	10	17385	Kentucky
+21121	Knox	29	32810	Kentucky
+21123	Larue	5	13722	Kentucky
+21125	Laurel	117	57586	Kentucky
+21127	Lawrence	20	16443	Kentucky
+21129	Lee	4	7414	Kentucky
+21131	Leslie	10	11639	Kentucky
+21133	Letcher	35	23890	Kentucky
+21135	Lewis	10	13807	Kentucky
+21137	Lincoln	19	25072	Kentucky
+21139	Livingston	11	9591	Kentucky
+21141	Logan	23	27117	Kentucky
+21143	Lyon	6	8245	Kentucky
+21145	McCracken	263	65109	Kentucky
+21147	McCreary	11	17315	Kentucky
+21149	Mclean	2	9681	Kentucky
+21151	Madison	136	82192	Kentucky
+21153	Magoffin	3	13151	Kentucky
+21155	Marion	21	19063	Kentucky
+21157	Marshall	30	31189	Kentucky
+21159	Martin	6	11602	Kentucky
+21161	Mason	49	17414	Kentucky
+21163	Meade	13	27043	Kentucky
+21165	Menifee	1	6744	Kentucky
+21167	Mercer	15	21920	Kentucky
+21169	Metcalfe	3	10288	Kentucky
+21171	Monroe	9	11547	Kentucky
+21173	Montgomery	28	25618	Kentucky
+21175	Morgan	8	14156	Kentucky
+21177	Muhlenberg	32	31187	Kentucky
+21179	Nelson	44	43113	Kentucky
+21181	Nicholas	6	6811	Kentucky
+21183	Ohio	16	23789	Kentucky
+21185	Oldham	234	56874	Kentucky
+21187	Owen	5	11432	Kentucky
+21189	Owsley	1	4634	Kentucky
+21191	Pendleton	6	14992	Kentucky
+21193	Perry	103	29241	Kentucky
+21195	Pike	182	65331	Kentucky
+21197	Powell	5	13859	Kentucky
+21199	Pulaski	161	60851	Kentucky
+21201	Robertson	1	2202	Kentucky
+21203	Rockcastle	15	16788	Kentucky
+21205	Rowan	73	22733	Kentucky
+21207	Russell	18	17296	Kentucky
+21209	Scott	76	44549	Kentucky
+21211	Shelby	70	41157	Kentucky
+21213	Simpson	12	17019	Kentucky
+21215	Spencer	8	17382	Kentucky
+21217	Taylor	39	24069	Kentucky
+21219	Todd	3	12173	Kentucky
+21221	Trigg	11	13418	Kentucky
+21223	Trimble	3	9012	Kentucky
+21225	Union	8	15024	Kentucky
+21227	Warren	316	105862	Kentucky
+21229	Washington	11	11595	Kentucky
+21231	Wayne	16	20696	Kentucky
+21233	Webster	4	13669	Kentucky
+21235	Whitley	77	38668	Kentucky
+21237	Wolfe	4	6989	Kentucky
+21239	Woodford	57	24526	Kentucky
+22001	Acadia	52	60070	Louisiana
+22003	Allen	20	25635	Louisiana
+22005	Ascension	111	101789	Louisiana
+22007	Assumption	10	22881	Louisiana
+22009	Avoyelles	32	42360	Louisiana
+22011	Beauregard	38	34978	Louisiana
+22013	Bienville	4	14728	Louisiana
+22015	Bossier	167	110250	Louisiana
+22017	Caddo	1785	252895	Louisiana
+22019	Calcasieu	435	185618	Louisiana
+22021	Caldwell	8	10353	Louisiana
+22023	Cameron	2	7238	Louisiana
+22025	Catahoula	3	10522	Louisiana
+22027	Claiborne	12	16142	Louisiana
+22029	Concordia	16	19064	Louisiana
+22031	De Soto	15	26388	Louisiana
+22033	East Baton Rouge	1706	428360	Louisiana
+22035	East Carroll	6	8166	Louisiana
+22037	East Feliciana	18	20874	Louisiana
+22039	Evangeline	48	35624	Louisiana
+22041	Franklin	10	20006	Louisiana
+22043	Grant	7	19974	Louisiana
+22045	Iberia	128	75097	Louisiana
+22047	Iberville	36	32545	Louisiana
+22049	Jackson	4	15191	Louisiana
+22051	Jefferson	2051	436181	Louisiana
+22053	Jefferson Davis	32	31263	Louisiana
+22055	Lafayette	835	206976	Louisiana
+22057	Lafourche	159	92572	Louisiana
+22059	La Salle	10	14062	Louisiana
+22061	Lincoln	88	42561	Louisiana
+22063	Livingston	53	120256	Louisiana
+22065	Madison	8	11790	Louisiana
+22067	Morehouse	25	28602	Louisiana
+22069	Natchitoches	50	39576	Louisiana
+22071	Orleans	2623	311853	Louisiana
+22073	Ouachita	462	150051	Louisiana
+22075	Plaquemines	20	21276	Louisiana
+22077	Pointe Coupee	17	22401	Louisiana
+22079	Rapides	461	133131	Louisiana
+22081	Red River	3	9118	Louisiana
+22083	Richland	25	20501	Louisiana
+22085	Sabine	12	23688	Louisiana
+22087	St Bernard	13	37722	Louisiana
+22089	St Charles	47	51547	Louisiana
+22091	St Helena	6	10546	Louisiana
+22093	St James	24	21231	Louisiana
+22095	St John The Baptist	51	46994	Louisiana
+22097	St Landry	150	92173	Louisiana
+22099	St Martin	34	52097	Louisiana
+22101	St Mary	61	51083	Louisiana
+22103	St Tammany	867	228456	Louisiana
+22105	Tangipahoa	149	117001	Louisiana
+22107	Tensas	2	5694	Louisiana
+22109	Terrebonne	220	108576	Louisiana
+22111	Union	9	22692	Louisiana
+22113	Vermilion	47	56096	Louisiana
+22115	Vernon	62	45639	Louisiana
+22117	Washington	46	45430	Louisiana
+22119	Webster	47	40754	Louisiana
+22121	West Baton Rouge	10	22553	Louisiana
+22123	West Carroll	6	11495	Louisiana
+22125	West Feliciana	15	15003	Louisiana
+22127	Winn	12	15408	Louisiana
+23001	Androscoggin	339	106877	Maine
+23003	Aroostook	179	71676	Maine
+23005	Cumberland	1925	276047	Maine
+23007	Franklin	98	29857	Maine
+23009	Hancock	199	53137	Maine
+23011	Kennebec	502	120959	Maine
+23013	Knox	176	40686	Maine
+23015	Lincoln	128	34628	Maine
+23017	Oxford	81	56741	Maine
+23019	Penobscot	651	148651	Maine
+23021	Piscataquis	39	16961	Maine
+23023	Sagadahoc	79	36332	Maine
+23025	Somerset	68	51377	Maine
+23027	Waldo	90	38342	Maine
+23029	Washington	68	32499	Maine
+23031	York	464	201686	Maine
+24001	Allegany	215	72238	Maryland
+24003	Anne Arundel	1562	512790	Maryland
+24005	Baltimore	4506	785618	Maryland
+24009	Calvert	160	88698	Maryland
+24011	Caroline	19	33138	Maryland
+24013	Carroll	267	169353	Maryland
+24015	Cecil	147	99926	Maryland
+24017	Charles	161	140764	Maryland
+24019	Dorchester	68	31998	Maryland
+24021	Frederick	563	225721	Maryland
+24023	Garrett	39	29698	Maryland
+24025	Harford	505	240351	Maryland
+24027	Howard	2087	274995	Maryland
+24029	Kent	79	20151	Maryland
+24031	Montgomery	8984	950680	Maryland
+24033	Prince Georges	1778	820852	Maryland
+24035	Queen Annes	49	47091	Maryland
+24037	St Marys	137	101578	Maryland
+24039	Somerset	25	26119	Maryland
+24041	Talbot	243	36215	Maryland
+24043	Washington	363	145384	Maryland
+24045	Wicomico	347	94046	Maryland
+24047	Worcester	115	49274	Maryland
+24510	Baltimore City	5460	636919	Maryland
+25001	Barnstable	895	221049	Massachusetts
+25003	Berkshire	668	129395	Massachusetts
+25005	Bristol	1035	545823	Massachusetts
+25007	Dukes	70	15527	Massachusetts
+25009	Essex	2137	736457	Massachusetts
+25011	Franklin	150	71735	Massachusetts
+25013	Hampden	1594	460840	Massachusetts
+25015	Hampshire	726	154983	Massachusetts
+25017	Middlesex	8947	1482478	Massachusetts
+25019	Nantucket	22	11215	Massachusetts
+25021	Norfolk	4763	659909	Massachusetts
+25023	Plymouth	1074	492066	Massachusetts
+25025	Suffolk	10059	732684	Massachusetts
+25027	Worcester	3200	783806	Massachusetts
+26001	Alcona	10	11556	Michigan
+26003	Alger	11	9438	Michigan
+26005	Allegan	137	112975	Michigan
+26007	Alpena	93	29520	Michigan
+26009	Antrim	34	24109	Michigan
+26011	Arenac	11	16361	Michigan
+26013	Baraga	11	8528	Michigan
+26015	Barry	64	58890	Michigan
+26017	Bay	225	107495	Michigan
+26019	Benzie	37	17396	Michigan
+26021	Berrien	388	159481	Michigan
+26023	Branch	71	45726	Michigan
+26025	Calhoun	282	135861	Michigan
+26027	Cass	41	50185	Michigan
+26029	Charlevoix	84	25936	Michigan
+26031	Cheboygan	56	26354	Michigan
+26033	Chippewa	67	38971	Michigan
+26035	Clare	26	30312	Michigan
+26037	Clinton	120	69726	Michigan
+26039	Crawford	27	14463	Michigan
+26041	Delta	72	37179	Michigan
+26043	Dickinson	88	26812	Michigan
+26045	Eaton	136	106781	Michigan
+26047	Emmet	224	33535	Michigan
+26049	Genesee	1388	428790	Michigan
+26051	Gladwin	22	25920	Michigan
+26053	Gogebic	31	16043	Michigan
+26055	Grand Traverse	480	86071	Michigan
+26057	Gratiot	74	42245	Michigan
+26059	Hillsdale	46	46212	Michigan
+26061	Houghton	72	35174	Michigan
+26063	Huron	61	32805	Michigan
+26065	Ingham	1447	277528	Michigan
+26067	Ionia	46	63833	Michigan
+26069	Iosco	35	25932	Michigan
+26071	Iron	16	12001	Michigan
+26073	Isabella	110	66778	Michigan
+26075	Jackson	269	160180	Michigan
+26077	Kalamazoo	1168	245912	Michigan
+26079	Kalkaska	8	17066	Michigan
+26081	Kent	2336	605213	Michigan
+26083	Keweenaw	8	2202	Michigan
+26085	Lake	5	11014	Michigan
+26087	Lapeer	106	90875	Michigan
+26089	Leelanau	81	21783	Michigan
+26091	Lenawee	133	100801	Michigan
+26093	Livingston	317	182575	Michigan
+26095	Luce	13	6614	Michigan
+26097	Mackinac	17	10624	Michigan
+26099	Macomb	1699	830663	Michigan
+26101	Manistee	56	24640	Michigan
+26103	Marquette	303	65492	Michigan
+26105	Mason	64	28782	Michigan
+26107	Mecosta	57	41562	Michigan
+26109	Menominee	17	24202	Michigan
+26111	Midland	271	82605	Michigan
+26113	Missaukee	6	15001	Michigan
+26115	Monroe	190	152949	Michigan
+26117	Montcalm	60	62971	Michigan
+26119	Montmorency	8	10335	Michigan
+26121	Muskegon	403	174344	Michigan
+26123	Newaygo	56	48897	Michigan
+26125	Oakland	8508	1202174	Michigan
+26127	Oceana	30	27598	Michigan
+26129	Ogemaw	38	21016	Michigan
+26131	Ontonagon	9	6819	Michigan
+26133	Osceola	17	22930	Michigan
+26135	Oscoda	2	8836	Michigan
+26137	Otsego	61	23808	Michigan
+26139	Ottawa	462	260364	Michigan
+26141	Presque Isle	10	13650	Michigan
+26143	Roscommon	22	25042	Michigan
+26145	Saginaw	670	200745	Michigan
+26147	St Clair	293	168894	Michigan
+26149	St Joseph	71	62232	Michigan
+26151	Sanilac	45	43024	Michigan
+26153	Schoolcraft	15	8220	Michigan
+26155	Shiawassee	85	70880	Michigan
+26157	Tuscola	45	56187	Michigan
+26159	Van Buren	94	77801	Michigan
+26161	Washtenaw	4256	347376	Michigan
+26163	Wayne	6268	1949929	Michigan
+26165	Wexford	89	31673	Michigan
+27001	Aitkin	8	15736	Minnesota
+27003	Anoka	498	327090	Minnesota
+27005	Becker	56	32000	Minnesota
+27007	Beltrami	94	43835	Minnesota
+27009	Benton	32	39878	Minnesota
+27011	Big Stone	7	5365	Minnesota
+27013	Blue Earth	193	60401	Minnesota
+27015	Brown	48	25862	Minnesota
+27017	Carlton	42	33933	Minnesota
+27019	Carver	202	90043	Minnesota
+27021	Cass	41	28732	Minnesota
+27023	Chippewa	11	12414	Minnesota
+27025	Chisago	50	50257	Minnesota
+27027	Clay	37	55767	Minnesota
+27029	Clearwater	8	8249	Minnesota
+27031	Cook	9	5437	Minnesota
+27033	Cottonwood	14	11283	Minnesota
+27035	Crow Wing	174	62172	Minnesota
+27037	Dakota	738	392755	Minnesota
+27039	Dodge	18	19751	Minnesota
+27041	Douglas	98	36258	Minnesota
+27043	Faribault	13	14624	Minnesota
+27045	Fillmore	11	20850	Minnesota
+27047	Freeborn	60	30927	Minnesota
+27049	Goodhue	106	45897	Minnesota
+27051	Grant	3	6005	Minnesota
+27053	Hennepin	6194	1140988	Minnesota
+27055	Houston	21	19245	Minnesota
+27057	Hubbard	43	18810	Minnesota
+27059	Isanti	58	39105	Minnesota
+27061	Itasca	81	44512	Minnesota
+27063	Jackson	6	10734	Minnesota
+27065	Kanabec	17	16091	Minnesota
+27067	Kandiyohi	137	40679	Minnesota
+27069	Kittson	3	4462	Minnesota
+27071	Koochiching	19	13251	Minnesota
+27073	Lac Qui Parle	10	7165	Minnesota
+27075	Lake	28	10609	Minnesota
+27077	Lake of The Woods	5	3985	Minnesota
+27079	Le Sueur	19	28042	Minnesota
+27081	Lincoln	7	5837	Minnesota
+27083	Lyon	33	24844	Minnesota
+27085	McLeod	57	37165	Minnesota
+27087	Mahnomen	1	5128	Minnesota
+27089	Marshall	2	9502	Minnesota
+27091	Martin	44	20435	Minnesota
+27093	Meeker	19	23143	Minnesota
+27095	Mille Lacs	19	26377	Minnesota
+27097	Morrison	35	32893	Minnesota
+27099	Mower	59	37859	Minnesota
+27101	Murray	8	8389	Minnesota
+27103	Nicollet	69	32027	Minnesota
+27105	Nobles	28	20365	Minnesota
+27107	Norman	4	6605	Minnesota
+27109	Olmsted	3516	141360	Minnesota
+27111	Otter Tail	89	56786	Minnesota
+27113	Pennington	30	13747	Minnesota
+27115	Pine	16	28297	Minnesota
+27117	Pipestone	9	9395	Minnesota
+27119	Polk	31	30694	Minnesota
+27121	Pope	19	11030	Minnesota
+27123	Ramsey	2166	501428	Minnesota
+27125	Red Lake	1	4069	Minnesota
+27127	Redwood	11	15493	Minnesota
+27129	Renville	8	15861	Minnesota
+27131	Rice	109	62390	Minnesota
+27133	Rock	12	9476	Minnesota
+27135	Roseau	15	15865	Minnesota
+27137	St Louis	866	196864	Minnesota
+27139	Scott	153	128937	Minnesota
+27141	Sherburne	76	87660	Minnesota
+27143	Sibley	5	14954	Minnesota
+27145	Stearns	496	147076	Minnesota
+27147	Steele	70	36546	Minnesota
+27149	Stevens	14	9661	Minnesota
+27151	Swift	7	11035	Minnesota
+27153	Todd	10	23917	Minnesota
+27155	Traverse	2	3660	Minnesota
+27157	Wabasha	29	21813	Minnesota
+27159	Wadena	33	13311	Minnesota
+27161	Waseca	11	19443	Minnesota
+27163	Washington	708	229173	Minnesota
+27165	Watonwan	9	10860	Minnesota
+27167	Wilkin	4	6286	Minnesota
+27169	Winona	74	49879	Minnesota
+27171	Wright	108	119701	Minnesota
+27173	Yellow Medicine	10	9958	Minnesota
+28001	Adams	70	31307	Mississippi
+28003	Alcorn	64	35673	Mississippi
+28005	Amite	8	13248	Mississippi
+28007	Attala	18	19671	Mississippi
+28009	Benton	3	8116	Mississippi
+28011	Bolivar	45	37195	Mississippi
+28013	Calhoun	6	14508	Mississippi
+28015	Carroll	6	10367	Mississippi
+28017	Chickasaw	13	18826	Mississippi
+28019	Choctaw	3	9090	Mississippi
+28021	Claiborne	4	10848	Mississippi
+28023	Clarke	7	17378	Mississippi
+28025	Clay	27	20860	Mississippi
+28027	Coahoma	48	27272	Mississippi
+28029	Copiah	15	29331	Mississippi
+28031	Covington	10	20526	Mississippi
+28033	De Soto	140	154748	Mississippi
+28035	Forrest	280	79425	Mississippi
+28037	Franklin	6	8316	Mississippi
+28039	George	12	22406	Mississippi
+28041	Greene	3	13818	Mississippi
+28043	Grenada	32	22995	Mississippi
+28045	Hancock	59	40140	Mississippi
+28047	Harrison	537	178460	Mississippi
+28049	Hinds	1322	247650	Mississippi
+28051	Holmes	14	20595	Mississippi
+28053	Humphreys	6	10089	Mississippi
+28057	Itawamba	12	23175	Mississippi
+28059	Jackson	371	130694	Mississippi
+28061	Jasper	6	18253	Mississippi
+28063	Jefferson	6	8872	Mississippi
+28065	Jefferson Davis	6	12653	Mississippi
+28067	Jones	116	67198	Mississippi
+28069	Kemper	2	9967	Mississippi
+28071	Lafayette	140	43922	Mississippi
+28073	Lamar	207	49121	Mississippi
+28075	Lauderdale	286	78180	Mississippi
+28077	Lawrence	8	13370	Mississippi
+28079	Leake	11	22844	Mississippi
+28081	Lee	347	81139	Mississippi
+28083	Leflore	69	35185	Mississippi
+28085	Lincoln	46	34931	Mississippi
+28087	Lowndes	133	59284	Mississippi
+28089	Madison	572	91369	Mississippi
+28091	Marion	22	25830	Mississippi
+28093	Marshall	10	37102	Mississippi
+28095	Monroe	46	37250	Mississippi
+28097	Montgomery	12	11266	Mississippi
+28099	Neshoba	22	30530	Mississippi
+28101	Newton	12	22355	Mississippi
+28103	Noxubee	6	11828	Mississippi
+28105	Oktibbeha	62	43944	Mississippi
+28107	Panola	22	35660	Mississippi
+28109	Pearl River	44	57466	Mississippi
+28111	Perry	6	12235	Mississippi
+28113	Pike	79	39961	Mississippi
+28115	Pontotoc	15	29004	Mississippi
+28117	Prentiss	22	25707	Mississippi
+28119	Quitman	5	8724	Mississippi
+28121	Rankin	511	140901	Mississippi
+28123	Scott	11	28850	Mississippi
+28125	Sharkey	3	5556	Mississippi
+28127	Simpson	19	28034	Mississippi
+28129	Smith	5	15809	Mississippi
+28131	Stone	15	16025	Mississippi
+28133	Sunflower	19	30697	Mississippi
+28135	Tallahatchie	7	13027	Mississippi
+28137	Tate	15	27176	Mississippi
+28139	Tippah	13	21210	Mississippi
+28141	Tishomingo	14	18947	Mississippi
+28143	Tunica	3	10448	Mississippi
+28145	Union	33	27212	Mississippi
+28147	Walthall	14	15416	Mississippi
+28149	Warren	94	48087	Mississippi
+28151	Washington	97	55079	Mississippi
+28153	Wayne	11	20755	Mississippi
+28155	Webster	9	9887	Mississippi
+28157	Wilkinson	7	10283	Mississippi
+28159	Winston	9	19575	Mississippi
+28161	Yalobusha	11	13645	Mississippi
+28163	Yazoo	20	28464	Mississippi
+29001	Adair	129	24943	Missouri
+29003	Andrew	16	16923	Missouri
+29005	Atchison	4	6031	Missouri
+29007	Audrain	45	26049	Missouri
+29009	Barry	36	36301	Missouri
+29011	Barton	14	12531	Missouri
+29013	Bates	7	17075	Missouri
+29015	Benton	9	18349	Missouri
+29017	Bollinger	3	11990	Missouri
+29019	Boone	1446	154365	Missouri
+29021	Buchanan	221	89408	Missouri
+29023	Butler	147	41383	Missouri
+29025	Caldwell	1	9248	Missouri
+29027	Callaway	45	43464	Missouri
+29029	Camden	105	40664	Missouri
+29031	Cape Girardeau	338	73243	Missouri
+29033	Carroll	8	9756	Missouri
+29035	Carter	3	5890	Missouri
+29037	Cass	70	98429	Missouri
+29039	Cedar	15	13652	Missouri
+29041	Chariton	3	7740	Missouri
+29043	Christian	102	75479	Missouri
+29045	Clark	4	7180	Missouri
+29047	Clay	484	215707	Missouri
+29049	Clinton	21	21094	Missouri
+29051	Cole	263	74313	Missouri
+29053	Cooper	14	17535	Missouri
+29055	Crawford	15	23970	Missouri
+29057	Dade	4	7418	Missouri
+29059	Dallas	3	16844	Missouri
+29061	Daviess	4	7911	Missouri
+29063	Dekalb	6	12275	Missouri
+29065	Dent	10	15199	Missouri
+29067	Douglas	6	13438	Missouri
+29069	Dunklin	48	31454	Missouri
+29071	Franklin	130	100898	Missouri
+29073	Gasconade	15	15261	Missouri
+29075	Gentry	5	6185	Missouri
+29077	Greene	1060	266944	Missouri
+29079	Grundy	12	10125	Missouri
+29081	Harrison	5	8844	Missouri
+29083	Henry	33	22179	Missouri
+29085	Hickory	4	9048	Missouri
+29087	Holt	3	4905	Missouri
+29089	Howard	7	9918	Missouri
+29091	Howell	81	39000	Missouri
+29093	Iron	9	9918	Missouri
+29095	Jackson	2314	668417	Missouri
+29097	Jasper	291	116813	Missouri
+29099	Jefferson	152	217679	Missouri
+29101	Johnson	58	52016	Missouri
+29103	Knox	2	4020	Missouri
+29105	Laclede	41	35524	Missouri
+29107	Lafayette	23	32913	Missouri
+29109	Lawrence	42	37757	Missouri
+29111	Lewis	2	9951	Missouri
+29113	Lincoln	20	52775	Missouri
+29115	Linn	12	12580	Missouri
+29117	Livingston	23	14213	Missouri
+29119	Mcdonald	5	22731	Missouri
+29121	Macon	16	15621	Missouri
+29123	Madison	9	12276	Missouri
+29125	Maries	2	9046	Missouri
+29127	Marion	84	28225	Missouri
+29129	Mercer	1	3523	Missouri
+29131	Miller	21	24949	Missouri
+29133	Mississippi	5	13504	Missouri
+29135	Moniteau	8	15121	Missouri
+29137	Monroe	2	9127	Missouri
+29139	Montgomery	11	11804	Missouri
+29141	Morgan	16	20861	Missouri
+29143	New Madrid	7	17589	Missouri
+29145	Newton	170	56120	Missouri
+29147	Nodaway	32	22054	Missouri
+29149	Oregon	4	10264	Missouri
+29151	Osage	3	13465	Missouri
+29153	Ozark	2	9227	Missouri
+29155	Pemiscot	13	18515	Missouri
+29157	Perry	15	18743	Missouri
+29159	Pettis	56	41006	Missouri
+29161	Phelps	106	42205	Missouri
+29163	Pike	17	18476	Missouri
+29165	Platte	221	85896	Missouri
+29167	Polk	49	30404	Missouri
+29169	Pulaski	57	44546	Missouri
+29171	Putnam	3	4862	Missouri
+29173	Ralls	6	9832	Missouri
+29175	Randolph	30	25723	Missouri
+29177	Ray	17	23445	Missouri
+29179	Reynolds	6	6388	Missouri
+29181	Ripley	8	13485	Missouri
+29183	St Charles	485	349407	Missouri
+29185	St Clair	12	9270	Missouri
+29186	Ste Genevieve	15	17720	Missouri
+29187	St Francois	116	63214	Missouri
+29189	St Louis	5780	991830	Missouri
+29195	Saline	29	22505	Missouri
+29197	Schuyler	2	4110	Missouri
+29199	Scotland	6	4798	Missouri
+29201	Scott	61	40673	Missouri
+29203	Shannon	4	8423	Missouri
+29205	Shelby	4	6411	Missouri
+29207	Stoddard	23	29537	Missouri
+29209	Stone	24	31551	Missouri
+29211	Sullivan	4	6629	Missouri
+29213	Taney	96	47023	Missouri
+29215	Texas	22	24598	Missouri
+29217	Vernon	27	20009	Missouri
+29219	Warren	15	31214	Missouri
+29221	Washington	7	24548	Missouri
+29223	Wayne	6	12652	Missouri
+29225	Webster	21	36473	Missouri
+29229	Wright	11	18443	Missouri
+29510	St Louis City	2820	354361	Missouri
+30001	Beaverhead	16	8903	Montana
+30003	Big Horn	20	12841	Montana
+30005	Blaine	7	6491	Montana
+30007	Broadwater	10	4704	Montana
+30009	Carbon	15	9657	Montana
+30013	Cascade	268	82026	Montana
+30015	Chouteau	1	5225	Montana
+30017	Custer	26	11149	Montana
+30019	Daniels	1	1643	Montana
+30021	Dawson	13	8490	Montana
+30023	Deer Lodge	24	8843	Montana
+30025	Fallon	2	2716	Montana
+30027	Fergus	23	11195	Montana
+30029	Flathead	321	88473	Montana
+30031	Gallatin	292	89824	Montana
+30035	Glacier	18	13297	Montana
+30037	Golden Valley	1	1081	Montana
+30039	Granite	2	2821	Montana
+30041	Hill	31	16454	Montana
+30043	Jefferson	31	11255	Montana
+30047	Lake	54	28690	Montana
+30049	Lewis and Clark	196	60925	Montana
+30051	Liberty	5	1725	Montana
+30053	Lincoln	34	18971	Montana
+30057	Madison	12	7509	Montana
+30059	Meagher	1	1868	Montana
+30061	Mineral	5	3862	Montana
+30063	Missoula	450	107320	Montana
+30065	Musselshell	3	4498	Montana
+30067	Park	33	16189	Montana
+30071	Phillips	1	3904	Montana
+30073	Pondera	7	5852	Montana
+30077	Powell	12	7041	Montana
+30079	Prairie	2	1064	Montana
+30081	Ravalli	82	40664	Montana
+30083	Richland	15	9270	Montana
+30085	Roosevelt	5	10089	Montana
+30087	Rosebud	8	9190	Montana
+30089	Sanders	12	11034	Montana
+30091	Sheridan	1	3283	Montana
+30093	Silver Bow	80	32803	Montana
+30095	Stillwater	6	8687	Montana
+30097	Sweet Grass	4	3790	Montana
+30099	Teton	2	5992	Montana
+30101	Toole	9	5141	Montana
+30103	Treasure	1	637	Montana
+30105	Valley	13	6892	Montana
+30107	Wheatland	2	2010	Montana
+30111	Yellowstone	613	142348	Montana
+31001	Adams	81	33238	Nebraska
+31003	Antelope	5	6679	Nebraska
+31007	Banner	1	735	Nebraska
+31011	Boone	8	5446	Nebraska
+31013	Box Butte	10	11043	Nebraska
+31015	Boyd	5	2090	Nebraska
+31017	Brown	3	3149	Nebraska
+31019	Buffalo	145	45354	Nebraska
+31021	Burt	4	7023	Nebraska
+31023	Butler	9	8326	Nebraska
+31025	Cass	22	25598	Nebraska
+31027	Cedar	4	8407	Nebraska
+31029	Chase	3	3629	Nebraska
+31031	Cherry	6	5609	Nebraska
+31033	Cheyenne	10	9965	Nebraska
+31035	Clay	1	6270	Nebraska
+31037	Colfax	5	9989	Nebraska
+31039	Cuming	5	9306	Nebraska
+31041	Custer	14	10842	Nebraska
+31043	Dakota	5	20174	Nebraska
+31045	Dawes	13	8724	Nebraska
+31047	Dawson	20	24665	Nebraska
+31049	Deuel	2	1880	Nebraska
+31051	Dixon	2	6293	Nebraska
+31053	Dodge	57	35872	Nebraska
+31055	Douglas	3031	502032	Nebraska
+31057	Dundy	3	2002	Nebraska
+31059	Fillmore	5	6001	Nebraska
+31061	Franklin	3	3103	Nebraska
+31065	Furnas	3	4645	Nebraska
+31067	Gage	29	23035	Nebraska
+31069	Garden	2	1765	Nebraska
+31071	Garfield	2	1710	Nebraska
+31073	Gosper	1	1926	Nebraska
+31079	Hall	132	56401	Nebraska
+31081	Hamilton	15	9300	Nebraska
+31083	Harlan	2	3322	Nebraska
+31089	Holt	15	10233	Nebraska
+31091	Hooker	2	736	Nebraska
+31093	Howard	4	6593	Nebraska
+31095	Jefferson	5	7405	Nebraska
+31097	Johnson	4	4499	Nebraska
+31099	Kearney	6	6479	Nebraska
+31101	Keith	9	7821	Nebraska
+31105	Kimball	1	3534	Nebraska
+31107	Knox	7	8498	Nebraska
+31109	Lancaster	815	278728	Nebraska
+31111	Lincoln	90	35582	Nebraska
+31119	Madison	86	34020	Nebraska
+31121	Merrick	4	7700	Nebraska
+31123	Morrill	3	4989	Nebraska
+31125	Nance	1	3550	Nebraska
+31127	Nemaha	9	7085	Nebraska
+31129	Nuckolls	6	4467	Nebraska
+31131	Otoe	14	15549	Nebraska
+31133	Pawnee	2	2602	Nebraska
+31135	Perkins	5	2884	Nebraska
+31137	Phelps	13	9127	Nebraska
+31139	Pierce	8	7231	Nebraska
+31141	Platte	38	32072	Nebraska
+31143	Polk	1	5122	Nebraska
+31145	Red Willow	14	10704	Nebraska
+31147	Richardson	5	8294	Nebraska
+31149	Rock	1	1508	Nebraska
+31151	Saline	12	13771	Nebraska
+31153	Sarpy	290	150467	Nebraska
+31155	Saunders	15	20034	Nebraska
+31157	Scotts Bluff	100	36554	Nebraska
+31159	Seward	15	16758	Nebraska
+31161	Sheridan	7	5337	Nebraska
+31163	Sherman	2	2994	Nebraska
+31165	Sioux	1	1287	Nebraska
+31167	Stanton	5	6310	Nebraska
+31169	Thayer	5	5104	Nebraska
+31173	Thurston	11	7102	Nebraska
+31175	Valley	4	4182	Nebraska
+31177	Washington	23	19812	Nebraska
+31179	Wayne	7	9274	Nebraska
+31181	Webster	3	3508	Nebraska
+31185	York	16	14199	Nebraska
+32001	Churchill	29	24896	Nevada
+32003	Clark	4470	1865746	Nevada
+32005	Douglas	114	45180	Nevada
+32007	Elko	65	47071	Nevada
+32011	Eureka	1	1628	Nevada
+32013	Humboldt	12	17763	Nevada
+32015	Lander	4	5086	Nevada
+32017	Lincoln	2	4898	Nevada
+32019	Lyon	21	53022	Nevada
+32021	Mineral	5	4684	Nevada
+32023	Nye	36	44375	Nevada
+32027	Pershing	3	6291	Nevada
+32029	Storey	9	4341	Nevada
+32031	Washoe	1475	410443	Nevada
+32033	White Pine	14	9199	Nevada
+32510	Carson City	168	54867	Nevada
+33001	Belknap	174	61281	New Hampshire
+33003	Carroll	146	47408	New Hampshire
+33005	Cheshire	207	77170	New Hampshire
+33007	Coos	100	31971	New Hampshire
+33009	Grafton	1240	85921	New Hampshire
+33011	Hillsborough	1130	402042	New Hampshire
+33013	Merrimack	600	148161	New Hampshire
+33015	Rockingham	733	297350	New Hampshire
+33017	Strafford	295	121914	New Hampshire
+33019	Sullivan	126	42591	New Hampshire
+34001	Atlantic	832	270681	New Jersey
+34003	Bergen	5502	894840	New Jersey
+34005	Burlington	1674	445475	New Jersey
+34007	Camden	2439	517234	New Jersey
+34009	Cape May	225	95838	New Jersey
+34011	Cumberland	249	156830	New Jersey
+34013	Essex	3980	770675	New Jersey
+34015	Gloucester	577	287860	New Jersey
+34017	Hudson	1390	595419	New Jersey
+34019	Hunterdon	504	129031	New Jersey
+34021	Mercer	1558	364883	New Jersey
+34023	Middlesex	3327	789102	New Jersey
+34025	Monmouth	2961	642448	New Jersey
+34027	Morris	2420	487548	New Jersey
+34029	Ocean	1106	569111	New Jersey
+34031	Passaic	1226	490948	New Jersey
+34033	Salem	97	66141	New Jersey
+34035	Somerset	1858	324563	New Jersey
+34037	Sussex	281	150909	New Jersey
+34039	Union	1675	523249	New Jersey
+34041	Warren	225	109876	New Jersey
+35001	Bernalillo	3248	635139	New Mexico
+35003	Catron	3	3405	New Mexico
+35005	Chaves	139	63060	New Mexico
+35006	Cibola	31	27285	New Mexico
+35007	Colfax	23	12962	New Mexico
+35009	Curry	79	43755	New Mexico
+35011	De Baca	1	1907	New Mexico
+35013	Dona Ana	391	201603	New Mexico
+35015	Eddy	77	51360	New Mexico
+35017	Grant	80	29844	New Mexico
+35019	Guadalupe	2	4346	New Mexico
+35023	Hidalgo	2	4910	New Mexico
+35025	Lea	70	59155	New Mexico
+35027	Lincoln	41	20793	New Mexico
+35028	Los Alamos	69	18150	New Mexico
+35029	Luna	29	27227	New Mexico
+35031	Mckinley	170	70724	New Mexico
+35033	Mora	1	5052	New Mexico
+35035	Otero	91	62776	New Mexico
+35037	Quay	8	8929	New Mexico
+35039	Rio Arriba	48	40692	New Mexico
+35041	Roosevelt	18	18889	New Mexico
+35043	Sandoval	230	122298	New Mexico
+35045	San Juan	225	122500	New Mexico
+35047	San Miguel	56	28558	New Mexico
+35049	Santa Fe	646	143937	New Mexico
+35051	Sierra	20	12437	New Mexico
+35053	Socorro	21	18180	New Mexico
+35055	Taos	107	31546	New Mexico
+35057	Torrance	5	16269	New Mexico
+35059	Union	6	3777	New Mexico
+35061	Valencia	40	72207	New Mexico
+36001	Albany	1906	298130	New York
+36003	Allegany	47	49649	New York
+36005	Bronx	3875	1391903	New York
+36007	Broome	705	195018	New York
+36009	Cattaraugus	138	79688	New York
+36011	Cayuga	100	79823	New York
+36013	Chautauqua	217	133789	New York
+36015	Chemung	297	87813	New York
+36017	Chenango	72	50898	New York
+36019	Clinton	231	81947	New York
+36021	Columbia	141	62006	New York
+36023	Cortland	81	48302	New York
+36025	Delaware	60	46085	New York
+36027	Dutchess	927	292878	New York
+36029	Erie	4057	909845	New York
+36031	Essex	48	37826	New York
+36033	Franklin	104	50521	New York
+36035	Fulton	74	55024	New York
+36037	Genesee	81	57821	New York
+36039	Greene	48	48992	New York
+36041	Hamilton	3	5021	New York
+36043	Herkimer	56	62200	New York
+36045	Jefferson	261	118046	New York
+36047	Kings	8371	2556598	New York
+36049	Lewis	30	26176	New York
+36051	Livingston	74	63154	New York
+36053	Madison	123	69766	New York
+36055	Monroe	3988	732762	New York
+36057	Montgomery	93	48679	New York
+36059	Nassau	9977	1351625	New York
+36061	New York	21726	1634795	New York
+36063	Niagara	314	214464	New York
+36065	Oneida	659	231590	New York
+36067	Onondaga	2498	452633	New York
+36069	Ontario	344	104475	New York
+36071	Orange	1011	379647	New York
+36073	Orleans	38	42135	New York
+36075	Oswego	122	121395	New York
+36077	Otsego	368	61962	New York
+36079	Putnam	230	99244	New York
+36081	Queens	6910	2293007	New York
+36083	Rensselaer	324	155261	New York
+36085	Richmond	2042	487407	New York
+36087	Rockland	1369	298545	New York
+36089	St Lawrence	207	109701	New York
+36091	Saratoga	533	217191	New York
+36093	Schenectady	512	151427	New York
+36095	Schoharie	26	31910	New York
+36097	Schuyler	28	18888	New York
+36099	Seneca	30	34086	New York
+36101	Steuben	172	96573	New York
+36103	Suffolk	5464	1512224	New York
+36105	Sullivan	122	76189	New York
+36107	Tioga	52	50171	New York
+36109	Tompkins	305	101136	New York
+36111	Ulster	411	181670	New York
+36113	Warren	272	65971	New York
+36115	Washington	44	62804	New York
+36117	Wayne	83	91564	New York
+36119	Westchester	7569	953943	New York
+36121	Wyoming	50	41652	New York
+36123	Yates	32	24652	New York
+37001	Alamance	265	148053	North Carolina
+37003	Alexander	18	36537	North Carolina
+37005	Alleghany	19	10951	North Carolina
+37007	Anson	18	25162	North Carolina
+37009	Ashe	43	25702	North Carolina
+37011	Avery	39	17884	North Carolina
+37013	Beaufort	91	46035	North Carolina
+37015	Bertie	7	19337	North Carolina
+37017	Bladen	23	32312	North Carolina
+37019	Brunswick	148	103160	North Carolina
+37021	Buncombe	1295	229047	North Carolina
+37023	Burke	205	89361	North Carolina
+37025	Cabarrus	462	168740	North Carolina
+37027	Caldwell	100	80059	North Carolina
+37029	Camden	10	9682	North Carolina
+37031	Carteret	171	63195	North Carolina
+37033	Caswell	14	23248	North Carolina
+37035	Catawba	442	157079	North Carolina
+37037	Chatham	254	63077	North Carolina
+37039	Cherokee	39	26568	North Carolina
+37041	Chowan	34	14565	North Carolina
+37043	Clay	11	10389	North Carolina
+37045	Cleveland	174	99015	North Carolina
+37047	Columbus	61	54212	North Carolina
+37049	Craven	280	96892	North Carolina
+37051	Cumberland	883	312696	North Carolina
+37053	Currituck	12	24183	North Carolina
+37055	Dare	62	33584	North Carolina
+37057	Davidson	169	158166	North Carolina
+37059	Davie	71	40971	North Carolina
+37061	Duplin	28	53362	North Carolina
+37063	Durham	3379	262715	North Carolina
+37065	Edgecombe	45	52682	North Carolina
+37067	Forsyth	2340	343028	North Carolina
+37069	Franklin	28	58927	North Carolina
+37071	Gaston	400	206679	North Carolina
+37073	Gates	2	11708	North Carolina
+37075	Graham	4	7825	North Carolina
+37077	Granville	76	57044	North Carolina
+37079	Greene	5	20677	North Carolina
+37081	Guilford	1440	472216	North Carolina
+37083	Halifax	82	54983	North Carolina
+37085	Harnett	87	112030	North Carolina
+37087	Haywood	148	56590	North Carolina
+37089	Henderson	304	102367	North Carolina
+37091	Hertford	43	23224	North Carolina
+37093	Hoke	17	43409	North Carolina
+37095	Hyde	1	5181	North Carolina
+37097	Iredell	339	155359	North Carolina
+37099	Jackson	123	36739	North Carolina
+37101	Johnston	128	163428	North Carolina
+37103	Jones	15	10113	North Carolina
+37105	Lee	92	59091	North Carolina
+37107	Lenoir	116	56826	North Carolina
+37109	Lincoln	85	74746	North Carolina
+37111	McDowell	38	43843	North Carolina
+37113	Macon	102	33005	North Carolina
+37115	Madison	19	20432	North Carolina
+37117	Martin	19	23398	North Carolina
+37119	Mecklenburg	3156	890515	North Carolina
+37121	Mitchell	29	15784	North Carolina
+37123	Montgomery	15	27358	North Carolina
+37125	Moore	428	85608	North Carolina
+37127	Nash	182	93674	North Carolina
+37129	New Hanover	904	192538	North Carolina
+37131	Northampton	7	20487	North Carolina
+37133	Onslow	282	165938	North Carolina
+37135	Orange	2072	126532	North Carolina
+37137	Pamlico	13	12502	North Carolina
+37139	Pasquotank	101	41111	North Carolina
+37141	Pender	40	51314	North Carolina
+37143	Perquimans	7	12856	North Carolina
+37145	Person	34	37438	North Carolina
+37147	Pitt	1108	156081	North Carolina
+37149	Polk	56	19074	North Carolina
+37151	Randolph	154	141186	North Carolina
+37153	Richmond	46	46005	North Carolina
+37155	Robeson	147	129123	North Carolina
+37157	Rockingham	103	92282	North Carolina
+37159	Rowan	263	139225	North Carolina
+37161	Rutherford	106	63424	North Carolina
+37163	Sampson	60	63927	North Carolina
+37165	Scotland	69	36508	North Carolina
+37167	Stanly	78	59614	North Carolina
+37169	Stokes	21	46171	North Carolina
+37171	Surry	107	72468	North Carolina
+37173	Swain	21	13512	North Carolina
+37175	Transylvania	90	30187	North Carolina
+37179	Union	258	193255	North Carolina
+37181	Vance	63	42891	North Carolina
+37183	Wake	2672	866410	North Carolina
+37185	Warren	7	19388	North Carolina
+37187	Washington	7	12946	North Carolina
+37189	Watauga	156	45196	North Carolina
+37191	Wayne	231	113671	North Carolina
+37193	Wilkes	72	66655	North Carolina
+37195	Wilson	124	77527	North Carolina
+37197	Yadkin	21	37954	North Carolina
+37199	Yancey	31	18503	North Carolina
+38001	Adams	15	2244	North Dakota
+38003	Barnes	13	10682	North Dakota
+38005	Benson	2	6953	North Dakota
+38009	Bottineau	6	6338	North Dakota
+38011	Bowman	3	3019	North Dakota
+38013	Burke	1	1820	North Dakota
+38015	Burleigh	381	78689	North Dakota
+38017	Cass	692	139918	North Dakota
+38019	Cavalier	4	3841	North Dakota
+38021	Dickey	4	5237	North Dakota
+38023	Divide	2	1986	North Dakota
+38029	Emmons	4	3377	North Dakota
+38031	Foster	6	3447	North Dakota
+38035	Grand Forks	281	66585	North Dakota
+38037	Grant	1	2415	North Dakota
+38039	Griggs	3	2359	North Dakota
+38043	Kidder	1	2290	North Dakota
+38045	Lamoure	1	3986	North Dakota
+38049	McHenry	2	5168	North Dakota
+38051	McIntosh	5	2639	North Dakota
+38053	Mckenzie	3	5674	North Dakota
+38055	Mclean	7	8337	North Dakota
+38057	Mercer	7	7854	North Dakota
+38059	Morton	21	26255	North Dakota
+38061	Mountrail	7	6511	North Dakota
+38063	Nelson	2	3166	North Dakota
+38065	Oliver	1	1695	North Dakota
+38067	Pembina	7	7419	North Dakota
+38069	Pierce	4	4091	North Dakota
+38071	Ramsey	24	11234	North Dakota
+38073	Ransom	9	5628	North Dakota
+38075	Renville	2	2245	North Dakota
+38077	Richland	26	16334	North Dakota
+38079	Rolette	12	13657	North Dakota
+38085	Sioux	1	4232	North Dakota
+38089	Stark	36	22575	North Dakota
+38093	Stutsman	30	20394	North Dakota
+38095	Towner	5	2202	North Dakota
+38097	Traill	8	7820	North Dakota
+38099	Walsh	12	10880	North Dakota
+38101	Ward	187	55986	North Dakota
+38103	Wells	3	4191	North Dakota
+38105	Williams	48	19846	North Dakota
+39001	Adams	19	28213	Ohio
+39003	Allen	330	105168	Ohio
+39005	Ashland	69	55125	Ohio
+39007	Ashtabula	106	100648	Ohio
+39009	Athens	180	63255	Ohio
+39011	Auglaize	48	46576	Ohio
+39013	Belmont	105	67975	Ohio
+39015	Brown	31	43960	Ohio
+39017	Butler	625	360765	Ohio
+39019	Carroll	22	28439	Ohio
+39021	Champaign	19	39650	Ohio
+39023	Clark	250	139859	Ohio
+39025	Clermont	284	195385	Ohio
+39027	Clinton	95	43200	Ohio
+39029	Columbiana	133	107873	Ohio
+39031	Coshocton	34	35981	Ohio
+39033	Crawford	47	43696	Ohio
+39035	Cuyahoga	9373	1283925	Ohio
+39037	Darke	43	52027	Ohio
+39039	Defiance	62	38637	Ohio
+39041	Delaware	775	165026	Ohio
+39043	Erie	224	77062	Ohio
+39045	Fairfield	300	142223	Ohio
+39047	Fayette	24	28319	Ohio
+39049	Franklin	5449	1129067	Ohio
+39051	Fulton	46	42485	Ohio
+39053	Gallia	115	30912	Ohio
+39055	Geauga	318	94753	Ohio
+39057	Greene	743	159190	Ohio
+39059	Guernsey	76	40177	Ohio
+39061	Hamilton	5067	851494	Ohio
+39063	Hancock	172	74273	Ohio
+39065	Hardin	20	31948	Ohio
+39067	Harrison	10	15387	Ohio
+39069	Henry	20	28841	Ohio
+39071	Highland	41	42349	Ohio
+39073	Hocking	30	28975	Ohio
+39075	Holmes	33	41445	Ohio
+39077	Huron	90	59659	Ohio
+39079	Jackson	30	33270	Ohio
+39081	Jefferson	106	68526	Ohio
+39083	Knox	91	59324	Ohio
+39085	Lake	422	234030	Ohio
+39087	Lawrence	77	62573	Ohio
+39089	Licking	224	157721	Ohio
+39091	Logan	73	46220	Ohio
+39093	Lorain	622	304373	Ohio
+39095	Lucas	2091	440456	Ohio
+39097	Madison	50	41861	Ohio
+39099	Mahoning	841	237978	Ohio
+39101	Marion	136	65768	Ohio
+39103	Medina	313	171210	Ohio
+39105	Meigs	6	22722	Ohio
+39107	Mercer	51	40818	Ohio
+39109	Miami	148	101085	Ohio
+39111	Monroe	5	14221	Ohio
+39113	Montgomery	2250	534626	Ohio
+39115	Morgan	1	14510	Ohio
+39117	Morrow	16	34455	Ohio
+39119	Muskingum	189	85087	Ohio
+39121	Noble	6	14333	Ohio
+39123	Ottawa	65	40823	Ohio
+39125	Paulding	13	19096	Ohio
+39127	Perry	9	35241	Ohio
+39129	Pickaway	56	54544	Ohio
+39131	Pike	27	27967	Ohio
+39133	Portage	238	155991	Ohio
+39135	Preble	20	41643	Ohio
+39137	Putnam	20	34543	Ohio
+39139	Richland	262	124999	Ohio
+39141	Ross	176	76073	Ohio
+39143	Sandusky	87	60637	Ohio
+39145	Scioto	178	76587	Ohio
+39147	Seneca	48	56461	Ohio
+39149	Shelby	58	48919	Ohio
+39151	Stark	1109	379214	Ohio
+39153	Summit	2244	542562	Ohio
+39155	Trumbull	545	211317	Ohio
+39157	Tuscarawas	136	91348	Ohio
+39159	Union	77	48223	Ohio
+39161	Van Wert	31	28748	Ohio
+39163	Vinton	4	13281	Ohio
+39165	Warren	611	207353	Ohio
+39167	Washington	138	61567	Ohio
+39169	Wayne	193	113812	Ohio
+39171	Williams	48	38158	Ohio
+39173	Wood	316	125340	Ohio
+39175	Wyandot	18	22354	Ohio
+40001	Adair	15	21811	Oklahoma
+40003	Alfalfa	1	5637	Oklahoma
+40005	Atoka	3	14655	Oklahoma
+40007	Beaver	3	5248	Oklahoma
+40009	Beckham	39	21136	Oklahoma
+40011	Blaine	9	12659	Oklahoma
+40013	Bryan	52	40109	Oklahoma
+40015	Caddo	14	29024	Oklahoma
+40017	Canadian	124	106079	Oklahoma
+40019	Carter	102	47979	Oklahoma
+40021	Cherokee	96	45733	Oklahoma
+40023	Choctaw	13	14890	Oklahoma
+40025	Cimarron	3	2556	Oklahoma
+40027	Cleveland	610	239760	Oklahoma
+40029	Coal	2	5721	Oklahoma
+40031	Comanche	304	111772	Oklahoma
+40033	Cotton	4	6191	Oklahoma
+40035	Craig	21	15132	Oklahoma
+40037	Creek	56	69822	Oklahoma
+40039	Custer	36	26412	Oklahoma
+40041	Delaware	40	40425	Oklahoma
+40043	Dewey	2	4389	Oklahoma
+40045	Ellis	7	3971	Oklahoma
+40047	Garfield	158	58167	Oklahoma
+40049	Garvin	22	27247	Oklahoma
+40051	Grady	54	51066	Oklahoma
+40053	Grant	1	4450	Oklahoma
+40055	Greer	9	5713	Oklahoma
+40057	Harmon	3	2843	Oklahoma
+40059	Harper	1	3290	Oklahoma
+40061	Haskell	7	12152	Oklahoma
+40063	Hughes	8	13625	Oklahoma
+40065	Jackson	42	25236	Oklahoma
+40067	Jefferson	3	6219	Oklahoma
+40069	Johnston	9	10286	Oklahoma
+40071	Kay	66	45632	Oklahoma
+40073	Kingfisher	13	14300	Oklahoma
+40075	Kiowa	10	9399	Oklahoma
+40077	Latimer	12	10561	Oklahoma
+40079	Le Flore	47	49802	Oklahoma
+40081	Lincoln	14	32153	Oklahoma
+40083	Logan	44	38102	Oklahoma
+40085	Love	5	9155	Oklahoma
+40087	Mcclain	25	32365	Oklahoma
+40089	McCurtain	25	33532	Oklahoma
+40091	McIntosh	12	19698	Oklahoma
+40093	Major	7	7112	Oklahoma
+40095	Marshall	10	14919	Oklahoma
+40097	Mayes	35	39912	Oklahoma
+40099	Murray	10	12784	Oklahoma
+40101	Muskogee	146	71278	Oklahoma
+40103	Noble	11	11169	Oklahoma
+40105	Nowata	3	10729	Oklahoma
+40107	Okfuskee	5	11172	Oklahoma
+40109	Oklahoma	3260	706617	Oklahoma
+40111	Okmulgee	37	39219	Oklahoma
+40113	Osage	27	45489	Oklahoma
+40115	Ottawa	41	31849	Oklahoma
+40117	Pawnee	11	16307	Oklahoma
+40119	Payne	140	78280	Oklahoma
+40121	Pittsburg	84	45115	Oklahoma
+40123	Pontotoc	94	36999	Oklahoma
+40125	Pottawatomie	94	69616	Oklahoma
+40127	Pushmataha	7	11710	Oklahoma
+40129	Roger Mills	3	3404	Oklahoma
+40131	Rogers	116	84300	Oklahoma
+40133	Seminole	17	24200	Oklahoma
+40135	Sequoyah	22	41034	Oklahoma
+40137	Stephens	50	43498	Oklahoma
+40139	Texas	19	20283	Oklahoma
+40141	Tillman	6	7899	Oklahoma
+40143	Tulsa	2591	591982	Oklahoma
+40145	Wagoner	51	68960	Oklahoma
+40147	Washington	104	50452	Oklahoma
+40149	Washita	5	11709	Oklahoma
+40151	Woods	8	8422	Oklahoma
+40153	Woodward	25	19838	Oklahoma
+41001	Baker	27	15983	Oregon
+41003	Benton	396	81859	Oregon
+41005	Clackamas	1286	380576	Oregon
+41007	Clatsop	79	37404	Oregon
+41009	Columbia	23	49408	Oregon
+41011	Coos	180	63453	Oregon
+41013	Crook	17	23023	Oregon
+41015	Curry	39	21523	Oregon
+41017	Deschutes	612	158456	Oregon
+41019	Douglas	95	104059	Oregon
+41021	Gilliam	1	1747	Oregon
+41023	Grant	10	6916	Oregon
+41025	Harney	8	6747	Oregon
+41027	Hood River	105	21536	Oregon
+41029	Jackson	728	201138	Oregon
+41031	Jefferson	27	20512	Oregon
+41033	Josephine	167	81618	Oregon
+41035	Klamath	177	66425	Oregon
+41037	Lake	6	7239	Oregon
+41039	Lane	1115	346560	Oregon
+41041	Lincoln	102	45946	Oregon
+41043	Linn	149	115348	Oregon
+41045	Malheur	48	30907	Oregon
+41047	Marion	731	314606	Oregon
+41049	Morrow	4	11140	Oregon
+41051	Multnomah	4987	714567	Oregon
+41053	Polk	125	77074	Oregon
+41055	Sherman	1	1638	Oregon
+41057	Tillamook	55	24927	Oregon
+41059	Umatilla	116	73526	Oregon
+41061	Union	56	24961	Oregon
+41063	Wallowa	15	6760	Oregon
+41065	Wasco	69	23775	Oregon
+41067	Washington	1556	529216	Oregon
+41071	Yamhill	198	98168	Oregon
+42001	Adams	157	101119	Pennsylvania
+42003	Allegheny	8390	1215103	Pennsylvania
+42005	Armstrong	84	68790	Pennsylvania
+42007	Beaver	314	172476	Pennsylvania
+42009	Bedford	40	49727	Pennsylvania
+42011	Berks	1029	403595	Pennsylvania
+42013	Blair	417	125174	Pennsylvania
+42015	Bradford	289	61233	Pennsylvania
+42017	Bucks	2206	621643	Pennsylvania
+42019	Butler	354	182902	Pennsylvania
+42021	Cambria	480	144319	Pennsylvania
+42023	Cameron	5	5266	Pennsylvania
+42025	Carbon	78	63558	Pennsylvania
+42027	Centre	394	144779	Pennsylvania
+42029	Chester	1936	491489	Pennsylvania
+42031	Clarion	70	39989	Pennsylvania
+42033	Clearfield	187	82896	Pennsylvania
+42035	Clinton	55	37038	Pennsylvania
+42037	Columbia	137	65004	Pennsylvania
+42039	Crawford	175	88411	Pennsylvania
+42041	Cumberland	801	229361	Pennsylvania
+42043	Dauphin	1793	256562	Pennsylvania
+42045	Delaware	2790	553619	Pennsylvania
+42047	Elk	56	32268	Pennsylvania
+42049	Erie	884	279175	Pennsylvania
+42051	Fayette	184	143925	Pennsylvania
+42053	Forest	1	6825	Pennsylvania
+42055	Franklin	284	143495	Pennsylvania
+42057	Fulton	6	14935	Pennsylvania
+42059	Greene	33	39344	Pennsylvania
+42061	Huntingdon	57	45543	Pennsylvania
+42063	Indiana	143	87479	Pennsylvania
+42065	Jefferson	67	45105	Pennsylvania
+42067	Juniata	11	23146	Pennsylvania
+42069	Lackawanna	718	209408	Pennsylvania
+42071	Lancaster	1302	502370	Pennsylvania
+42073	Lawrence	135	90272	Pennsylvania
+42075	Lebanon	356	128934	Pennsylvania
+42077	Lehigh	1754	339989	Pennsylvania
+42079	Luzerne	921	311983	Pennsylvania
+42081	Lycoming	314	116670	Pennsylvania
+42083	McKean	68	43537	Pennsylvania
+42085	Mercer	331	116652	Pennsylvania
+42087	Mifflin	70	46062	Pennsylvania
+42089	Monroe	276	165058	Pennsylvania
+42091	Montgomery	6390	778048	Pennsylvania
+42093	Montour	680	17705	Pennsylvania
+42095	Northampton	817	294787	Pennsylvania
+42097	Northumberland	124	91091	Pennsylvania
+42099	Perry	29	45185	Pennsylvania
+42101	Philadelphia	8995	1447395	Pennsylvania
+42103	Pike	61	59664	Pennsylvania
+42105	Potter	30	16720	Pennsylvania
+42107	Schuylkill	243	147254	Pennsylvania
+42109	Snyder	56	38074	Pennsylvania
+42111	Somerset	120	77454	Pennsylvania
+42113	Sullivan	9	6124	Pennsylvania
+42115	Susquehanna	41	40831	Pennsylvania
+42117	Tioga	58	40574	Pennsylvania
+42119	Union	171	43640	Pennsylvania
+42121	Venango	118	54423	Pennsylvania
+42123	Warren	88	40728	Pennsylvania
+42125	Washington	476	206407	Pennsylvania
+42127	Wayne	75	52016	Pennsylvania
+42129	Westmoreland	821	361589	Pennsylvania
+42131	Wyoming	23	27759	Pennsylvania
+42133	York	1138	424583	Pennsylvania
+44001	Bristol	311	49838	Rhode Island
+44003	Kent	609	168058	Rhode Island
+44005	Newport	291	80478	Rhode Island
+44007	Providence	3133	626150	Rhode Island
+44009	Washington	420	126264	Rhode Island
+45001	Abbeville	24	25404	South Carolina
+45003	Aiken	260	154071	South Carolina
+45005	Allendale	10	10447	South Carolina
+45007	Anderson	435	182825	South Carolina
+45009	Bamberg	11	15307	South Carolina
+45011	Barnwell	14	22872	South Carolina
+45013	Beaufort	647	150415	South Carolina
+45015	Berkeley	173	169327	South Carolina
+45017	Calhoun	4	14583	South Carolina
+45019	Charleston	3000	348046	South Carolina
+45021	Cherokee	57	54394	South Carolina
+45023	Chester	28	32618	South Carolina
+45025	Chesterfield	30	42882	South Carolina
+45027	Clarendon	39	33149	South Carolina
+45029	Colleton	52	39019	South Carolina
+45031	Darlington	77	67031	South Carolina
+45033	Dillon	26	30698	South Carolina
+45035	Dorchester	124	127133	South Carolina
+45037	Edgefield	30	25546	South Carolina
+45039	Fairfield	16	23435	South Carolina
+45041	Florence	446	132800	South Carolina
+45043	Georgetown	178	60731	South Carolina
+45045	Greenville	1571	438119	South Carolina
+45047	Greenwood	258	68549	South Carolina
+45049	Hampton	14	21075	South Carolina
+45051	Horry	531	257380	South Carolina
+45053	Jasper	23	22330	South Carolina
+45055	Kershaw	87	58901	South Carolina
+45057	Lancaster	91	75913	South Carolina
+45059	Laurens	63	69681	South Carolina
+45061	Lee	4	19891	South Carolina
+45063	Lexington	481	248518	South Carolina
+45065	McCormick	5	10093	South Carolina
+45067	Marion	39	33843	South Carolina
+45069	Marlboro	20	28704	South Carolina
+45071	Newberry	46	37823	South Carolina
+45073	Oconee	173	71274	South Carolina
+45075	Orangeburg	153	90336	South Carolina
+45077	Pickens	167	116915	South Carolina
+45079	Richland	1698	364001	South Carolina
+45081	Saluda	7	18625	South Carolina
+45083	Spartanburg	711	280738	South Carolina
+45085	Sumter	178	104148	South Carolina
+45087	Union	33	27672	South Carolina
+45089	Williamsburg	13	35090	South Carolina
+45091	York	370	217448	South Carolina
+46005	Beadle	22	15878	South Dakota
+46007	Bennett	2	3393	South Dakota
+46009	Bon Homme	8	7079	South Dakota
+46011	Brookings	33	29668	South Dakota
+46013	Brown	99	35154	South Dakota
+46015	Brule	10	5205	South Dakota
+46017	Buffalo	2	2142	South Dakota
+46019	Butte	6	9593	South Dakota
+46023	Charles Mix	11	8906	South Dakota
+46025	Clark	2	3436	South Dakota
+46027	Clay	15	13605	South Dakota
+46029	Codington	72	26317	South Dakota
+46031	Corson	1	4136	South Dakota
+46033	Custer	10	7811	South Dakota
+46035	Davison	46	18931	South Dakota
+46037	Day	3	5526	South Dakota
+46039	Deuel	4	4276	South Dakota
+46041	Dewey	4	5931	South Dakota
+46043	Douglas	1	2945	South Dakota
+46045	Edmunds	5	4034	South Dakota
+46047	Fall River	20	7145	South Dakota
+46049	Faulk	1	2255	South Dakota
+46051	Grant	9	7101	South Dakota
+46053	Gregory	6	4084	South Dakota
+46055	Haakon	2	1819	South Dakota
+46057	Hamlin	1	5660	South Dakota
+46059	Hand	3	3274	South Dakota
+46061	Hanson	5	3609	South Dakota
+46065	Hughes	33	16746	South Dakota
+46067	Hutchinson	12	7250	South Dakota
+46073	Jerauld	3	1982	South Dakota
+46077	Kingsbury	5	5394	South Dakota
+46079	Lake	16	11693	South Dakota
+46081	Lawrence	62	23524	South Dakota
+46083	Lincoln	224	39713	South Dakota
+46087	McCook	4	5671	South Dakota
+46089	McPherson	3	2480	South Dakota
+46091	Marshall	2	4320	South Dakota
+46093	Meade	49	23989	South Dakota
+46099	Minnehaha	759	179180	South Dakota
+46101	Moody	6	6414	South Dakota
+46103	Pennington	399	98533	South Dakota
+46105	Perkins	1	2900	South Dakota
+46107	Potter	2	2123	South Dakota
+46109	Roberts	12	9851	South Dakota
+46111	Sanborn	2	2447	South Dakota
+46113	Shannon	8	13637	South Dakota
+46115	Spink	7	6664	South Dakota
+46117	Stanley	3	2703	South Dakota
+46121	Todd	6	10167	South Dakota
+46123	Tripp	8	5681	South Dakota
+46125	Turner	5	8366	South Dakota
+46127	Union	89	14131	South Dakota
+46129	Walworth	9	5238	South Dakota
+46135	Yankton	99	21835	South Dakota
+47001	Anderson	205	74169	Tennessee
+47003	Bedford	39	44696	Tennessee
+47005	Benton	8	16193	Tennessee
+47007	Bledsoe	10	13142	Tennessee
+47009	Blount	261	121511	Tennessee
+47011	Bradley	167	96472	Tennessee
+47013	Campbell	46	40936	Tennessee
+47015	Cannon	9	13804	Tennessee
+47017	Carroll	31	28719	Tennessee
+47019	Carter	65	59492	Tennessee
+47021	Cheatham	30	39396	Tennessee
+47023	Chester	5	16309	Tennessee
+47025	Claiborne	34	31461	Tennessee
+47027	Clay	6	7794	Tennessee
+47029	Cocke	26	35688	Tennessee
+47031	Coffee	120	52134	Tennessee
+47033	Crockett	6	14186	Tennessee
+47035	Cumberland	122	53590	Tennessee
+47037	Davidson	4162	626144	Tennessee
+47039	Decatur	10	11288	Tennessee
+47041	Dekalb	18	18694	Tennessee
+47043	Dickson	45	47884	Tennessee
+47045	Dyer	74	37600	Tennessee
+47047	Fayette	33	38173	Tennessee
+47049	Fentress	15	17667	Tennessee
+47051	Franklin	71	41165	Tennessee
+47053	Gibson	42	49257	Tennessee
+47055	Giles	37	29184	Tennessee
+47057	Grainger	10	22708	Tennessee
+47059	Greene	120	66157	Tennessee
+47061	Grundy	6	14220	Tennessee
+47063	Hamblen	150	62132	Tennessee
+47065	Hamilton	1509	332848	Tennessee
+47067	Hancock	4	6693	Tennessee
+47069	Hardeman	19	27848	Tennessee
+47071	Hardin	26	26227	Tennessee
+47073	Hawkins	60	57477	Tennessee
+47075	Haywood	15	19024	Tennessee
+47077	Henderson	15	26916	Tennessee
+47079	Henry	60	31770	Tennessee
+47081	Hickman	8	23841	Tennessee
+47083	Houston	4	8137	Tennessee
+47085	Humphreys	10	18149	Tennessee
+47087	Jackson	4	10847	Tennessee
+47089	Jefferson	55	51074	Tennessee
+47091	Johnson	15	18112	Tennessee
+47093	Knox	2103	430019	Tennessee
+47095	Lake	4	7323	Tennessee
+47097	Lauderdale	9	26692	Tennessee
+47099	Lawrence	33	40954	Tennessee
+47101	Lewis	5	11564	Tennessee
+47103	Lincoln	34	33116	Tennessee
+47105	Loudon	67	46445	Tennessee
+47107	McMinn	64	52511	Tennessee
+47109	McNairy	19	25724	Tennessee
+47111	Macon	9	21838	Tennessee
+47113	Madison	488	96376	Tennessee
+47115	Marion	39	28247	Tennessee
+47117	Marshall	18	29731	Tennessee
+47119	Maury	205	81938	Tennessee
+47121	Meigs	5	11790	Tennessee
+47123	Monroe	32	45648	Tennessee
+47125	Montgomery	282	154756	Tennessee
+47127	Moore	2	6195	Tennessee
+47129	Morgan	3	20404	Tennessee
+47131	Obion	48	31375	Tennessee
+47133	Overton	31	20975	Tennessee
+47135	Perry	4	7753	Tennessee
+47137	Pickett	2	4801	Tennessee
+47139	Polk	20	15671	Tennessee
+47141	Putnam	188	71160	Tennessee
+47143	Rhea	21	30781	Tennessee
+47145	Roane	56	53430	Tennessee
+47147	Robertson	55	64898	Tennessee
+47149	Rutherford	430	249270	Tennessee
+47151	Scott	18	22039	Tennessee
+47153	Sequatchie	12	13580	Tennessee
+47155	Sevier	81	84835	Tennessee
+47157	Shelby	3754	906825	Tennessee
+47159	Smith	16	19107	Tennessee
+47161	Stewart	5	13226	Tennessee
+47163	Sullivan	704	153900	Tennessee
+47165	Sumner	309	155474	Tennessee
+47167	Tipton	49	58706	Tennessee
+47169	Trousdale	6	7822	Tennessee
+47171	Unicoi	23	17718	Tennessee
+47173	Union	8	19008	Tennessee
+47175	Van Buren	3	5481	Tennessee
+47177	Warren	46	39842	Tennessee
+47179	Washington	999	118639	Tennessee
+47181	Wayne	10	16614	Tennessee
+47183	Weakley	38	33375	Tennessee
+47185	White	27	25129	Tennessee
+47187	Williamson	1152	171452	Tennessee
+47189	Wilson	161	109803	Tennessee
+48001	Anderson	75	56838	Texas
+48003	Andrews	14	13645	Texas
+48005	Angelina	171	83038	Texas
+48007	Aransas	39	24900	Texas
+48009	Archer	7	9119	Texas
+48013	Atascosa	35	43877	Texas
+48015	Austin	17	26851	Texas
+48017	Bailey	8	6279	Texas
+48019	Bandera	20	20303	Texas
+48021	Bastrop	47	73491	Texas
+48023	Baylor	4	3737	Texas
+48025	Bee	23	32661	Texas
+48027	Bell	1410	285084	Texas
+48029	Bexar	6769	1622899	Texas
+48031	Blanco	10	9082	Texas
+48035	Bosque	22	17760	Texas
+48037	Bowie	288	92283	Texas
+48039	Brazoria	816	301044	Texas
+48041	Brazos	510	175122	Texas
+48043	Brewster	19	9331	Texas
+48045	Briscoe	2	1462	Texas
+48047	Brooks	1	7549	Texas
+48049	Brown	71	38379	Texas
+48051	Burleson	11	16610	Texas
+48053	Burnet	85	44488	Texas
+48055	Caldwell	26	36899	Texas
+48057	Calhoun	24	20406	Texas
+48059	Callahan	7	13533	Texas
+48061	Cameron	591	392736	Texas
+48063	Camp	13	12666	Texas
+48067	Cass	14	29284	Texas
+48069	Castro	2	7129	Texas
+48071	Chambers	8	29356	Texas
+48073	Cherokee	69	48321	Texas
+48075	Childress	10	7536	Texas
+48077	Clay	11	10888	Texas
+48079	Cochran	2	2977	Texas
+48081	Coke	1	3480	Texas
+48083	Coleman	10	8577	Texas
+48085	Collin	2220	762010	Texas
+48087	Collingsworth	2	2985	Texas
+48089	Colorado	34	20734	Texas
+48091	Comal	265	109635	Texas
+48093	Comanche	16	13483	Texas
+48095	Concho	3	3610	Texas
+48097	Cooke	34	38407	Texas
+48099	Coryell	27	72654	Texas
+48103	Crane	6	4017	Texas
+48105	Crockett	1	3802	Texas
+48107	Crosby	2	6192	Texas
+48109	Culberson	2	2431	Texas
+48111	Dallam	1	6267	Texas
+48113	Dallas	8343	2412827	Texas
+48115	Dawson	8	13692	Texas
+48117	Deaf Smith	12	18501	Texas
+48121	Denton	1128	636557	Texas
+48123	De Witt	18	19596	Texas
+48127	Dimmit	7	9758	Texas
+48129	Donley	1	3850	Texas
+48133	Eastland	18	18186	Texas
+48135	Ector	289	131941	Texas
+48137	Edwards	3	1952	Texas
+48139	Ellis	142	148186	Texas
+48141	El Paso	1660	742062	Texas
+48143	Erath	50	35870	Texas
+48145	Falls	12	16900	Texas
+48147	Fannin	22	33229	Texas
+48149	Fayette	29	22698	Texas
+48151	Fisher	3	3912	Texas
+48153	Floyd	7	6455	Texas
+48157	Fort Bend	1271	532141	Texas
+48159	Franklin	6	11001	Texas
+48161	Freestone	10	18923	Texas
+48163	Frio	10	16163	Texas
+48165	Gaines	4	15081	Texas
+48167	Galveston	1450	288239	Texas
+48169	Garza	2	4628	Texas
+48171	Gillespie	113	23782	Texas
+48175	Goliad	2	7152	Texas
+48177	Gonzales	16	19155	Texas
+48179	Gray	30	22248	Texas
+48181	Grayson	258	118804	Texas
+48183	Gregg	317	117528	Texas
+48185	Grimes	15	25895	Texas
+48187	Guadalupe	140	117172	Texas
+48189	Hale	34	35234	Texas
+48191	Hall	3	3400	Texas
+48193	Hamilton	13	8092	Texas
+48195	Hansford	2	5280	Texas
+48197	Hardeman	7	3984	Texas
+48199	Hardin	29	52143	Texas
+48201	Harris	13271	3984349	Texas
+48203	Harrison	64	63594	Texas
+48205	Hartley	9	5162	Texas
+48207	Haskell	3	5216	Texas
+48209	Hays	214	149476	Texas
+48211	Hemphill	4	3472	Texas
+48213	Henderson	88	78814	Texas
+48215	Hidalgo	919	726604	Texas
+48217	Hill	21	35637	Texas
+48219	Hockley	16	22205	Texas
+48221	Hood	83	50573	Texas
+48223	Hopkins	36	33804	Texas
+48225	Houston	13	22698	Texas
+48227	Howard	60	32537	Texas
+48229	Hudspeth	1	3137	Texas
+48231	Hunt	79	82805	Texas
+48233	Hutchinson	15	21512	Texas
+48235	Irion	1	1699	Texas
+48237	Jack	5	8793	Texas
+48239	Jackson	8	14146	Texas
+48241	Jasper	31	34374	Texas
+48243	Jeff Davis	4	2275	Texas
+48245	Jefferson	636	243090	Texas
+48247	Jim Hogg	1	5016	Texas
+48249	Jim Wells	33	41069	Texas
+48251	Johnson	148	153630	Texas
+48253	Jones	12	19197	Texas
+48255	Karnes	8	15051	Texas
+48257	Kaufman	76	100527	Texas
+48259	Kendall	125	32886	Texas
+48263	Kent	1	708	Texas
+48265	Kerr	197	48269	Texas
+48267	Kimble	7	4432	Texas
+48271	Kinney	1	3233	Texas
+48273	Kleberg	28	30739	Texas
+48275	Knox	3	3393	Texas
+48277	Lamar	116	49286	Texas
+48279	Lamb	6	13585	Texas
+48281	Lampasas	20	21197	Texas
+48285	Lavaca	19	18652	Texas
+48287	Lee	6	16400	Texas
+48289	Leon	10	16859	Texas
+48291	Liberty	46	75333	Texas
+48293	Limestone	17	22192	Texas
+48297	Live Oak	1	11247	Texas
+48299	Llano	26	18400	Texas
+48303	Lubbock	1177	264418	Texas
+48305	Lynn	4	5783	Texas
+48307	McCulloch	8	7943	Texas
+48309	McLennan	578	230213	Texas
+48311	McMullen	1	837	Texas
+48313	Madison	4	13382	Texas
+48315	Marion	7	10544	Texas
+48317	Martin	4	4513	Texas
+48319	Mason	1	3882	Texas
+48321	Matagorda	39	37265	Texas
+48323	Maverick	37	52279	Texas
+48325	Medina	28	44275	Texas
+48327	Menard	3	2138	Texas
+48329	Midland	280	129494	Texas
+48331	Milam	14	24892	Texas
+48333	Mills	7	4998	Texas
+48335	Mitchell	4	9230	Texas
+48337	Montague	13	19716	Texas
+48339	Montgomery	984	429953	Texas
+48341	Moore	14	20308	Texas
+48343	Morris	5	12915	Texas
+48345	Motley	1	1260	Texas
+48347	Nacogdoches	142	62768	Texas
+48349	Navarro	60	49456	Texas
+48351	Newton	8	13752	Texas
+48353	Nolan	17	14879	Texas
+48355	Nueces	1079	322077	Texas
+48357	Ochiltree	6	9613	Texas
+48359	Oldham	1	2062	Texas
+48361	Orange	51	83022	Texas
+48363	Palo Pinto	31	27486	Texas
+48365	Panola	12	23084	Texas
+48367	Parker	173	111776	Texas
+48369	Parmer	6	9224	Texas
+48371	Pecos	9	16307	Texas
+48373	Polk	67	46144	Texas
+48375	Potter	483	120918	Texas
+48377	Presidio	4	7467	Texas
+48379	Rains	4	11204	Texas
+48381	Randall	273	114546	Texas
+48383	Reagan	2	3086	Texas
+48385	Real	2	2875	Texas
+48387	Red River	9	12955	Texas
+48389	Reeves	5	11062	Texas
+48391	Refugio	1	7350	Texas
+48395	Robertson	6	15693	Texas
+48397	Rockwall	199	77633	Texas
+48399	Runnels	12	10273	Texas
+48401	Rusk	45	48887	Texas
+48403	Sabine	6	10062	Texas
+48405	San Augustine	6	8576	Texas
+48407	San Jacinto	5	24882	Texas
+48409	San Patricio	47	68399	Texas
+48411	San Saba	4	5881	Texas
+48413	Schleicher	3	2819	Texas
+48415	Scurry	11	15973	Texas
+48417	Shackelford	3	3105	Texas
+48419	Shelby	12	26529	Texas
+48421	Sherman	1	2930	Texas
+48423	Smith	904	201277	Texas
+48425	Somervell	11	7942	Texas
+48427	Starr	22	62249	Texas
+48429	Stephens	5	9585	Texas
+48435	Sutton	4	4270	Texas
+48437	Swisher	5	7654	Texas
+48439	Tarrant	4210	1750091	Texas
+48441	Taylor	356	126791	Texas
+48443	Terrell	1	924	Texas
+48445	Terry	10	12135	Texas
+48447	Throckmorton	2	1667	Texas
+48449	Titus	54	29793	Texas
+48451	Tom Green	279	107864	Texas
+48453	Travis	3493	998543	Texas
+48455	Trinity	4	14147	Texas
+48457	Tyler	15	20470	Texas
+48459	Upshur	20	38331	Texas
+48461	Upton	2	3149	Texas
+48463	Uvalde	28	26461	Texas
+48465	Val Verde	46	48053	Texas
+48467	Van Zandt	22	52197	Texas
+48469	Victoria	230	86755	Texas
+48471	Walker	75	64212	Texas
+48473	Waller	12	35995	Texas
+48475	Ward	3	10549	Texas
+48477	Washington	56	32244	Texas
+48479	Webb	268	236941	Texas
+48481	Wharton	60	40791	Texas
+48483	Wheeler	6	4772	Texas
+48485	Wichita	358	127321	Texas
+48487	Wilbarger	19	13782	Texas
+48489	Willacy	7	20600	Texas
+48491	Williamson	759	394193	Texas
+48493	Wilson	28	40398	Texas
+48495	Winkler	4	6675	Texas
+48497	Wise	60	58506	Texas
+48499	Wood	40	42461	Texas
+48501	Yoakum	8	7571	Texas
+48503	Young	16	17579	Texas
+48505	Zapata	3	13847	Texas
+48507	Zavala	4	11678	Texas
+49001	Beaver	8	6162	Utah
+49003	Box Elder	43	49015	Utah
+49005	Cache	206	112616	Utah
+49007	Carbon	26	19549	Utah
+49011	Davis	565	295332	Utah
+49013	Duchesne	26	16861	Utah
+49015	Emery	1	10510	Utah
+49017	Garfield	3	4658	Utah
+49019	Grand	21	9589	Utah
+49021	Iron	55	44540	Utah
+49023	Juab	9	9983	Utah
+49025	Kane	7	6577	Utah
+49027	Millard	8	12082	Utah
+49029	Morgan	19	8669	Utah
+49031	Piute	1	1404	Utah
+49033	Rich	1	2205	Utah
+49035	Salt Lake	4110	1022651	Utah
+49037	San Juan	8	15055	Utah
+49039	Sanpete	29	25520	Utah
+49041	Sevier	14	20014	Utah
+49043	Summit	215	36100	Utah
+49045	Tooele	47	56941	Utah
+49047	Uintah	29	29885	Utah
+49049	Utah	794	530837	Utah
+49051	Wasatch	32	21066	Utah
+49053	Washington	311	137589	Utah
+49055	Wayne	3	2589	Utah
+49057	Weber	428	227487	Utah
+50001	Addison	109	36617	Vermont
+50003	Bennington	158	36382	Vermont
+50005	Caledonia	68	30470	Vermont
+50007	Chittenden	1342	152782	Vermont
+50009	Essex	4	6500	Vermont
+50011	Franklin	71	47949	Vermont
+50013	Grand Isle	19	7729	Vermont
+50015	Lamoille	66	24833	Vermont
+50017	Orange	80	28917	Vermont
+50019	Orleans	67	27189	Vermont
+50021	Rutland	198	63331	Vermont
+50023	Washington	196	58829	Vermont
+50025	Windham	151	43176	Vermont
+50027	Windsor	292	56566	Vermont
+51001	Accomack	33	38180	Virginia
+51003	Albemarle	1093	94075	Virginia
+51005	Alleghany	46	16202	Virginia
+51007	Amelia	4	12808	Virginia
+51009	Amherst	16	32539	Virginia
+51011	Appomattox	4	14501	Virginia
+51013	Arlington	962	209969	Virginia
+51015	Augusta	162	71250	Virginia
+51017	Bath	9	4544	Virginia
+51019	Bedford	102	66831	Virginia
+51021	Bland	3	6918	Virginia
+51023	Botetourt	62	32261	Virginia
+51025	Brunswick	7	17580	Virginia
+51027	Buchanan	24	23521	Virginia
+51029	Buckingham	7	15977	Virginia
+51031	Campbell	33	53030	Virginia
+51033	Caroline	15	27632	Virginia
+51035	Carroll	18	29158	Virginia
+51036	Charles City	5	7212	Virginia
+51037	Charlotte	6	12248	Virginia
+51041	Chesterfield	1036	303469	Virginia
+51043	Clarke	24	14458	Virginia
+51045	Craig	3	5087	Virginia
+51047	Culpeper	58	46203	Virginia
+51049	Cumberland	11	9670	Virginia
+51051	Dickenson	11	16405	Virginia
+51053	Dinwiddie	10	26082	Virginia
+51057	Essex	25	11091	Virginia
+51059	Fairfax	4556	1015302	Virginia
+51061	Fauquier	124	66839	Virginia
+51063	Floyd	14	14821	Virginia
+51065	Fluvanna	41	25544	Virginia
+51067	Franklin	81	51477	Virginia
+51069	Frederick	146	73898	Virginia
+51071	Giles	23	17249	Virginia
+51073	Gloucester	71	38656	Virginia
+51075	Goochland	100	20956	Virginia
+51077	Grayson	14	15969	Virginia
+51079	Greene	12	17964	Virginia
+51081	Greensville	4	11955	Virginia
+51083	Halifax	76	35412	Virginia
+51085	Hanover	220	99716	Virginia
+51087	Henrico	1638	292599	Virginia
+51089	Henry	28	55316	Virginia
+51091	Highland	5	2426	Virginia
+51093	Isle of Wight	64	35472	Virginia
+51095	James City	355	62414	Virginia
+51097	King and Queen	6	6830	Virginia
+51099	King George	11	23170	Virginia
+51101	King William	12	16040	Virginia
+51103	Lancaster	60	11466	Virginia
+51105	Lee	23	23448	Virginia
+51107	Loudoun	715	289995	Virginia
+51109	Louisa	21	32716	Virginia
+51111	Lunenburg	6	12941	Virginia
+51113	Madison	15	13639	Virginia
+51115	Mathews	14	9038	Virginia
+51117	Mecklenburg	59	32162	Virginia
+51119	Middlesex	15	10585	Virginia
+51121	Montgomery	214	89967	Virginia
+51125	Nelson	27	15321	Virginia
+51127	New Kent	18	17825	Virginia
+51131	Northampton	51	13415	Virginia
+51133	Northumberland	30	12915	Virginia
+51135	Nottoway	19	15892	Virginia
+51137	Orange	37	33139	Virginia
+51139	Page	22	24164	Virginia
+51141	Patrick	11	18844	Virginia
+51143	Pittsylvania	28	61123	Virginia
+51145	Powhatan	31	28006	Virginia
+51147	Prince Edward	36	21823	Virginia
+51149	Prince George	25	36089	Virginia
+51153	Prince William	503	364734	Virginia
+51155	Pulaski	58	34987	Virginia
+51157	Rappahannock	9	7158	Virginia
+51159	Richmond	2	9144	Virginia
+51161	Roanoke	505	90867	Virginia
+51163	Rockbridge	22	21570	Virginia
+51165	Rockingham	147	74394	Virginia
+51167	Russell	21	28831	Virginia
+51169	Scott	13	22850	Virginia
+51171	Shenandoah	49	40777	Virginia
+51173	Smyth	68	31905	Virginia
+51175	Southampton	8	18480	Virginia
+51177	Spotsylvania	208	120031	Virginia
+51179	Stafford	130	121736	Virginia
+51181	Surry	3	7128	Virginia
+51183	Sussex	3	12148	Virginia
+51185	Tazewell	128	43787	Virginia
+51187	Warren	42	36663	Virginia
+51191	Washington	142	53038	Virginia
+51193	Westmoreland	9	17462	Virginia
+51195	Wise	54	41703	Virginia
+51197	Wythe	54	28769	Virginia
+51199	York	256	61027	Virginia
+51510	Alexandria City	541	143885	Virginia
+51515	Bedford City	23	6312	Virginia
+51520	Bristol City	17	17424	Virginia
+51530	Buena Vista City	3	6471	Virginia
+51540	Charlottesville City	1092	41487	Virginia
+51550	Chesapeake City	721	220111	Virginia
+51570	Colonial Heights City	56	17768	Virginia
+51580	Covington City	5	6120	Virginia
+51590	Danville City	140	44660	Virginia
+51595	Emporia City	16	5643	Virginia
+51600	Fairfax City	79	23844	Virginia
+51610	Falls Church City	114	11169	Virginia
+51620	Franklin City	34	8877	Virginia
+51630	Fredericksburg City	194	22818	Virginia
+51640	Galax City	46	6808	Virginia
+51650	Hampton City	261	145494	Virginia
+51660	Harrisonburg City	161	44015	Virginia
+51670	Hopewell City	35	23142	Virginia
+51678	Lexington City	42	7003	Virginia
+51680	Lynchburg City	393	72596	Virginia
+51683	Manassas City	117	35205	Virginia
+51685	Manassas Park City	3	11319	Virginia
+51690	Martinsville City	89	14543	Virginia
+51700	Newport News City	481	179614	Virginia
+51710	Norfolk City	1272	234220	Virginia
+51720	Norton City	58	3702	Virginia
+51730	Petersburg City	61	32916	Virginia
+51735	Poquoson City	44	11829	Virginia
+51740	Portsmouth City	416	100577	Virginia
+51750	Radford	53	16125	Virginia
+51760	Richmond City	1452	202002	Virginia
+51770	Roanoke City	578	92967	Virginia
+51775	Salem City	178	25449	Virginia
+51790	Staunton City	68	23967	Virginia
+51800	Suffolk City	344	82302	Virginia
+51810	Virginia Beach City	1374	433746	Virginia
+51820	Waynesboro City	51	21953	Virginia
+51830	Williamsburg City	58	12481	Virginia
+51840	Winchester City	262	25897	Virginia
+53001	Adams	20	17285	Washington
+53003	Asotin	58	21420	Washington
+53005	Benton	441	163058	Washington
+53007	Chelan	279	71540	Washington
+53009	Clallam	225	71021	Washington
+53011	Clark	867	424733	Washington
+53013	Columbia	4	3990	Washington
+53015	Cowlitz	232	101254	Washington
+53017	Douglas	37	36653	Washington
+53019	Ferry	5	7353	Washington
+53021	Franklin	67	72783	Washington
+53023	Garfield	2	2060	Washington
+53025	Grant	91	84697	Washington
+53027	Grays Harbor	95	71342	Washington
+53029	Island	183	81424	Washington
+53031	Jefferson	94	29542	Washington
+53033	King	10435	1875519	Washington
+53035	Kitsap	732	239769	Washington
+53037	Kittitas	49	38951	Washington
+53039	Klickitat	33	20377	Washington
+53041	Lewis	112	74132	Washington
+53043	Lincoln	11	10344	Washington
+53045	Mason	56	57846	Washington
+53047	Okanogan	74	40033	Washington
+53049	Pacific	28	21271	Washington
+53051	Pend Oreille	13	12859	Washington
+53053	Pierce	2300	785639	Washington
+53055	San Juan	67	15294	Washington
+53057	Skagit	367	118000	Washington
+53059	Skamania	10	10794	Washington
+53061	Snohomish	1270	683655	Washington
+53063	Spokane	1627	462677	Washington
+53065	Stevens	55	42050	Washington
+53067	Thurston	850	245181	Washington
+53069	Wahkiakum	4	4133	Washington
+53071	Walla Walla	246	57788	Washington
+53073	Whatcom	631	196529	Washington
+53075	Whitman	75	41664	Washington
+53077	Yakima	528	234564	Washington
+54001	Barbour	11	15600	West Virginia
+54003	Berkeley	180	102044	West Virginia
+54005	Boone	14	24977	West Virginia
+54007	Braxton	11	14700	West Virginia
+54009	Brooke	48	23520	West Virginia
+54011	Cabell	710	94631	West Virginia
+54013	Calhoun	5	7212	West Virginia
+54015	Clay	6	10075	West Virginia
+54017	Doddridge	2	7201	West Virginia
+54019	Fayette	54	46341	West Virginia
+54021	Gilmer	4	6873	West Virginia
+54023	Grant	15	12047	West Virginia
+54025	Greenbrier	174	34567	West Virginia
+54027	Hampshire	15	22574	West Virginia
+54029	Hancock	37	30008	West Virginia
+54031	Hardy	12	13591	West Virginia
+54033	Harrison	227	68853	West Virginia
+54035	Jackson	26	28157	West Virginia
+54037	Jefferson	97	51615	West Virginia
+54039	Kanawha	1045	191018	West Virginia
+54041	Lewis	28	17281	West Virginia
+54043	Lincoln	9	22386	West Virginia
+54045	Logan	61	35525	West Virginia
+54047	McDowell	20	22707	West Virginia
+54049	Marion	103	56496	West Virginia
+54051	Marshall	42	32766	West Virginia
+54053	Mason	35	25678	West Virginia
+54055	Mercer	177	61500	West Virginia
+54057	Mineral	29	26795	West Virginia
+54059	Mingo	31	26352	West Virginia
+54061	Monongalia	1027	88221	West Virginia
+54063	Monroe	17	13739	West Virginia
+54065	Morgan	15	16325	West Virginia
+54067	Nicholas	43	26137	West Virginia
+54069	Ohio	345	44106	West Virginia
+54071	Pendleton	6	7582	West Virginia
+54073	Pleasants	3	7150	West Virginia
+54075	Pocahontas	16	8472	West Virginia
+54077	Preston	34	30285	West Virginia
+54079	Putnam	127	55488	West Virginia
+54081	Raleigh	255	79357	West Virginia
+54083	Randolph	70	28264	West Virginia
+54085	Ritchie	6	10308	West Virginia
+54087	Roane	16	15169	West Virginia
+54089	Summers	14	13017	West Virginia
+54091	Taylor	18	16158	West Virginia
+54093	Tucker	11	6877	West Virginia
+54095	Tyler	7	8841	West Virginia
+54097	Upshur	37	23582	West Virginia
+54099	Wayne	57	41082	West Virginia
+54101	Webster	8	9394	West Virginia
+54103	Wetzel	21	16329	West Virginia
+54105	Wirt	2	5757	West Virginia
+54107	Wood	253	86204	West Virginia
+54109	Wyoming	11	23534	West Virginia
+55001	Adams	6	20325	Wisconsin
+55003	Ashland	60	16295	Wisconsin
+55005	Barron	102	45590	Wisconsin
+55007	Bayfield	23	14926	Wisconsin
+55009	Brown	705	245018	Wisconsin
+55011	Buffalo	9	13741	Wisconsin
+55013	Burnett	15	16196	Wisconsin
+55015	Calumet	47	44727	Wisconsin
+55017	Chippewa	103	60456	Wisconsin
+55019	Clark	21	33553	Wisconsin
+55021	Columbia	72	55196	Wisconsin
+55023	Crawford	27	16885	Wisconsin
+55025	Dane	3158	482705	Wisconsin
+55027	Dodge	118	87912	Wisconsin
+55029	Door	95	27771	Wisconsin
+55031	Douglas	32	43774	Wisconsin
+55033	Dunn	52	42688	Wisconsin
+55035	Eau Claire	492	98286	Wisconsin
+55037	Florence	8	4652	Wisconsin
+55039	Fond Du Lac	207	99453	Wisconsin
+55041	Forest	4	9846	Wisconsin
+55043	Grant	46	49238	Wisconsin
+55045	Green	87	36090	Wisconsin
+55047	Green Lake	33	18566	Wisconsin
+55049	Iowa	33	23604	Wisconsin
+55051	Iron	7	6197	Wisconsin
+55053	Jackson	32	19904	Wisconsin
+55055	Jefferson	99	80792	Wisconsin
+55057	Juneau	35	26633	Wisconsin
+55059	Kenosha	272	164465	Wisconsin
+55061	Kewaunee	16	20388	Wisconsin
+55063	La Crosse	664	112627	Wisconsin
+55065	Lafayette	7	15871	Wisconsin
+55067	Langlade	32	20165	Wisconsin
+55069	Lincoln	37	29499	Wisconsin
+55071	Manitowoc	171	80641	Wisconsin
+55073	Marathon	479	130962	Wisconsin
+55075	Marinette	96	42288	Wisconsin
+55077	Marquette	5	15060	Wisconsin
+55078	Menominee	4	4571	Wisconsin
+55079	Milwaukee	3897	953328	Wisconsin
+55081	Monroe	70	43350	Wisconsin
+55083	Oconto	27	37529	Wisconsin
+55085	Oneida	167	36031	Wisconsin
+55087	Outagamie	451	174993	Wisconsin
+55089	Ozaukee	481	85874	Wisconsin
+55091	Pepin	6	7357	Wisconsin
+55093	Pierce	29	40254	Wisconsin
+55095	Polk	78	44270	Wisconsin
+55097	Portage	142	68744	Wisconsin
+55099	Price	17	14278	Wisconsin
+55101	Racine	341	199510	Wisconsin
+55103	Richland	26	17982	Wisconsin
+55105	Rock	360	160213	Wisconsin
+55107	Rusk	18	14389	Wisconsin
+55109	St Croix	114	82487	Wisconsin
+55111	Sauk	100	59013	Wisconsin
+55113	Sawyer	30	17117	Wisconsin
+55115	Shawano	38	40972	Wisconsin
+55117	Sheboygan	231	114561	Wisconsin
+55119	Taylor	14	19308	Wisconsin
+55121	Trempealeau	29	27790	Wisconsin
+55123	Vernon	53	29090	Wisconsin
+55125	Vilas	42	21919	Wisconsin
+55127	Walworth	139	100749	Wisconsin
+55129	Washburn	26	16712	Wisconsin
+55131	Washington	205	129477	Wisconsin
+55133	Waukesha	2132	380629	Wisconsin
+55135	Waupaca	60	51858	Wisconsin
+55137	Waushara	23	24760	Wisconsin
+55139	Winnebago	509	162111	Wisconsin
+55141	Wood	535	73756	Wisconsin
+56001	Albany	102	32758	Wyoming
+56003	Big Horn	8	11322	Wyoming
+56005	Campbell	65	41473	Wyoming
+56007	Carbon	17	15624	Wyoming
+56009	Converse	19	13267	Wyoming
+56011	Crook	6	6457	Wyoming
+56013	Fremont	112	38113	Wyoming
+56015	Goshen	14	12072	Wyoming
+56017	Hot Springs	8	4622	Wyoming
+56019	Johnson	18	8464	Wyoming
+56021	Laramie	297	87542	Wyoming
+56023	Lincoln	16	16631	Wyoming
+56025	Natrona	217	73129	Wyoming
+56027	Niobrara	2	2428	Wyoming
+56029	Park	86	27574	Wyoming
+56031	Platte	9	8294	Wyoming
+56033	Sheridan	92	28662	Wyoming
+56035	Sublette	11	8456	Wyoming
+56037	Sweetwater	40	39944	Wyoming
+56039	Teton	135	20376	Wyoming
+56041	Uinta	34	20617	Wyoming
+56043	Washakie	9	7821	Wyoming
+56045	Weston	8	7022	Wyoming

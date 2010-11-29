@@ -1,0 +1,252 @@
+aguilar	698	las animas	2
+akron	800	washington	2
+alamosa	1600	conejos	6
+alma	297	park	1
+antonito	347	conejos	2
+arvada	300	jefferson	2
+aspen	2100	pitkin	6
+atwood	n-a	logan	1
+ault	300	weld	3
+austin	15	delta	1
+avondale	600	pueblo	1
+basalt	n-a	eagle	1
+bayfield	125	la plata	2
+berthoud	305	larimer	4
+beulah	205	pueblo	2
+blackhawk	1200	gilpin	1
+blanca	n-a	costilla	1
+bonanza	141	saguache	1
+boulder	12000	boulder	44
+bovina	n-a	lincoln	1
+breckenridge	976	summit	3
+brighton	1200	adams	2
+bristol	n-a	prowers	1
+brush	1100	morgan	5
+buena vista	1006	chaffee	2
+burlington	183	kit carson	2
+byers	125	arapahoe	1
+calcite	150	fremont	1
+calhan	65	el paso	2
+canon city	3775	fremont	23
+carbondale	225	garfield	2
+cardiff	175	garfield	1
+castle rock	304	douglas	2
+cedaredge	21	delta	2
+center	209	saguache	2
+central city	3114	gilpin	3
+chandler	300	fremont	1
+cheraw	150	otero	1
+cheyenne wells	179	cheyenne	1
+clifton	150	mesa	2
+coal creek	600	fremont	1
+cokedale	n-a	las animas	1
+collbran	300	mesa	1
+colorado city	4500	el paso	13
+colorado springs	31640	el paso	124
+como	400	park	1
+cortez	800	montezuma	2
+craig	133	routt	4
+crawford	30	delta	2
+creede	1250	mineral	2
+crested butte	988	gunnison	2
+crestone	150	saguache	1
+cripple creek	10147	teller	10
+crook	50	logan	2
+dacona	n-a	wells	1
+de beque	400	mesa	3
+delagua	20	las animas	1
+del norte	705	rio grande	4
+delta	819	delta	13
+denver	155124	denver	710
+dillon	250	summit	1
+dolores	108	montezuma	3
+dunton	20	dolores	1
+durango	3317	la plata	13
+eads	85	kiowa	2
+eagle	250	eagle	2
+eastonville	104	el paso	2
+eaton	384	weld	5
+eckert	22	delta	2
+edgewater	400	jefferson	5
+edith	n-a	archuleta	1
+elbert	200	elbert	1
+elizabeth	215	elbert	1
+elkton	600	teller	2
+englewood	500	arapahoe	5
+erie	697	weld	4
+estes lodge	n-a	laramir	1
+estes park	55	larimer	1
+evans	389	weld	2
+evergreen	200	jefferson	3
+fair play	319	park	1
+falcon	100	el paso	1
+flagler	99	kit carson	2
+florence	3728	fremont	9
+florissant	131	teller	1
+forbes junction	n-a	las animas	1
+fort collins	10000	larimer	28
+fort garland	601	costilla	1
+fort logan	300	arapahoe	1
+fort lupton	214	weld	4
+fort morgan	2000	morgan	11
+fountain	108	el paso	5
+fowler	500	otero	2
+fraser	n-a	grand	1
+fruita	1200	mesa	6
+gardner	150	huerfano	1
+georgetown	1418	clear creek	3
+glenwood springs	2500	garfield	10
+golden	2152	jefferson	4
+goldfield	2191	teller	2
+goldhill	300	boulder	2
+gorham	350	boulder	1
+granada	204	prowers	1
+grand junction	10500	mesa	25
+grand valley	300	garfield	2
+graycreek	200	las animas	1
+greeley	3500	weld	28
+gulch	500	pitkin	1
+gunnison	1200	gunnison	2
+gypsum	125	eagle	1
+hastings	1000	las animas	3
+haxtum	300	phillips	1
+hayden	66	routt	2
+hesperus	n-a	la plata	1
+hillrose	500	morgan	2
+hoehne	50	las animas	1
+holly	500	prowers	3
+holyoke	451	phillips	3
+hooper	177	costilla	1
+hotchkiss	261	delta	5
+howard	300	fremont	1
+hudson	n-a	weld	1
+hugo	120	lincoln	2
+idaho springs	4050	clear creek	6
+ignacio	60	la plata	1
+johnstown	70	weld	2
+julesburg	371	sedgwick	3
+katcina	n-a	pitkin	1
+kendrick	n-a	lincoln	1
+kersey	50	weld	3
+kiowa	116	elbert	1
+kremmling	500	grand	2
+lafayette	970	boulder	3
+la jara	300	conejos	3
+la junta	5500	otero	12
+lake city	700	hinsdale	1
+lamar	3000	prowers	8
+laporte	300	larimer	1
+la salle 	50	weld	1
+las animas	2568	bent	6
+la veta	254	huerfano	3
+leadville	14111	lake	12
+limon	300	lincoln	2
+littleton	738	arapahoe	4
+longmont	2201	boulder	12
+louisville	966	boulder	4
+loveland	5175	larimer	12
+ludlow	n-a	las animas	1
+lujane	150	montrose	1
+lyons	547	boulder	3
+manassa	739	conejos	2
+mancos	383	montezuma	2
+manitou	1303	el paso	4
+manzanola	250	otero	2
+mattison	30	elbert	1
+mead	100	weld	2
+meeker	507	rio blanco	3
+merino	15	logan	2
+mesa	200	mesa	1
+minturn	200	eagle	1
+mirage	33	saguache	1
+monarch	n-a	grand	1
+montclair	300	denver	6
+monte vista	1800	rio grande	7
+montezuma	40	summit	1
+montrose	1217	montrose	16
+monument	156	el paso	2
+mountain view	n-a	jefferson	1
+mount morrison	254	jefferson	1
+nederland	200	boulder	2
+newcastle	431	garfield	3
+new windsor	305	weld	5
+niwot	100	boulder	1
+norwood	61	san miguel	1
+nunn	n-a	weld	2
+olathe	100	montrose	3
+ophir	127	san miguel	1
+ordway	1000	otero	4
+ouray	2196	ouray	6
+pagosa springs	367	archuleta	2
+palisades	1200	mesa	3
+paonia	110	delta	5
+parkdale	15	fremont	1
+parker	85	douglas	1
+pierce	10	weld	2
+pine	100	jefferson	1
+pitkin	203	gunnison	1
+plateau city	70	mesa	1
+platteville	263	weld	3
+portland	600	fremont	1
+primero	300	las animas	1
+pryor	200	huerfano	1
+pueblo	31557	pueblo	81
+radiant	n-a	fremont	1
+redstone	150	pitkin	1
+resolis	n-a	elbert	1
+rico	811	dolores	1
+ridgway	245	ouray	2
+rifle	1200	ouray	2
+river portal	n-a	montrose	1
+rockvale	879	fremont	1
+rocky ford	5000	otero	11
+rollinsville	50	gilpin	1
+roswell	300	el paso	1
+rouse	400	huerfano	2
+saguache	706	saguache	2
+saint elmo	65	chaffee	1
+salida	3722	chaffee	13
+san luis	350	costilla	1
+sedgwick	40	sedgwick	2
+segundo	300	las animas	1
+seibert	100	kit carson	2
+severance	25	weld	1
+shoshone	100	garfield	1
+silverplume	755	clear creek	1
+silverton	2300	san juan	7
+smuggler	n-a	san miguel	2
+somerset	150	gunnison	2
+sopris	600	las animas	1
+spencer	52	gunnison	1
+starkville	600	las animas	1
+steamboat springs	450	routt	5
+sterling	3000	logan	7
+stratton	75	kit carson	1
+strong	65	huerfano	1
+sugar city	689	otero	4
+sulphur springs	106	grand	1
+swink	n-a	otero	1
+tabasco	30	las animas	1
+telluride	2446	san miguel	5
+timnath	38	larimer	1
+tincup	64	gunnison	1
+tolland	100	gilpin	1
+trinidad	5345	las animas	18
+twin lakes	118	lake	1
+university park	215	denver	1
+victor	4986	teller	5
+vilas	10	baca	1
+walden	141	jackson	1
+wall street	225	boulder	1
+walsenburg	1033	huerfano	7
+ward	n-a	boulder	1
+weldona	100	morgan	1
+wellington	40	larimer	3
+westcliffe	265	custer	3
+westminster	300	adams	1
+weston	41	las animas	1
+whitewater	61	mesa	1
+wiley	n-a	prowers	1
+wray	1300	yuma	4
+yampa	25	routt	2
+yuma	450	yuma	1

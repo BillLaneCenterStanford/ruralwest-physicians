@@ -1,0 +1,71 @@
+arivaca	170	pima	1
+benson	450	cochise	2
+bisbee	12000	cochise	19
+bouse	n-a	yuma	1
+buckeye	300	maricopa	1
+camp verde	200	yavapai	2
+clifton	2500	graham	5
+courtland	n-a	cochise	2
+crown king	10	yavapai	1
+douglas	8000	cochise	13
+duquesne	150	santa cruz	1
+flagstaff	1271	coconino	5
+florence	800	pinal	1
+fort apache	300	navajo	1
+fort defiance	12	apache	1
+fort huachuca	370	cochise	1
+ganado	n-a	apache	1
+gila bend	250	maricopa	1
+gleeson	35	cochise	1
+glendale	200	maricopa	2
+globe	10000	gila	12
+goldroad	300	mohave	1
+helvetia	172	pima	1
+holbrook	400	navajo	1
+hot springs	70	yavapai	1
+humboldt	50	yavapai	1
+jerome	2861	yavapai	3
+keams canon	25	navajo	1
+kelvin	377	pinal	1
+kingman	726	mohave	2
+kofa	300	yuma	2
+leupp	n-a	coconino	2
+mccabe	250	yavapai	1
+mammoth	210	pinal	1
+mayer	37	yavapai	2
+mesa	722	maricopa	6
+metcalf	525	graham	2
+miami	300	gila	1
+mohave city	180	mohave	1
+morenci	5100	graham	3
+naco	900	cochise	2
+nogales	1761	santa cruz	9
+octave	253	yavapai	1
+paradise	25	cochise	2
+parker	400	yuma	2
+patagonia	112	santa cruz	1
+pearce	324	cochise	1
+phoenix	12200	maricopa	42
+poland	100	yavapai	1
+prescott	5000	yavapai	11
+rice	40	gila	1
+roosevelt	500	gila	1
+sacaton	166	pinal	2
+safford	950	graham	3
+st. johns	n-a	apache	1
+san carlos	3065	gila	1
+seligman	50	yavapai	1
+silverbell	20	pima	1
+solomonsville	600	graham	1
+springerville	510	apache	1
+tempe	892	maricopa	5
+tombstone	646	cochise	5
+truxton	n-a	mohave	1
+tuba	66	coconino	1
+tucson	17500	pima	20
+whiteriver	25	navajo	1
+wickenburg	317	maricopa	2
+willcox	466	cochise	1
+williams	1832	coconino	3
+winslow	1305	navajo	4
+yuma	2200	yuma	5

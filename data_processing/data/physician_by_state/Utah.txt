@@ -1,0 +1,78 @@
+american fork	2732	utah	2
+beaver 	1701	beaver	2
+bingham canyon	1193	salt lake	4
+bountiful	1442	davis	2
+brigham	2859	boxelder	4
+Castle dale	559	emery	1
+castelgate	789	carbon	1
+cedar city	1425	iron	2
+clearcreek	300	carbon	1
+coalville	808	summit	1
+collinston	500	boxelder	1
+devils slide	300	morgan	1
+elsinore	850	sevier	1
+ephraim	2086	sanpete	1
+eureka	3085	juab	4
+fairview	1119	sanpete	2
+farmington	1400	davis	1
+garfield	1600	salt lake	2
+garland	400	boxelder	1
+grantsville	1058	tooele	1
+greenriver	250	emery	1
+gunnison	829	sanpete	2
+heber	1534	wasatch	1
+helper	nd	carbon	1
+hooper	386	weber	1
+huntsville	750	weber	1
+hyrum 	1652	cache	1
+kamas	231	summit	1
+kaysville	1708	davis	2
+kenilworth	150	carbon	1
+kimberly	500	Plute (Sevier P.O)	1
+layton	809	davis	1
+lehi	2719	utah	2
+lewiston	499	cache	1
+logan	5451	cache	8
+mammoth	1200	juab	1
+manti	2408	sanpete	2
+marysvale	170	piute	1
+mercur	2351	tooele	1
+milford	249	beaver	2
+moab	269	grand	1
+monroe	1057	sevier	2
+morgan	600	morgan	2
+moroni	1224	sanpete	1
+mount pleasant 	2372	sanpete	3
+murray	2137	salt lake	8
+nephi	2208	juab	2
+newhouse	500	beaver	1
+oasis	nd	millard	1
+ogden	17451	weber	36
+ophir	400	tooele	1
+panguitch	883	garfield	1
+park city	3759	summit	3
+payson	2636	utah	3
+plateau	nd	sevier (richfield p.o.)	1
+pleasant grove 	2460	utah	1
+price	539	carbon	2
+provo	8000	utah	12
+randolph	750	rich	2
+richfield	1969	sevier	5
+richmond	1111	cache	1
+robinson	1200	juab	2
+saint george	1600	washington	3
+salina	847	sevier	2
+salt lake city	62283	salt lake	172
+sandy	1030	salt lake	1
+silver city	800	juab	1
+spanish fork	2735	utah	4
+springville	3422	utah	3
+sunnyside	15	carbon	2
+thistle	200	utah	1
+tooele	200	tooele	2
+tremonton	100	boxelder	3
+vernal	664	uinta	4
+wellsville	908	cache	1
+west jordan	337	salt lake	1
+winterquarters	200	carbon	1
+woods cross	187	davis	1

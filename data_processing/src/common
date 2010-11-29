@@ -1,0 +1,3 @@
+python csv2xml_utah.py ../data/Utah_PH_PA_1998.txt ../data/Utah_PH_PA_1998.xml
+python csv2xml_utah.py ../data/Utah_PH_PA_2003.txt ../data/Utah_PH_PA_2003.xml
+python csv2xml_utah.py ../data/Utah_PH_PA_2008.txt ../data/Utah_PH_PA_2008.xml

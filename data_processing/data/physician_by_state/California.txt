@@ -1,0 +1,510 @@
+Adin	376	modoc	3
+agnew	68	santa clara	3
+alameda	20703	alameda	49
+albion	400	mendocino	1
+alhambra	808	los angeles	8
+alleghany	115	sierra	1
+allendale	n-a	alameda	1
+alpaugh	100	tulare	1
+alpine	67	san diego	1
+atlon	117	humboldt	1
+alturas	1013	modoc	4
+amador city	984	amador	1
+anaheim	1456	orange	4
+anderson	600	shasta	3
+angel island	285	marin	2
+angels camp	3000	calveras	4
+antioch	674	contra costa	2
+arbuckle 	330	colusa	2
+arcata	952	humboldt	6
+arlington	1300	riverside	3
+arrowhead springs	200	san bernadino	2
+arroyo grande	466	san luis obispo	6
+artesia	500	los angeles	1
+atchison	300	contra costa	1
+auburn	2050	placer	6
+azusa	863	los angeles	3
+bairdstown	50	los angeles	1
+bakersfield	7546	kern	19
+banning	915	riverside	2
+barnwell	100	san bernadino	1
+barstow	300	san bernadino	3
+beaumont	985	riverside	1
+beckwith	74	plumas	2
+belmont	600	san mateo	2
+benicia	2751	solano	5
+ben lomond	300	santa cruz	1
+berkeley	30000	alameda	98
+betteravia	100	santa barbara	1
+bieber	513	lassen	2
+biggs	700	butte	2
+big pine	147	inyo	1
+bijou	100	el dorado	1
+bishop	340	inyo	3
+black diamond	1500	contra costa	1
+bloomfield	206	sonoma	1
+blue lake	398	humboldt	2
+bodega	300	sonoma	1
+bodie	800	mono	2
+bolinas	110	marin	1
+bonita	300	san diego	1
+boonville	200	mendocino	1
+bostonia	300	san diego	1
+boulder creek	489	santa cruz	3
+boyes hot springs	n-a	sonoma	1
+brawley	200	imperial	3
+brentwood	369	contra costa	1
+bridgeport	224	mono	2
+broderick	800	yolo	1
+buena park	115	orange	1
+burbank	306	los angeles	2
+burlingame	147	san mateo	5
+burnett	500	los angeles	1
+burson	37	calveras	1
+butte city	279	glenn	1
+byron	289	contra costa	2
+calexico	100	imperial	5
+calistoga	690	napa	5
+cambria	288	san luis obispo	1
+campbell	377	santa clara	3
+camp meeker	45	sonoma	1
+camptonville	387	yuba	1
+capay	304	yolo	1
+carmel	34	monterey	4
+carpinteria	300	santa barbara	4
+castroville	642	monterey	1
+cayucos	300	san luis obispo	1
+cedarville 	380	modoc	4
+centerville	564	alameda	2
+ceres	206	stanislaus	1
+challenge	75	yuba	1
+chicago park	n-a	nevada	1
+chico	2640	butte	20
+chinese camp	150	tuolumne	1
+chino	1000	san bernadino	3
+chula vista	60	san diego	1
+claremont	180	los angeles	2
+cloverdale	750	sonoma	4
+clovis	700	fresno	4
+coachella	585	riverside	1
+coalinga	800	fresno	2
+coffee	n-a	trinity	1
+colegrove	200	los angeles	1
+colfax	670	placer	2
+colma	293	san mateo	1
+colton	1309	san bernadino	6
+columbia	250	tuolumne	1
+colusa	2000	colusa	4
+compton	636	los angeles	2
+concord	586	contra costa	2
+coram	500	shasta	2
+corcoran	500	kings	2
+corning	210	tehama	3
+corona	3600	riverside	7
+coronado beach	935	san diego	2
+cottonwood	300	shasta	1
+county farm	n-a	los angeles	1
+covelo	350	mendocino	2
+covina	255	los angeles	5
+crescent city	699	del norte	2
+cresccent mills	77	plumas	1
+crockett	850	contra costa	2
+cucamonga	200	san bernadino	1
+cupertino	50	santa clara	2
+danville	85	contra costa	1
+davisville	750	yolo	3
+decoto	212	alameda	1
+delano	401	kern	1
+diamond spring	267	el dorado	1
+dinuba	500	tulare	4
+dixon	783	solano	2
+dolgeville	100	los angeles	1
+dorris	250	siskiyou	1
+dos palos colony	100	merced	2
+downey	700	los angeles	4
+downieville	500	sierra	1
+dunsmuir	650	siskiyou	2
+durham	89	butte	1
+dutch flat	750	placer	1
+eagle nest	25	sonoma	1
+eagleville	116	modoc	1
+east auburn	600	placer	3
+east oakland	n-a	alameda	2
+edgewood	227	siskiyou	1
+eileen	28	siskiyou	1
+el centro	500	imperial	2
+eldridge	325	sonoma	4
+elk	250	mendocino	1
+elk grove	375	sacramento	2
+elmhurst	1000	alameda	3
+el monte	266	los angeles	3
+el rio	250	ventura	1
+elsinore	655	riverside	3
+escondido	755	san diego	6
+etiwanda	175	san bernadino	1
+etna mills	500	siskiyou	3
+eureka	11111	humboldt	30
+exeter	400	tulare	4
+fair oaks	75	sacramento	3
+fall brook	300	san diego	1
+fall river mills	208	shasta	1
+ferndale	846	humboldt	4
+fillmore	150	ventura	2
+florence	300	los angeles	1
+floriston	55	nevada	1
+folsom city	950	sacramento	3
+forest hill	650	placer	2
+forestville	184	sonoma	2
+fort bragg	1590	mendocino	5
+fort jones	336	siskiyou	2
+fort miley	n-a	san francisco	1
+fortuna	776	humboldt	3
+fowler	500	fresno	4
+french camp	233	san joaquin	1
+fresno	30000	fresno	49
+fruitvale	3500	alameda	17
+fullerton	600	orange	6
+galt	985	sacramento	1
+garberville	284	humboldt	1
+gardena	100	los angeles	2
+garden grove	126	orange	1
+georgetown	400	el dorado	2
+geyserville	246	sonoma	1
+gilroy	1820	santa clara	5
+glenburn	35	shasta	1
+glendale	200	los angeles	9
+glendora	492	los angeles	4
+glen ellen	1000	sonoma	1
+gold run	150	placer	1
+gonzales	500	monterey	1
+grafton	367	yolo	2
+grass valley	4718	nevada	8
+greenville	531	plumas	2
+gridley	750	butte	4
+grimes	200	colusa	1
+guadaloupe	295	santa barbara	1
+guerneville	633	sonoma	1
+half moon bay	784	san mateo	2
+hamilton	210	glenn	1
+hammonton	n-a	yuba	1
+hanford	5000	kings	11
+hayfork	114	trinity	1
+hayward	1965	alameda	10
+healdsburg	1869	sonoma	9
+hemet	1900	riverside	2
+henley	192	siskiyou	1
+highland	1600	san bernadino	7
+hilts	50	siskiyou	1
+hobart mills	n-a	nevada	1
+hodson	74	calveras	1
+hollister	1315	san benito	6
+hollywood	250	los angeles	17
+holtville	300	imperial	1
+honcut	500	butte	1
+huntington beach	25	orange	3
+huntington park	500	los angeles	1
+hynes	64	los angeles	1
+idria	10	san benito	1
+igerna	55	siskiyou	1
+igo	148	shasta	1
+imperial	1800	imperial	4
+imperial beach	n-a	san diego	1
+independence	407	inyo	2
+inglewood	200	los angeles	1
+ione	806	amador	1
+irvington	467	alameda	4
+isleton	100	sacramento	1
+jackson	2300	amador	3
+jamestown	385	tuolumne	1
+janesville	93	lassen	1
+johnsville	311	plumas	1
+julian	327	san diego	1
+kelseyville	994	lake	2
+kenett	2000	shasta	4
+kern	1291	kern	5
+kernville	210	kern	1
+king city	330	monterey	2
+kingsburg	328	fresno	3
+kingriver	32	fresno	2
+knob	200	shasta	1
+la grange	237	stanislaus	1
+la jolla	2000	san diego	2
+lake city	93	modoc	1
+lakeport	726	lake	7
+lakeside 	110	san diego	1
+lamanda park	200	los angeles	1
+la mesa	100	san diego	3
+la moine 	300	shasta	1
+lancaster	150	los angeles	1
+la porte	214	plumas	2
+larkspur	600	marin	1
+las encinas	n-a	los angeles	1
+lathrop	250	san joaquin	1
+laton	400	fresno	2
+le grand	100	merced	1
+lemon cove	150	tulare	1
+lemoore	650	kings	5
+lincoln	1061	placer	4
+lindsay	400	tulare	2
+livermore	1493	alameda	5
+lockeford	100	san joaquin	2
+lodi	2500	san joaquin	9
+loleta	125	humboldt	1
+loma linda	10	san bernadino	3
+lompoc	972	santa barbara	6
+long beach 	2252	los angeles	33
+loomis	600	placer	1
+lordsburg	n-a	los angeles	3
+los alamos	607	santa barbara	1
+los angeles	102479	los angeles	708
+los banos	240	merced	3
+los gatos	4915	santa clara	8
+lowerlake	395	lake	3
+loyalton	143	sierra	2
+ludlow	n-a	san bernadino	1
+lyonsville	n-a	tehama	1
+mccloud	50	siskiyou	3
+mckittrick	200	kern	2
+mcnear	n-a	marin	1
+madera	2500	madera	6
+manton	600	tehama	1
+manvel	91	san bernadino	1
+mare island	n-a	solano	1
+maricopa	n-a	kern	2
+mariposa	366	mariposa	1
+martinez	1380	contra costa	4
+marysville	3497	yuba	11
+maxwell	420	colusa	1
+mayfield	1000	santa clara	3
+melrose	300	alameda	1
+mendocino	4000	mendocino	2
+menlo park	385	san mateo	1
+merced	4969	merced	6
+meridian	199	sutter	2
+middletown 	327	lake	2
+midlake	n-a	lake	1
+mill valley	1000	marin	7
+milpitas	312	santa clara	1
+milton	408	calveras	1
+modesto	4500	stanislaus	10
+mojave	231	kern	1
+monrovia	1205	los angeles	9
+montague	250	siskiyou	1
+montecito	800	santa barbara	2
+monterey	1748	monterey	13
+morgan hill	100	santa clara	4
+morro	49	san luis obispo	1
+mountain view	921	santa clara	5
+mount bullion	600	mariposa	1
+murrietta	500	riverside	1
+napa	4036	napa	19
+national city	1086	san diego	7
+needles	1100	san bernadino	3
+nevada city	3250	nevada	5
+new castle	450	placer	1
+newman	621	stanislaus	4
+newport beach	250	orange	2
+nicolaus	309	sutter	1
+niles	300	alameda	2
+nordhoff	244	ventura	3
+north bloomfield	497	nevada	1
+north san juan	684	nevada	1
+norwalk	596	los angeles	2
+novato	200	marin	1
+oakdale	1012	stanislaus	3
+oakland	200000	alameda	253
+oak park 	600	sacramento	4
+occidental	516	sonoma	1
+oceano	40	san luis obispo	1
+ocean park 	2500	los angeles	8
+oceanside	330	san diego	3
+oleander	116	fresno	1
+ontario	722	san bernadino	12
+orange	1216	orange	5
+orland	440	glenn	3
+orosi	75	tulare	1
+oroville	2000	placer	11
+otay	112	san diego	1
+oxnard	1000	ventura	5
+pacific beach	1411	san diego	1
+pacific grove	1411	monterey	12
+palms	300	los angeles	2
+palm springs 	100	riverside	1
+palo alto	1658	santa clara	17
+paradise	1193	butte	3
+pasadena	9117	los angeles	100
+paso robles	1224	san luis obispo	4
+patton 	n-a	san bernadino	5
+parris	900	riverside	1
+pescadero	221	san mateo	2
+petaluma	3871	sonoma	17
+piedmont	n-a	alameda	
+pinole	600	contra costa	1
+pioneer	n-a	kern	1
+pittville	100	lassen	1
+placerville	1748	el dorado	5
+pleasanton	1100	alameda	3
+plymout	768	amador	1
+point arena	409	mendocino	1
+point loma	87	san diego	5
+point reyes	15	marin	1
+point richmond	3000	contra costa	7
+pomona	5526	los angeles	16
+pope valley	266	napa	1
+port costa	400	contra costa	1
+portersville	1000	tulare	8
+potrero	80	san diego	1
+potter valley	513	mendocino	2
+prattville	238	plumas	1
+pulga	n-a	butte	1
+quincy 	546	plumas	2
+ramona	183	san diego	1
+randolph	n-a	orange	1
+randsburg	800	kern	1
+raymond	323	madera	1
+red bluff 	2750	tehama	9
+redding	4500	shasta	14
+redlands	4797	san bernadino	24
+redondo beach	855	los angeles	4
+redwood city	1653	san mateo	5
+reedley	1000	fresno	4
+represa	30	sacramento	1
+rialto	300	san bernadino	2
+richmond	2500	contra costa	5
+rio vista	682	solano	3
+rivera	200	los angeles	1
+riverside	13978	riverside	32
+robinsons ferry	n-a	calveras	1
+rocklin	1050	placer	3
+rohnerville	516	humboldt	1
+roseville	345	placer	4
+ross	40	marin	1
+ross valley	n-a	marin	1
+sacramento	31600	sacramento	84
+st. helena	1582	napa	3
+salada beach 	25	san mateo	1
+salinas 	3304	monterey	10
+san andreas	750	calveras	1
+san anselmo	n-a	marin	2
+san bernadino	6150	san bernadino	28
+san diego	45000	san diego	87
+san dimas 	81	los angeles	1
+san fernando	700	los angeles	3
+san francisco	342782	san francisco	1014
+sanger	800	fresno	3
+sanitarium	600	napa	4
+san jacinto	1161	riverside	3
+san jose	24252	santa clara	87
+san juan bautista	449	san benito	1
+san leandro	2253	alameda	6
+san luis obispo	3021	san luis obispo	12
+san mateo	1832	san mateo	8
+san miguel	458	san luis obispo	4
+san pablo	367	contra costa	1
+san pedro	5000	los angeles	6
+san quentin	77	marin	1
+san rafael	3879	marin	11
+santa ana	8000	orange	24
+santa anita	100	los angeles	1
+santa barbara	11700	santa barbara	35
+santa clara	3650	santa clara	6
+santa cruz	10000	santa cruz	25
+santa maria	1433	5	
+santa monica	3057	los angeles	14
+santa paula	1047	ventura	3
+santa rosa	6673	sonoma	22
+santa ynez	250	santa barbara	2
+saratoga	429	1	
+saticoy	218	ventura	2
+sausalito	1628	marin	4
+sawtelle	30	los angeles	5
+scotia	454	humboldt	1
+seabright	n-a	santa cruz	2
+seaside 	21	monterey	1
+sebastopol	537	sonoma	6
+selma	1500	fresno	6
+shasta	150	shasta	1
+shaver	n-a	fresno	1
+sierra city	350	sierra	1
+sierra madre	149	los angeles	3
+sierraville	370	sierra	1
+sisson	556	siskiyou	1
+smartville	389	yuba	1
+smith river	683	del norte	2
+snelling 	318	merced	1
+soldiers home	2300	los angeles	4
+soledad	300	monterey	2
+sonoma	652	sonoma	4
+sonora	1922	tuolumne	6
+soquel	400	santa cruz	3
+south berkeley	n-a	alameda	7
+south pasadena	1001	los angeles	7
+south san francisco	680	san mateo	4
+spreckels	n-a	monterey	2
+standish	84	lassen	1
+stanford university	720	santa clara	4
+stirling city	600	butte	3
+stockton	25000	san joaquin	54
+stone canon	n-a	monterey	1
+stonyford	221	colusa	1
+sugar pine	57	madera	1
+suisun city	625	solano	3
+summerland	250	santa barbara	1
+sunnyvale	1300	santa clara	3
+susanville	950	lassen	4
+sutter	237	sutter	1
+sutter creek 	1500	amador	1
+talmage	27	mendocino	3
+tehachapi	600	kern	1
+tehama	546	tehama	1
+templeton	208	san luis obispo	1
+thalheim	n-a	stanislaus	1
+thermalito	73	butte	1
+toluca	50	los angeles	1
+tomales	425	marin	1
+tracy	800	san joaquin	3
+tropico	600	los angeles	2
+truckee	350	nevada	4
+tulare	2216	tulare	6
+tuolumne	1200	tuolumne	4
+turlock	1500	stanislaus	4
+ukiah	1850	mendocino	11
+upland	900	san bernadino	2
+upper lake	296	lake	2
+vacaville	1220	solano	5
+vallejo	7965	solano	14
+venice	1000	los angeles	1
+ventura	2470	ventura	4
+veterans' home	900	napa	3
+vina	232	tehama	1
+visalia	3085	tulare	12
+vista grande	50	san mateo	1
+volcano	458	amador	2
+walnut grove	100	sacramento	1
+wasco	n-a	kern	1
+waterford	137	stanislaus	1
+watsonville	3528	santa cruz	14
+weaverville	913	trinity	1
+weed	500	siskiyou	2
+wendling	n-a	mendocino	1
+westminster	500	orange	1
+west point 	266	calveras	2
+westport	593	mendocino	3
+wheatland	501	yuba	4
+whittier	1590	los angeles	11
+williams	461	colusa	1
+willits	791	mendocino	6
+willow	1500	glenn	7
+wilmington	200	los angeles	1
+windsor	483	sonoma	1
+wineville	n-a	riverside	1
+winters	785	yolo	2
+winthrop	750	shasta	1
+witter	n-a	lake	1
+woodbridge	40	san joaquin	2
+woodland	2886	yolo	14
+woodside	205	san mateo	1
+wrights	289	santa clara	1
+yountville	307	1	
+yreka	1263	siskiyou	5
+yuba city	562	sutter	3
