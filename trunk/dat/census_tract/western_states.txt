@@ -1,0 +1,17 @@
+Washington		tr53
+Oregon			tr41
+California		tr06
+Nevada			tr32
+Idaho			tr16
+Utah			tr49
+Arizona			tr04
+Montana			tr30
+Wyoming			tr56
+Colorado		tr08
+New Mexico		tr35
+North Dakota	tr38
+South Dakota	tr46
+Nebraska		tr31
+Kansas			tr20
+Oklahoma		tr40
+Texas			tr48
