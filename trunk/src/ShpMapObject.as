@@ -49,7 +49,8 @@ package
     public var showMode:String = "population";
 	public var years:Array = new Array(1909, 1980, 2000, 2009);
     
-    private var border:Boolean;  
+    private var border:Boolean = false;  
+    private var western:Boolean = false;
     
     public function ShpMapObject(width:int, height:int, mapContainer:Sprite, progressBar:ProgressBar = null)
     {
@@ -184,7 +185,9 @@ package
       return num_physicians;
     }
     public function getPerCapita():String{
-      return per_capita_physicians;
+      var n:Number = Number(per_capita_physicians);
+      var t:Number = n * 1000.0;
+      return t.toString().substr(0, 6);
     }
     
     // THE ABOVE WERE FOR TOOLTIPS
@@ -233,6 +236,7 @@ package
     public function updateMapColor():void {
       for (var i:int = 0; i<4; i++) {
         mapArray[i].getBorder(border);
+        mapArray[i].getWestern(western);
         mapArray[i].updateMapColor(showMode);
       }
     }
@@ -313,6 +317,10 @@ package
     
     public function getBorder(inbool:Boolean):void{
       border = inbool;
+    }
+    
+    public function getWestern(inbool:Boolean):void{
+      western = inbool;
     }
   }
 }

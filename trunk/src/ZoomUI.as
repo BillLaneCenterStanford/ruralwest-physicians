@@ -58,7 +58,7 @@ package
       var ALPHA:Number = 0.4;
       var ALPHA_LIGHT:Number = 0.4;
       var drawX:Number = 728;
-      var drawY:Number = 120;
+      var drawY:Number = 130;
       var offset:Number = 34;
       var triW:Number = 30;      // width of triangles for arrows
       
